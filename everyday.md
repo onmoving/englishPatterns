@@ -16,20 +16,25 @@ anything
 
 ## Ep. 1274
 
+Iran is the world's last nation to bar women from soccer matches. Saudi Arabia recently began letting women see games.
+
+이란은 축구 경기장에 여성들의 입장을 금지한 마지막 국가로, 사우디아라비아는 최근 여성의 경기 관람을 허용한 바 있다.
+
+Iran is the world's last nation ...금지한나라 women ...~를못하도록 soccer matches. Saudi Arabia recently began ... ~하도록 시작했다 women ... ~가 볼 수 있도록 games.
+
+----------------------
+
+영작
+
 A growing number of women around the world are opting out of marriage altogether, focusing on their work.
 
 비혼을 선택하고 일에 집중하는 여성들이 전세계적으로 늘고 있다.
 
 * altogether: 완전히
 
-Iran is the world’s last nation to bar women from soccer matches. Saudi Arabia recently began letting women see games.
-
-이란은 축구 경기장에 여성들의 입장을 금지한 마지막 국가로, 사우디아라비아는 최근 여성의 경기 관람을 허용한 바 있다.
-
-
 A growing number of women around the world are ... ~로부터 선택하지 않다 marriage altogether, focusing on their work.
 
-Iran is the world’s last nation ...금지한나라 women ...~를못하도록 soccer matches. Saudi Arabia recently began ... 허락을 시작했다 women ... ~가 할수있도록 games.
+----------------------
 
 # 생활영어
 
@@ -128,7 +133,11 @@ You ...단지 ~할 필요가 있다 overcome that initial hurdle of hesitation.
 그러니 나가서 사람을 만나 보세요, 내 친구여. 누가 알아요, 여러분과 제가 실제로 만나게 될지도 몰라요. 
 
 ...
+
 -----------------
 
+# 어순 트레이닝
+
+## Ep. 1061
 
 
