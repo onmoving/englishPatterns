@@ -12,132 +12,191 @@ Yes
 fill
 anything
 
+# 왕초보 영어
+
+## Ep. 1010: 쇼핑: 이거 바꿔주실 잔돈 있나요? 
+
+## 2019. 10. 30 (수)
+
+A: Do you have ... for this? 
+      (이거 바꿔주실 잔돈 있나요?) 
+B: Sure. What do you ...? 
+   (그럼요. 뭐가 필요하시죠?) 
+A: I need 10 ....  
+      (1달러짜리 지폐 10장이 필요해요.) 
+B: I'll give you 10 singles and 2 ....
+   (1달러짜리 10장, 5달러짜리 2장 드릴게요.) 
+
+change
+need
+singles
+2 fives
+
+    Do you have change for $20?
+    Do you have change for this bill?
+
+    What do you want?
+    What do you expect?
+    What do you do? 집업이 뭐니?
+    What do you wan to know?
+
+    I need 3 singles.
+    We nned 20 singles.
+
+    I need a fork and a spoon.
+    I have a dog and a cat.
+    Jane lives in Korea and her boyfriend lives in Spain.
+
 # 영자신문
 
-## Ep. 1274
+## Ep. 1275
 
-Iran is the world's last nation to bar women from soccer matches. Saudi Arabia recently began letting women see games.
+## 2019. 10. 30 (수)
 
-이란은 축구 경기장에 여성들의 입장을 금지한 마지막 국가로, 사우디아라비아는 최근 여성의 경기 관람을 허용한 바 있다.
+Abiy Ahmed seemed to come out of nowhere, taking office in early 2018.
 
-Iran is the world's last nation ...금지한나라 women ...~를못하도록 soccer matches. Saudi Arabia recently began ... ~하도록 시작했다 women ... ~가 볼 수 있도록 games.
+아비 아머드 총리는 비주류에서 갑작스럽게 부상해 2018년 초 총리로 취임했다. 
 
-----------------------
+Abiy Ahmed seemed to ...갑자기 유명세를 타다/갑작스럽게 부상하다, ...취임하다 in early 2018.
 
-영작
+--- 
 
-A growing number of women around the world are opting out of marriage altogether, focusing on their work.
+### 영작
 
-비혼을 선택하고 일에 집중하는 여성들이 전세계적으로 늘고 있다.
+Prime Minister Abiy Ahmed has promised reconciliation and reform in a country that has long been oppressed.
 
-* altogether: 완전히
+아비 아머드 총리는 오랫동안 탄압을 받은 에티오피아에서 화해와 개혁을 약속했다.
 
-A growing number of women around the world are ... ~로부터 선택하지 않다 marriage altogether, focusing on their work.
+Prime Minister Abiy Ahmed ... and ... in a country that ...
 
-----------------------
+# 영어뉴스
+
+## Ep. 1062
+
+## 2019. 10. 30 (수)
+
+In September,/ the government started implementing restrictions on the purchase of US dollars,/ in an attempt to control a rapid loss of reserves/ and accelerating devaluation of the peso.
+
+In September,/ the government ...실시하기 시작했다 restrictions on the purchase of US dollars,/ ...를 하기위한 시도록 control ...한 빠른 손실을 외환보유액의/ and ...가속화하는 평가절하를 of the peso.
+
+In 2014,/ one of the hotel's heirs took responsibility of the facility/ and carried out a few renovations/ - not enough to restore it to its past splendor/ but just enough to allow it to be used for functions/ like weddings, art exhibitions and dog shows.
+
+In 2014,/ one of the hotel's ...상속인들 ...~의 책임을 떠맡다 the facility/ and ...수행,단행,실시했다 a few renovations/ - not enough to restore it to its past ...영광,화려함/ but just enough to allow it to be used for functions/ like weddings, art exhibitions and dog shows.
+
 
 # 생활영어
 
-## Ep. 749
+## Ep. 750
 
-### There are way more benefits to talking to strangers than downsides.
+## 2019. 10. 30 (수)
 
-I think most of us are really scared when it comes to striking up a conversation with a total stranger. 
-우리는 대부분, 전혀 모르는 사람과 이야기를 시작하는 것에 대해서 정말 무서워하는 것 같아요. 
+### Interactions with strangers vary among countries.
+낯선 사람과의 상호 작용은 나라마다 달라요.
 
-But sometimes even the shyest introvert has that secret wish to become more sociable and to meet new people. 
-그런데 가끔은 정말 수줍은 내성적인 사람도, 더 사교적이고 싶고 새로운 사람을 만나고 싶은 비밀스런 바람이 있어요. 
+Kayla / 미국 
+Speaking Summary 
 
-    sociable 사교적인 
+In some countries, people are really comfortable talking to strangers, and in some countries, they are not.
+어떤 나라들에서는 사람들이 낯선 사람과 정말 편하게 이야기하고, 다른 나라에서는 그렇지 않아요. 
 
-For those of you who might feel the same, I truly recommend meetups. 
-그렇게 느끼시는 분들을 위해서는 저는 모임을 강력히 추천해요. 
+Vocabulary Check
 
------------------
+    vary 다르다 
+    flirtatious 교태를 부리는, 시시덕거리는 
 
-When I was 19, I traveled to Seoul for the very first time all by myself.
-저는 19살 때 혼자서 처음으로 서울로 여행을 갔어요. 
+English On The Go
 
-Being new to the city, I really wanted to meet new people, so I attended a language-exchange meetup. 
-그 도시에 처음 가 봤기 때문에 저는 새로운 사람들을 정말 만나고 싶었고, 그래서 저는 언어 교환 모임에 참석했어요. 
+So talking to strangers is something that varies from culture to culture and country to country. 
+낯선 사람과 이야기하는 것은 문화에 따라, 나라에 따라 서로 달라요. 
 
-And before I knew it, I had found some awesome new friends. 
-그리고 어느새 저는 멋진 새로운 친구들을 찾게 되었어요. 
+    vary 다르다 
 
------------------
+It's really interesting 'cause I never thought of it as a cultural difference until now, but it's true. 
+정말 흥미로운데, 전에는 한 번도 그걸 문화적인 차이로 생각해 본 적이 없는데, 실제로 그렇거든요. 
 
-Sometimes strangers might seem very unapproachable and you might question their intentions, 
-가끔은 낯선 사람들이 말 붙이기 어려워 보일 수도 있고 그들의 의도를 의심할 수도 있지만,
+It's actually quite different. 
+사실 차이가 꽤 커요. 
 
-    unapproachable 접근하기 어려운, 말 붙이기 어려운 
-    intention 의도, 목적 
+----------------
+When I compare my time in America to my time in Russia to my time in Korea, 
+제가 미국에서 보냈던 시간, 러시아에서 보낸 시간, 그리고 한국에서 보낸 시간을 비교해 보면 
 
-but you should also keep in mind that you are a stranger to someone as well, 
-그렇지만 다른 사람들에게 여러분도 낯선 사람이라는 걸 기억해야 해요. 
+they have very different ways of interacting with strangers. 
+낯선 사람들과 상호 작용하는 방법이 아주 달라요. 
 
------------------
+----------------
+In America, it's totally normal where if you're sitting on the bus or a cafe or even at a bar 
+미국에서는 버스나 카페나 바에서 앉아 있는데 ~하는 게 아주 정상이에요. 
 
-and you're a nice person, aren't you? 
-그리고 여러분은 좋은 사람이잖아요? 
+for someone to come up and start talking to you. 
+누군가가 다가와서 말을 거는 게 말이에요. 
 
-You just need to overcome that initial hurdle of hesitation. 
-처음에 느껴지는 망설임이라는 장애물만 극복하면 돼요. 
+----------------
+They might say something like, "Oh, I love your bag. Where'd you get it?" 
+이렇게 말을 할 수도 있어요. "가방 너무 예쁘네요. 어디에서 사셨어요?" 
 
-    hurdle 장애물 
-    hesitation 망설임 
+Or "Oh my gosh, your dog is so cute. Can I touch it?" 
+아니면 "강아지가 너무 귀여워요. 만져 봐도 되나요?" 
 
------------------
+Or, you know, even if they just want to kind of buy you a drink at a bar in a flirtatious way, it's not considered weird. 
+아니면, 심지어 바에서 술을 한 잔 사 주면서 관심을 보이더라도, 이상하다고 여겨지지는 않아요. 
 
-And some people even say that there are no strangers but only friends you haven't met yet. 
-그리고 어떤 사람들은 낯선 사람은 없고 아직 만나지 않은 친구만 있을 뿐이라고 말하기도 해요. 
+    flirtatious 교태를 부리는, 시시덕거리는 
 
-So get out there, my friend. Who knows, we might even meet in real life.
-그러니 나가서 사람을 만나 보세요. 여러분과 제가 실제로 만나게 될지도 몰라요. 
+----------------
+But when I lived in both Russia and currently in Korea, 
+그런데 러시아에 살았을 때도, 지금 한국에서도, 
 
------------------
+we tend to meet people more through friends, a person you trust. 
+우리는 사람들을 친구를 통해서, 신뢰하는 사람을 통해서 만나는 편이에요. 
 
-### There are ... 훨씬 더 benefits ... ~와 말하는 것에 달려있는 장점들 strangers ... downsides.
+----------------
+And that way you can comfortably get to know the person and they're not a complete stranger. 
+그리고 그렇게 하면 그 사람을 편안하게 알아갈 수 있고, 완전히 낯선 사람도 아니죠. 
 
-I think most of us ... 정말 무서워하다 when it comes to ... 대화를 시작하다 a conversation with a total stranger. 
+So I think it's interesting how meeting strangers and talking with them varies from each country.
+그래서 낯선 사람을 만나고 이야기를 나누는 게 나라마다 다른 게 흥미로운 것 같아요. 
 
-But sometimes even the shyest introvert ... that secret wish ... become more sociable and ... meet new people. 
+----------------
+### Interactions with strangers ... 나라들사이에서 다양하다 countries.
 
-For those of you who ... 느낄지도 모르는 the same, I truly recommend meetups. 
+So talking to strangers ...어떤 것이다 varies from culture to culture and country to country. 
 
------------------
+It's ...실제적으로 꽤 달라요 
 
-When I was 19, I traveled ... Seoul for the very first time ... 나혼자서 myself.
+----------------
+So I think it's interesting ...~를만나를 방법 strangers and ...~과 얘기하다 them ...각나라마다 다르다 each country.
 
-... new to the city, I ... 정말 만나길 원했다 new people, so I ... 참석했다 a language-exchange meetup. 
+----------------
+Pattern Practice 
 
-And ...나도 모르게/어느새, I ... some awesome new friends. 
+vary from ~ to ~
+~에 따라 다르다
 
------------------
+1. His work hours varied from week to week.
+그의 업무 시간은 주마다 달랐어요. 
 
-Sometimes strangers ... ~해 모일지도 모른다 very unapproachable and you ... 의문스러울지도 모른다 their intentions, 
+2. The weather varies from season to season.
+날씨는 계절마다 달라요. 
 
-but you ... 또한 ~라는 것을 염두/기억해야 한다 that you are a stranger ... someone as well, 
+think of ~ as a ~
+~를 ~로 생각하다
 
------------------
+1. I just think of him as a friend.
+저는 그를 그냥 친구로 생각해요. 
 
-and you'... a nice person, aren't you? 
+2. He thought of the book as a gift.
+그는 그 책을 선물로 생각했어요. 
 
-You ...단지 ~할 필요가 있다 overcome that initial hurdle of hesitation. 
+알쏭달쏭 한마디 
 
------------------
+친구가 우리 둘을 소개해 줬어요. 
 
-그리고 어떤 사람들은 낯선 사람은 없고 아직 만나지 않은 친구만 있을 뿐이라고 말하기도 해요. 
-
-...
-
-그러니 나가서 사람을 만나 보세요, 내 친구여. 누가 알아요, 여러분과 제가 실제로 만나게 될지도 몰라요. 
-
-...
-
------------------
+We were introduced by a mutual friend.
 
 # 어순 트레이닝
 
-## Ep. 1061
+## Ep. 1062
 
+## 2019. 10. 30 (수)
 
