@@ -168,3 +168,76 @@ We must set aside our differences and make a concerted effort to deal with this 
 우리는 서로간 이견은 한쪽으로 밀어두고 이 문제 해결을 위해 협력해야 한다.
 
 We must ... our differences and ... to deal with this issue.
+
+# 영어뉴스
+## Ep. 1064
+## 2019. 11. 1 (금)
+
+After a five-set final/ that lasted nearly five hours,/ it was Rafael Nadal who emerged triumphant over Daniil Medvedev.
+
+The win marked the Spaniard's 19th Grand Slam title,/ leaving him just one short of Roger Federer's record.
+
+약 5시간이 지속된 5세트 파이널 경기가 끝나고 라파엘 나달이 다닐 메드베테프를 제치고 승리했습니다.
+
+이번 우승은 스페인 출신 선수의 19번째 그랜드슬램 타이틀로 로저 페데러의 최다 우승 기록까지 하나 남았습니다.
+
+After a five-set final/ that ...거의 다섯 시간이 지속된 five hours,/ it was Rafael Nadal who ... ~를 제치고 승리한 Daniil Medvedev.
+
+The win ...기록해ㅆ다 the Spaniard's 19th Grand Slam title,/ ... 그에게 남기다 just ... 한경기  of Roger Federer's record.
+
+# 생활영어
+## Ep. 752
+## 2019. 11. 1 (금)
+
+People tend to get annoyed at each other a lot, and there's always this tension in the carriages. 
+사람들은 서로에게 짜증도 많이 내는 편이고, 열차 안에 항상 긴장감이 감돌아요.
+
+Even saying sorry for stepping on someone's foot can be a great conversation starter. 
+누군가의 발을 밟았을 때 미안하다고 하는 것만으로도 좋은 대화의 시작이 될 수 있어요. 
+
+---
+
+People ... ~하게 되는 편이다 짜증내는 ~서로에게 each other a lot, and there's always this tension in the carriages. 
+
+... 말하는 것 조차 sorry for stepping on someone's foot ...~가 될 수 있어요 a great conversation starter. 
+
+### pattern
+
+tend to get ~
+~하게 되는 편이다
+
+1. I tend to get distracted easily.
+
+2. They tend to get nervous before an exam.
+
+Even -ing can be ~
+
+1. Even studying can be a hobby.
+
+2. Even getting water can be a nice break.
+
+---
+
+저는 쉽게 주의가 산만해지는 편이에요.
+
+그들은 시험을 앞두고 긴장하는 편이에요. 
+
+공부하는 것조차도 취미가 될 수 있어요.
+
+물 마시러 가는 것조차도 좋은 휴식이 될 수 있어요. 
+
+1. I ... easily.
+
+2. They ... before an exam.
+
+1. ... a hobby.
+
+2. ... water ... a nice break.
+
+### 알쏭달쏭 한마디 
+
+Let's first see how he reacts to it. 
+
+일단 그 사람이 어떻게 나오는지 보죠.
+
+Let's first ... how he ... it. 
