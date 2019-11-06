@@ -1,202 +1,166 @@
 # 왕초보 영어
 
-## Ep. 1009
+## Ep. 1011: 어떤 종류의 전화기를 가지고 계시죠?
 
-A: Have you been here ...? 
-B: ..., I have.  
-B: Do I have to ... out anything? 
-A: No, you don't have ... to fill out. 
+## 2019. 10. 31 (목)
 
-before
-Yes
-fill
-anything
+A: Do you possibly have a phone ...? 
+      (혹시 전화 충전기 있나요?) 
+B: What kind of ... do you have?   
+   (어떤 종류의 전화기를 가지고 계시죠?)  
+A: ... is a MayuPhone 10. 
+      (제 거는 MayuPhone 10이에요.) 
+B: I'm sure we have ... for it.  
+   (그 모델용 충전기 분명히 있을 거예요.) 
+
+charger
+phone
+Mine
+one
+
+    Do you possibly know me?
+    Do you possibly work here?
+
+    What kind of man do you like?
+    What kind of person are you?
+
+    I am a career woman.
+    We are husband and wife. 우리는 부부야
+
+    I'm sure he loves her.
+    I'm sure you know my sister.
+    I'm sure you will like it.
+
+# 영어뉴스
+
+## Ep. 1063
+
+## 2019. 10. 31 (목)
+
+A group of protesters,/ from all faiths and backgrounds,/ voiced their opposition to the ban,/ saying it goes against equal rights. One person said it infringes upon everyone's rights to go into certain professions/ as well as their freedom to identify themselves the way they want to.
+
+모든 종교와 배경의 시위 단체는 평등권에 반한다며 금지안에 대한 반대 의견을 말했습니다. 한 시위자는 모든이들의 특정 직업에 종사하는 것과 자신들이 원하는 대로 자신을 표현하는 자유를 침해하는 것이라고 말했습니다.
+
+A group of protesters,/ from all faiths and backgrounds,/ ...목소리를 내다 their opposition to the ban,/ saying ... 평등권에 반한다고. One person said it ... ~를 침해한다 everyone's rights ...~에 종사하다,~로진입하다 ... 특정 professions/ as well as their freedom ... ~자신을 표현할, 확인할 ...그들이 원하는 대로.
+
+# 생활영어
+
+## Ep. 751
+
+## 2019. 10. 31 (목)
+
+Not all strangers are strange, and avoiding all strangers might not be the most solid advice.
+
+모든 낯선 사람들이 이상한 건 아니고, 모든 낯선 사람들을 피하는 게 가장 좋은 조언이 아닐 수도 있습니다. 
+
+Everyone probably remembers as a kid being told not to talk to strangers. 
+모두 아마 어렸을 때 낯선 사람과 이야기하지 말라는 말을 들었던 기억이 있을 거예요. 
+
+Well, kids shouldn't follow around random people anywhere. 
+아이들은 아무나 그냥 여기저기 따라가면 안 돼요. 
+
+---
+
+Not all strangers ... strange, and ... all strangers ... 아닐 수도 있다 the most solid advice.
+
+Everyone probably ... as a kid ...들었던 ...~와 이야기하지 말라고 strangers. 
+
+Well, kids ...여기저기 따라가면 안 됀다 random people ...어디든 
+
+# 어순트레이닝
+
+## Ep. 1063: 부탁할 때
+
+## 2019. 10. 31 (목)
+
+do A a favor: A에게 호의를 배풀다
+ask A for a favor: A에게 호의를 요청하다
+
+Can you do me a favor?
+제게 도움을 해 주실수 있나요?
+부탁 좀 해도 될까요?
+
+I need a favor?
+저는 도움이 필요해요
+
+I came here to ask you for a favor.
+제가 여기 왔어요
+당신에게 부탁을 요청하려고.
+
+I owe you a big favor.
+제가 당신에게 졌네요
+큰 신세를
+
+I'll return the favor.
+제가 갚겠습니다
+신세 진 것을.
+
+A: Can I ask you for a favor?
+B: Sure, how can I help you?
+A: I'm not too familiar with Excel.
+B: Sure, let me take a look.
 
 # 왕초보 영어
 
-## Ep. 1010: 쇼핑: 이거 바꿔주실 잔돈 있나요? 
+## Ep. 1012: 여행: 도와주세요
 
-## 2019. 10. 30 (수)
+## 2019. 11. 1 (금)
 
-A: Do you have ... for this? 
-      (이거 바꿔주실 잔돈 있나요?) 
-B: Sure. What do you ...? 
-   (그럼요. 뭐가 필요하시죠?) 
-A: I need 10 ....  
-      (1달러짜리 지폐 10장이 필요해요.) 
-B: I'll give you 10 singles and 2 ....
-   (1달러짜리 10장, 5달러짜리 2장 드릴게요.) 
+A: I can't find my ... . Please help. 
+      (제 딸을 찾을 수가 없어요. 도와주세요.) 
+B: Do you have a ... of her?  
+   (따님의 사진을 가지고 있나요?) 
+ A: Here's her photo and her ... is Juliet.  
+      (여기 사진이 있고요 이름은 Juliet이에요.) 
+B: OK. Let me ... an announcement. 
+   (알겠습니다. 방송을 해볼게요.) 
 
-change
-need
-singles
-2 fives
+daughter
+photo
+name
+make
 
-    Do you have change for $20?
-    Do you have change for this bill?
+I can't find my credit card.
+I can't pay now.
 
-    What do you want?
-    What do you expect?
-    What do you do? 집업이 뭐니?
-    What do you wan to know?
+a photo of my baby
+the name of my company
+I have a photo of my son.
 
-    I need 3 singles.
-    We nned 20 singles.
+last name: 성
+first name: 성을 뺀 이름
 
-    I need a fork and a spoon.
-    I have a dog and a cat.
-    Jane lives in Korea and her boyfriend lives in Spain.
+Her name is Woonjin Choi.
+His name is Peter Bint
+
+We have an announcement to make.
+저희 알릴 소식이 있어요.
+
+Let me ask you something.
+Let me try again.
+
+Do you have a photo of your dog?
 
 # 영자신문
 
-## Ep. 1275
+Yet the grievances that led them to impose tariffs on hundreds of billions of dollars of each other's goods remain largely unresolved.
 
-## 2019. 10. 30 (수)
+The news followed two days of talks between the two countries' delegations in Washington.
 
-Abiy Ahmed seemed to come out of nowhere, taking office in early 2018.
+그러나 수천 억 달러에 달하는 서로의 수입품에 관세를 부과하기까지 상황을 악화시킨 문제들은 아직도 대부분 해결되지 않은 채 남아 있다.
 
-아비 아머드 총리는 비주류에서 갑작스럽게 부상해 2018년 초 총리로 취임했다. 
+이번 휴전 소식은 워싱턴에게 열린 두 나라 대표단의 이틀에 걸친 협상 이후 발표되었다.
 
-Abiy Ahmed seemed to ...갑자기 유명세를 타다/갑작스럽게 부상하다, ...취임하다 in early 2018.
+Yet ...불만들,고충들,문제들 that ...그들로 하여금 부과하도록 이끌었다 tariffs ... hundreds of billions of dollars of each other's goods ... 남아있다 대부분 해결되지 않은 채.
+
+The news ...이틀뒤에 나왔다 two days of talks between the two countries' ...대표단 in Washington.
 
 --- 
 
 ### 영작
 
-Prime Minister Abiy Ahmed has promised reconciliation and reform in a country that has long been oppressed.
+We must set aside our differences and make a concerted effort to deal with this issue.
 
-아비 아머드 총리는 오랫동안 탄압을 받은 에티오피아에서 화해와 개혁을 약속했다.
+우리는 서로간 이견은 한쪽으로 밀어두고 이 문제 해결을 위해 협력해야 한다.
 
-Prime Minister Abiy Ahmed ... and ... in a country that ...
-
-# 영어뉴스
-
-## Ep. 1062
-
-## 2019. 10. 30 (수)
-
-In September,/ the government started implementing restrictions on the purchase of US dollars,/ in an attempt to control a rapid loss of reserves/ and accelerating devaluation of the peso.
-
-In September,/ the government ...실시하기 시작했다 restrictions on the purchase of US dollars,/ ...를 하기위한 시도록 control ...한 빠른 손실을 외환보유액의/ and ...가속화하는 평가절하를 of the peso.
-
-In 2014,/ one of the hotel's heirs took responsibility of the facility/ and carried out a few renovations/ - not enough to restore it to its past splendor/ but just enough to allow it to be used for functions/ like weddings, art exhibitions and dog shows.
-
-In 2014,/ one of the hotel's ...상속인들 ...~의 책임을 떠맡다 the facility/ and ...수행,단행,실시했다 a few renovations/ - not enough to restore it to its past ...영광,화려함/ but just enough to allow it to be used for functions/ like weddings, art exhibitions and dog shows.
-
-
-# 생활영어
-
-## Ep. 750
-
-## 2019. 10. 30 (수)
-
-### Interactions with strangers vary among countries.
-낯선 사람과의 상호 작용은 나라마다 달라요.
-
-Kayla / 미국 
-Speaking Summary 
-
-In some countries, people are really comfortable talking to strangers, and in some countries, they are not.
-어떤 나라들에서는 사람들이 낯선 사람과 정말 편하게 이야기하고, 다른 나라에서는 그렇지 않아요. 
-
-Vocabulary Check
-
-    vary 다르다 
-    flirtatious 교태를 부리는, 시시덕거리는 
-
-English On The Go
-
-So talking to strangers is something that varies from culture to culture and country to country. 
-낯선 사람과 이야기하는 것은 문화에 따라, 나라에 따라 서로 달라요. 
-
-    vary 다르다 
-
-It's really interesting 'cause I never thought of it as a cultural difference until now, but it's true. 
-정말 흥미로운데, 전에는 한 번도 그걸 문화적인 차이로 생각해 본 적이 없는데, 실제로 그렇거든요. 
-
-It's actually quite different. 
-사실 차이가 꽤 커요. 
-
-----------------
-When I compare my time in America to my time in Russia to my time in Korea, 
-제가 미국에서 보냈던 시간, 러시아에서 보낸 시간, 그리고 한국에서 보낸 시간을 비교해 보면 
-
-they have very different ways of interacting with strangers. 
-낯선 사람들과 상호 작용하는 방법이 아주 달라요. 
-
-----------------
-In America, it's totally normal where if you're sitting on the bus or a cafe or even at a bar 
-미국에서는 버스나 카페나 바에서 앉아 있는데 ~하는 게 아주 정상이에요. 
-
-for someone to come up and start talking to you. 
-누군가가 다가와서 말을 거는 게 말이에요. 
-
-----------------
-They might say something like, "Oh, I love your bag. Where'd you get it?" 
-이렇게 말을 할 수도 있어요. "가방 너무 예쁘네요. 어디에서 사셨어요?" 
-
-Or "Oh my gosh, your dog is so cute. Can I touch it?" 
-아니면 "강아지가 너무 귀여워요. 만져 봐도 되나요?" 
-
-Or, you know, even if they just want to kind of buy you a drink at a bar in a flirtatious way, it's not considered weird. 
-아니면, 심지어 바에서 술을 한 잔 사 주면서 관심을 보이더라도, 이상하다고 여겨지지는 않아요. 
-
-    flirtatious 교태를 부리는, 시시덕거리는 
-
-----------------
-But when I lived in both Russia and currently in Korea, 
-그런데 러시아에 살았을 때도, 지금 한국에서도, 
-
-we tend to meet people more through friends, a person you trust. 
-우리는 사람들을 친구를 통해서, 신뢰하는 사람을 통해서 만나는 편이에요. 
-
-----------------
-And that way you can comfortably get to know the person and they're not a complete stranger. 
-그리고 그렇게 하면 그 사람을 편안하게 알아갈 수 있고, 완전히 낯선 사람도 아니죠. 
-
-So I think it's interesting how meeting strangers and talking with them varies from each country.
-그래서 낯선 사람을 만나고 이야기를 나누는 게 나라마다 다른 게 흥미로운 것 같아요. 
-
-----------------
-### Interactions with strangers ... 나라들사이에서 다양하다 countries.
-
-So talking to strangers ...어떤 것이다 varies from culture to culture and country to country. 
-
-It's ...실제적으로 꽤 달라요 
-
-----------------
-So I think it's interesting ...~를만나를 방법 strangers and ...~과 얘기하다 them ...각나라마다 다르다 each country.
-
-----------------
-Pattern Practice 
-
-vary from ~ to ~
-~에 따라 다르다
-
-1. His work hours varied from week to week.
-그의 업무 시간은 주마다 달랐어요. 
-
-2. The weather varies from season to season.
-날씨는 계절마다 달라요. 
-
-think of ~ as a ~
-~를 ~로 생각하다
-
-1. I just think of him as a friend.
-저는 그를 그냥 친구로 생각해요. 
-
-2. He thought of the book as a gift.
-그는 그 책을 선물로 생각했어요. 
-
-알쏭달쏭 한마디 
-
-친구가 우리 둘을 소개해 줬어요. 
-
-We were introduced by a mutual friend.
-
-# 어순 트레이닝
-
-## Ep. 1062
-
-## 2019. 10. 30 (수)
-
+We must ... our differences and ... to deal with this issue.
