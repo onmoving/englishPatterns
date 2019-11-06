@@ -143,6 +143,10 @@ Do you have a photo of your dog?
 
 # 영자신문
 
+## Ep. 1277: 여행: 도와주세요
+
+## 2019. 11. 1 (금)
+
 Yet the grievances that led them to impose tariffs on hundreds of billions of dollars of each other's goods remain largely unresolved.
 
 The news followed two days of talks between the two countries' delegations in Washington.
