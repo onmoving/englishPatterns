@@ -43,39 +43,6 @@ A group of protesters,/ from all faiths and backgrounds,/ voiced their oppositio
 
 A group of protesters,/ from all faiths and backgrounds,/ ...목소리를 내다 their opposition to the ban,/ saying ... 평등권에 반한다고. One person said it ... ~를 침해한다 everyone's rights ...~에 종사하다,~로진입하다 ... 특정 professions/ as well as their freedom ... ~자신을 표현할, 확인할 ...그들이 원하는 대로.
 
-# 어순트레이닝
-
-## Ep. 1063: 부탁할 때
-
-## 2019. 10. 31 (목)
-
-do A a favor: A에게 호의를 배풀다
-ask A for a favor: A에게 호의를 요청하다
-
-Can you do me a favor?
-제게 도움을 해 주실수 있나요?
-부탁 좀 해도 될까요?
-
-I need a favor?
-저는 도움이 필요해요
-
-I came here to ask you for a favor.
-제가 여기 왔어요
-당신에게 부탁을 요청하려고.
-
-I owe you a big favor.
-제가 당신에게 졌네요
-큰 신세를
-
-I'll return the favor.
-제가 갚겠습니다
-신세 진 것을.
-
-A: Can I ask you for a favor?
-B: Sure, how can I help you?
-A: I'm not too familiar with Excel.
-B: Sure, let me take a look.
-
 # 왕초보 영어
 
 ## Ep. 1012: 여행: 도와주세요
@@ -217,3 +184,42 @@ Let's first see how he reacts to it.
 일단 그 사람이 어떻게 나오는지 보죠.
 
 Let's first ... how he ... it. 
+
+# 어순트레이닝
+## Ep. 1064: 역할 분담
+## 2019. 11. 1 (금)
+
+divide up 업무
+divide A up
+
+우리 ~를 합시다 나누는 것 일을
+
+Let's divide up the work.
+
+= Let's divide the work up.
+
+어떻게 할까요? 나누는 걸 역할을
+
+How do we divide up the roles?
+
+업무는 이미 되었습니다 나눠지는 걸.
+
+The tasks were already divided up.
+
+회사는 나눴습니다 보너스를 모든 직원들에게
+
+The company divided the bonus up among(혹은 between) all employees.
+
+우리 하는 게 어때요? 나누는 걸 일을 좀 더 작은 업무로
+
+How about we divide up the work into smaller tasks.
+
+### 상황극
+
+A: This looks like a lot of work for one person.
+
+B: Don't worry, we'll divide it up.
+
+A: Is the whole team working on it?
+
+B: Yeah, I'm going to divide it up evenly among us.
