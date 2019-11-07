@@ -43,47 +43,6 @@ A group of protesters,/ from all faiths and backgrounds,/ voiced their oppositio
 
 A group of protesters,/ from all faiths and backgrounds,/ ...목소리를 내다 their opposition to the ban,/ saying ... 평등권에 반한다고. One person said it ... ~를 침해한다 everyone's rights ...~에 종사하다,~로진입하다 ... 특정 professions/ as well as their freedom ... ~자신을 표현할, 확인할 ...그들이 원하는 대로.
 
-# 왕초보 영어
-
-## Ep. 1012: 여행: 도와주세요
-
-## 2019. 11. 1 (금)
-
-A: I can't find my ... . Please help. 
-      (제 딸을 찾을 수가 없어요. 도와주세요.) 
-B: Do you have a ... of her?  
-   (따님의 사진을 가지고 있나요?) 
- A: Here's her photo and her ... is Juliet.  
-      (여기 사진이 있고요 이름은 Juliet이에요.) 
-B: OK. Let me ... an announcement. 
-   (알겠습니다. 방송을 해볼게요.) 
-
-daughter
-photo
-name
-make
-
-I can't find my credit card.
-I can't pay now.
-
-a photo of my baby
-the name of my company
-I have a photo of my son.
-
-last name: 성
-first name: 성을 뺀 이름
-
-Her name is Woonjin Choi.
-His name is Peter Bint
-
-We have an announcement to make.
-저희 알릴 소식이 있어요.
-
-Let me ask you something.
-Let me try again.
-
-Do you have a photo of your dog?
-
 # 영자신문
 
 ## Ep. 1277: 여행: 도와주세요
@@ -223,3 +182,57 @@ B: Don't worry, we'll divide it up.
 A: Is the whole team working on it?
 
 B: Yeah, I'm going to divide it up evenly among us.
+
+# 왕초보 영어
+## Ep. 1013: 너 누나랑 화해했니?
+## 2019. 11. 4 (월)
+
+      퀴즈: Do you have a photo of your dog?
+
+      A: Did you make up with your ...? 
+            (너 누나랑 화해했니?)
+      B: I don't want to ... first. 
+      (저 먼저 사과하기 싫어요.) 
+      A:  ... not?  
+            (왜 싫은데?)
+      B: She made fun of me  ...!  
+      (누나가 절 먼저 놀렸단 말이에요!) 
+
+      sister
+      apologize
+      Why
+      first
+
+      make up: 만회하다
+      make up test: 만회 시다
+
+      I made up with my brother.
+      Why don't you make up with your girlfriend?
+
+      암기추천
+      Let me make it up to you.
+      내가 잘 할께.
+
+      We don't want to go to bed.
+      Lisa doesn't want to study Math.
+
+      I said it first!
+      Don't call him first.
+
+      I don't want to eat./ Why not?
+      I can't come./ Why not?
+
+      Don't make fun of Nancy.
+      They made fun of my name.
+      Are you making fun of me?
+
+      make fun of (기분 나쁘게 놀리는 것) vs tease (약하게 놀리는 것)
+
+      You look prettier.
+      Are you teasing me?
+
+      teaser 영상: 놀리는 영상
+
+# 영자신문
+## Ep. 1278
+## 2019. 11. 4 (월)
