@@ -43,30 +43,6 @@ A group of protesters,/ from all faiths and backgrounds,/ voiced their oppositio
 
 A group of protesters,/ from all faiths and backgrounds,/ ...목소리를 내다 their opposition to the ban,/ saying ... 평등권에 반한다고. One person said it ... ~를 침해한다 everyone's rights ...~에 종사하다,~로진입하다 ... 특정 professions/ as well as their freedom ... ~자신을 표현할, 확인할 ...그들이 원하는 대로.
 
-# 생활영어
-
-## Ep. 751
-
-## 2019. 10. 31 (목)
-
-Not all strangers are strange, and avoiding all strangers might not be the most solid advice.
-
-모든 낯선 사람들이 이상한 건 아니고, 모든 낯선 사람들을 피하는 게 가장 좋은 조언이 아닐 수도 있습니다. 
-
-Everyone probably remembers as a kid being told not to talk to strangers. 
-모두 아마 어렸을 때 낯선 사람과 이야기하지 말라는 말을 들었던 기억이 있을 거예요. 
-
-Well, kids shouldn't follow around random people anywhere. 
-아이들은 아무나 그냥 여기저기 따라가면 안 돼요. 
-
----
-
-Not all strangers ... strange, and ... all strangers ... 아닐 수도 있다 the most solid advice.
-
-Everyone probably ... as a kid ...들었던 ...~와 이야기하지 말라고 strangers. 
-
-Well, kids ...여기저기 따라가면 안 됀다 random people ...어디든 
-
 # 어순트레이닝
 
 ## Ep. 1063: 부탁할 때
