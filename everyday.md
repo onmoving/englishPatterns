@@ -229,3 +229,8 @@ The central bank's interest rate policy ...에 직접적인 영향을 미친다 
 ## Ep. 1065
 ## 2019. 11. 4 (월)
 
+Private companies helped to deliver aid to the Abaco Islands/ after Hurricane Dorian tore into the Bahamas/ with winds of up to 300 kilometers an hour,/ leaving a scene of complete and utter devastation.
+
+허리케인 도리안이 최고 시속 300km의 강풍으로 바하마를 강타해 완벽한 폐허의 현장을 남긴 후 민간 기업들은 아바코섬에 구호품 수송을 지원했습니다.
+
+Private companies ...구호품 수송을 지원했다 aid ... the Abaco Islands/ after Hurricane Dorian ...맹렬히 공격했다 the Bahamas/ ... winds of up to 300 kilometers an hour,/ ...남기면서 a scene of ...완벽한 폐허의.
