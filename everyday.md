@@ -29,32 +29,6 @@ one
     I'm sure you know my sister.
     I'm sure you will like it.
 
-# 영어뉴스
-## Ep. 1063
-## 2019. 10. 31 (목)
-
-A group of protesters,/ from all faiths and backgrounds,/ voiced their opposition to the ban,/ saying it goes against equal rights. One person said it infringes upon everyone's rights to go into certain professions/ as well as their freedom to identify themselves the way they want to.
-
-모든 종교와 배경의 시위 단체는 평등권에 반한다며 금지안에 대한 반대 의견을 말했습니다. 한 시위자는 모든이들의 특정 직업에 종사하는 것과 자신들이 원하는 대로 자신을 표현하는 자유를 침해하는 것이라고 말했습니다.
-
-A group of protesters,/ from all faiths and backgrounds,/ ...목소리를 내다 their opposition to the ban,/ saying ... 평등권에 반한다고. One person said it ... ~를 침해한다 everyone's rights ...~에 종사하다,~로진입하다 ... 특정 professions/ as well as their freedom ... ~자신을 표현할, 확인할 ...그들이 원하는 대로.
-
-# 영어뉴스
-## Ep. 1064
-## 2019. 11. 1 (금)
-
-After a five-set final/ that lasted nearly five hours,/ it was Rafael Nadal who emerged triumphant over Daniil Medvedev.
-
-The win marked the Spaniard's 19th Grand Slam title,/ leaving him just one short of Roger Federer's record.
-
-약 5시간이 지속된 5세트 파이널 경기가 끝나고 라파엘 나달이 다닐 메드베테프를 제치고 승리했습니다.
-
-이번 우승은 스페인 출신 선수의 19번째 그랜드슬램 타이틀로 로저 페데러의 최다 우승 기록까지 하나 남았습니다.
-
-After a five-set final/ that ...거의 다섯 시간이 지속된 five hours,/ it was Rafael Nadal who ... ~를 제치고 승리한 Daniil Medvedev.
-
-The win ...기록해ㅆ다 the Spaniard's 19th Grand Slam title,/ ... 그에게 남기다 just ... 한경기  of Roger Federer's record.
-
 # 생활영어
 ## Ep. 752
 ## 2019. 11. 1 (금)
