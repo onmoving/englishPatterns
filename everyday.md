@@ -1,7 +1,5 @@
 # 왕초보 영어
-
 ## Ep. 1011: 어떤 종류의 전화기를 가지고 계시죠?
-
 ## 2019. 10. 31 (목)
 
 A: Do you possibly have a phone ...? 
@@ -32,9 +30,7 @@ one
     I'm sure you will like it.
 
 # 영어뉴스
-
 ## Ep. 1063
-
 ## 2019. 10. 31 (목)
 
 A group of protesters,/ from all faiths and backgrounds,/ voiced their opposition to the ban,/ saying it goes against equal rights. One person said it infringes upon everyone's rights to go into certain professions/ as well as their freedom to identify themselves the way they want to.
@@ -42,34 +38,6 @@ A group of protesters,/ from all faiths and backgrounds,/ voiced their oppositio
 모든 종교와 배경의 시위 단체는 평등권에 반한다며 금지안에 대한 반대 의견을 말했습니다. 한 시위자는 모든이들의 특정 직업에 종사하는 것과 자신들이 원하는 대로 자신을 표현하는 자유를 침해하는 것이라고 말했습니다.
 
 A group of protesters,/ from all faiths and backgrounds,/ ...목소리를 내다 their opposition to the ban,/ saying ... 평등권에 반한다고. One person said it ... ~를 침해한다 everyone's rights ...~에 종사하다,~로진입하다 ... 특정 professions/ as well as their freedom ... ~자신을 표현할, 확인할 ...그들이 원하는 대로.
-
-# 영자신문
-
-## Ep. 1277: 여행: 도와주세요
-
-## 2019. 11. 1 (금)
-
-Yet the grievances that led them to impose tariffs on hundreds of billions of dollars of each other's goods remain largely unresolved.
-
-The news followed two days of talks between the two countries' delegations in Washington.
-
-그러나 수천 억 달러에 달하는 서로의 수입품에 관세를 부과하기까지 상황을 악화시킨 문제들은 아직도 대부분 해결되지 않은 채 남아 있다.
-
-이번 휴전 소식은 워싱턴에게 열린 두 나라 대표단의 이틀에 걸친 협상 이후 발표되었다.
-
-Yet ...불만들,고충들,문제들 that ...그들로 하여금 부과하도록 이끌었다 tariffs ... hundreds of billions of dollars of each other's goods ... 남아있다 대부분 해결되지 않은 채.
-
-The news ...이틀뒤에 나왔다 two days of talks between the two countries' ...대표단 in Washington.
-
---- 
-
-### 영작
-
-We must set aside our differences and make a concerted effort to deal with this issue.
-
-우리는 서로간 이견은 한쪽으로 밀어두고 이 문제 해결을 위해 협력해야 한다.
-
-We must ... our differences and ... to deal with this issue.
 
 # 영어뉴스
 ## Ep. 1064
@@ -236,3 +204,28 @@ B: Yeah, I'm going to divide it up evenly among us.
 # 영자신문
 ## Ep. 1278
 ## 2019. 11. 4 (월)
+
+Critics contend it erodes personal freedoms, makes political opponents vulnerable to retribution and even exposes the country's citizens to snooping by the Chinese government.
+
+The cameras, equipped with facial recognition technology, are being rolled out across hundreds of cities around the world, particularly in poorer countries with weak track records on human rights.
+
+일각에서는 감시 시스템으로 개인의 자유가 침해되고, 야권인사들이 피해를 입기 쉬우며, 심지어는 시민들이 중국 정부의 감시에 노출되게 된다고 반대하고 있다.
+
+안면인식 기술을 갖춘 이 카메라는 전세계 수백 개 도시에 설치되고 있는데, 특히 인권 실적이 좋지 않은 빈곤 국가들에서 더욱 확산되고 있다.
+
+Critics ...주장한다 it ...약화시키다 personal freedoms, ...~를~하게 만든다 political opponents ...~에 취약하게 ...응징,처벌 and even ..~를 ~에 노출한다 the country's citizens ...~에 ...염탐하는것에 by the Chinese government.
+
+The cameras, ... facial recognition technology, ...~설치되고(펼쳐지고) 있는 중인데 ...~에 (가로질러) hundreds of cities ...여기저기 the world, particularly ... poorer countries ... weak track records ... human rights.
+
+### 영작
+
+The central bank's interest rate policy has a direct impact on commercial banks' interest rates.
+
+중앙은행의 금리 정책은 시중 은행의 금리에 직접적인 영향을 미친다.
+
+The central bank's interest rate policy ...에 직접적인 영향을 미친다 ...' 시중은행의 interest rates.
+
+# 영어뉴스
+## Ep. 1065
+## 2019. 11. 4 (월)
+
