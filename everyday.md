@@ -29,56 +29,6 @@ one
     I'm sure you know my sister.
     I'm sure you will like it.
 
-# 왕초보 영어
-## Ep. 1013: 너 누나랑 화해했니?
-## 2019. 11. 4 (월)
-
-      퀴즈: Do you have a photo of your dog?
-
-      A: Did you make up with your ...? 
-            (너 누나랑 화해했니?)
-      B: I don't want to ... first. 
-      (저 먼저 사과하기 싫어요.) 
-      A:  ... not?  
-            (왜 싫은데?)
-      B: She made fun of me  ...!  
-      (누나가 절 먼저 놀렸단 말이에요!) 
-
-      sister
-      apologize
-      Why
-      first
-
-      make up: 만회하다
-      make up test: 만회 시다
-
-      I made up with my brother.
-      Why don't you make up with your girlfriend?
-
-      암기추천
-      Let me make it up to you.
-      내가 잘 할께.
-
-      We don't want to go to bed.
-      Lisa doesn't want to study Math.
-
-      I said it first!
-      Don't call him first.
-
-      I don't want to eat./ Why not?
-      I can't come./ Why not?
-
-      Don't make fun of Nancy.
-      They made fun of my name.
-      Are you making fun of me?
-
-      make fun of (기분 나쁘게 놀리는 것) vs tease (약하게 놀리는 것)
-
-      You look prettier.
-      Are you teasing me?
-
-      teaser 영상: 놀리는 영상
-
 # 영자신문
 ## Ep. 1278
 ## 2019. 11. 4 (월)
@@ -204,4 +154,6 @@ And when I ..., I finally feel like I'... the world that ..., and it gives me a 
 # 왕초보 영어
 ## Ep. 1014: 이 보험 카드에 증권 번호가 있어요
 ## 2019. 11. 5 (화)
+
+      퀴즈: Do you have a photo of your dog?
 
