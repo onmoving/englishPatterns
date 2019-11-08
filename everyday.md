@@ -29,63 +29,6 @@ one
     I'm sure you know my sister.
     I'm sure you will like it.
 
-# 생활영어
-## Ep. 752
-## 2019. 11. 1 (금)
-
-People tend to get annoyed at each other a lot, and there's always this tension in the carriages. 
-사람들은 서로에게 짜증도 많이 내는 편이고, 열차 안에 항상 긴장감이 감돌아요.
-
-Even saying sorry for stepping on someone's foot can be a great conversation starter. 
-누군가의 발을 밟았을 때 미안하다고 하는 것만으로도 좋은 대화의 시작이 될 수 있어요. 
-
----
-
-People ... ~하게 되는 편이다 짜증내는 ~서로에게 each other a lot, and there's always this tension in the carriages. 
-
-... 말하는 것 조차 sorry for stepping on someone's foot ...~가 될 수 있어요 a great conversation starter. 
-
-### pattern
-
-tend to get ~
-~하게 되는 편이다
-
-1. I tend to get distracted easily.
-
-2. They tend to get nervous before an exam.
-
-Even -ing can be ~
-
-1. Even studying can be a hobby.
-
-2. Even getting water can be a nice break.
-
----
-
-저는 쉽게 주의가 산만해지는 편이에요.
-
-그들은 시험을 앞두고 긴장하는 편이에요. 
-
-공부하는 것조차도 취미가 될 수 있어요.
-
-물 마시러 가는 것조차도 좋은 휴식이 될 수 있어요. 
-
-1. I ... easily.
-
-2. They ... before an exam.
-
-1. ... a hobby.
-
-2. ... water ... a nice break.
-
-### 알쏭달쏭 한마디 
-
-Let's first see how he reacts to it. 
-
-일단 그 사람이 어떻게 나오는지 보죠.
-
-Let's first ... how he ... it. 
-
 # 어순트레이닝
 ## Ep. 1064: 역할 분담
 ## 2019. 11. 1 (금)
@@ -274,3 +217,26 @@ And when I ..., I finally feel like I'... the world that ..., and it gives me a 
 
       Pete (남)
       I'm really inspired by nature and the outdoors. It always feels good to retreat from the noise and distraction of the city every once in a while.
+
+# 어순트레이닝
+## Ep. 1065: 건배사 할 때
+## 2019. 11. 4 (월)
+
+      Here's to 대상
+
+      Here's to EBS!
+      Here's to our sales team!
+      Here's to all of us!
+      Here's to a successful year!
+      Here's to a new beginning!
+      새로운 시작을 위하여!
+
+      A: We couldn't have done it without all of you.
+      B: Tell me about it. Let's all make a toast.
+      제가 하고 싶은 말입니다.(그러게요)
+      A: Here's to each and every one of you!
+      각각과 모두를 위하여!('여러분 모두를 위하여'란 뜻)
+      B: And to more successful years to come!
+      앞으로 다가올 (우리의) 성공적인 미래를 위하여!
+
+
