@@ -173,4 +173,32 @@ And when I ..., I finally feel like I'... the world that ..., and it gives me a 
 # 영자신문
 ## Ep. 1279
 ## 2019. 11. 5 (화)
+
+Pope Francis is calling for lifestyle and dietary changes to address the paradox of a world in which people suffer from malnutrition in some areas and obesity in others. In a message Wednesday for the U.N.'s World Food Day, Francis lamented this situation that he blamed on the world economy's profit-at-all-cost mentality.
       
+Pope Francis ... lifestyle and dietary changes ...해결하기 위해 the paradox of a world in which people ...~로 고통 malnutrition ...어떤곳에서 and obesity ...다른곳에서 . In a message Wednesday for the U.N.'s World Food Day, Francis ...애통,한다,탄식했다 this situation that he ...~원인때문이라고 비난했다 the world economy's ...배금주의 사고방식 .
+
+---
+
+The Korean central bank lowered its key interest rate on Wednesday, just three months after the last cut, in a bid to navigate worsening economic conditions. 
+
+Against this backdrop, the central bank also slashed its 2019 growth outlook by 0.3 percentage points from 2.5 percent to 2.2 percent.
+
+한국은행이 수요일에 기준금리를 인하했다. 가장 최근 금리 인하 이후 겨우 3개월이 된 시점에 발생한 일로, 불경기를 해소하기 위함이다.
+
+이러한 상황에서, 한국은행은 2019년 경제성장 전망을 2.5%에서 2.3%로 0.3%포인트 하향 조정했다.
+
+The Korean central bank ...인하했다 its key interest rate on Wednesday, just three months after the last cut, ...~하기 위해서, ~을 겨냥해서 ... 불경기를(나빠지는) 해소하기 economic conditions. 
+
+...이러한 상황에서, the central bank also ...삭감,하향 조정했다 its 2019 growth outlook ... 0.3 percentage points ... 2.5 percent ... 2.2 percent.
+
+---
+### 영작
+
+The Bank of Korea has dismissed the possibility that the economy is falling into deflation.
+
+한국은행은 경제가 디플레이션에 빠져들고 있는 것은 아니라고 선을 그었습니다.
+
+The Bank of Korea has ...부인하다 the possibility that the economy is falling into deflation.
+
+(rule out the possibility that ~: ~의 가능성을 배제하다)
