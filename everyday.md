@@ -202,3 +202,7 @@ The Bank of Korea has dismissed the possibility that the economy is falling into
 The Bank of Korea has ...부인하다 the possibility that the economy is falling into deflation.
 
 (rule out the possibility that ~: ~의 가능성을 배제하다)
+
+# 영어뉴스
+## Ep. 1066
+## 2019. 11. 5 (화)
