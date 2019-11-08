@@ -29,45 +29,6 @@ one
     I'm sure you know my sister.
     I'm sure you will like it.
 
-# 어순트레이닝
-## Ep. 1064: 역할 분담
-## 2019. 11. 1 (금)
-
-divide up 업무
-divide A up
-
-우리 ~를 합시다 나누는 것 일을
-
-Let's divide up the work.
-
-= Let's divide the work up.
-
-어떻게 할까요? 나누는 걸 역할을
-
-How do we divide up the roles?
-
-업무는 이미 되었습니다 나눠지는 걸.
-
-The tasks were already divided up.
-
-회사는 나눴습니다 보너스를 모든 직원들에게
-
-The company divided the bonus up among(혹은 between) all employees.
-
-우리 하는 게 어때요? 나누는 걸 일을 좀 더 작은 업무로
-
-How about we divide up the work into smaller tasks.
-
-### 상황극
-
-A: This looks like a lot of work for one person.
-
-B: Don't worry, we'll divide it up.
-
-A: Is the whole team working on it?
-
-B: Yeah, I'm going to divide it up evenly among us.
-
 # 왕초보 영어
 ## Ep. 1013: 너 누나랑 화해했니?
 ## 2019. 11. 4 (월)
@@ -239,4 +200,8 @@ And when I ..., I finally feel like I'... the world that ..., and it gives me a 
       B: And to more successful years to come!
       앞으로 다가올 (우리의) 성공적인 미래를 위하여!
 
+
+# 왕초보 영어
+## Ep. 1014: 이 보험 카드에 증권 번호가 있어요
+## 2019. 11. 5 (화)
 
