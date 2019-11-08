@@ -29,14 +29,6 @@ one
     I'm sure you know my sister.
     I'm sure you will like it.
 
-### 영작
-
-The central bank's interest rate policy has a direct impact on commercial banks' interest rates.
-
-중앙은행의 금리 정책은 시중 은행의 금리에 직접적인 영향을 미친다.
-
-The central bank's interest rate policy ...에 직접적인 영향을 미친다 ...' 시중은행의 interest rates.
-
 # 영어뉴스
 ## Ep. 1065
 ## 2019. 11. 4 (월)
