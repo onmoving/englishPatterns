@@ -29,22 +29,6 @@ one
     I'm sure you know my sister.
     I'm sure you will like it.
 
-# 영자신문
-## Ep. 1278
-## 2019. 11. 4 (월)
-
-Critics contend it erodes personal freedoms, makes political opponents vulnerable to retribution and even exposes the country's citizens to snooping by the Chinese government.
-
-The cameras, equipped with facial recognition technology, are being rolled out across hundreds of cities around the world, particularly in poorer countries with weak track records on human rights.
-
-일각에서는 감시 시스템으로 개인의 자유가 침해되고, 야권인사들이 피해를 입기 쉬우며, 심지어는 시민들이 중국 정부의 감시에 노출되게 된다고 반대하고 있다.
-
-안면인식 기술을 갖춘 이 카메라는 전세계 수백 개 도시에 설치되고 있는데, 특히 인권 실적이 좋지 않은 빈곤 국가들에서 더욱 확산되고 있다.
-
-Critics ...주장한다 it ...약화시키다 personal freedoms, ...~를~하게 만든다 political opponents ...~에 취약하게 ...응징,처벌 and even ..~를 ~에 노출한다 the country's citizens ...~에 ...염탐하는것에 by the Chinese government.
-
-The cameras, ... facial recognition technology, ...~설치되고(펼쳐지고) 있는 중인데 ...~에 (가로질러) hundreds of cities ...여기저기 the world, particularly ... poorer countries ... weak track records ... human rights.
-
 ### 영작
 
 The central bank's interest rate policy has a direct impact on commercial banks' interest rates.
@@ -152,8 +136,49 @@ And when I ..., I finally feel like I'... the world that ..., and it gives me a 
 
 
 # 왕초보 영어
-## Ep. 1014: 이 보험 카드에 증권 번호가 있어요
+## Ep. 1014: 일상: 이 보험 카드에 증권 번호가 있어요
 ## 2019. 11. 5 (화)
 
       퀴즈: Do you have a photo of your dog?
 
+      A: Do you have  ...?  
+      (보험이 있나요?) 
+      B: Yes, I have  ... insurance. 
+            (네, 여행 보험이 있어요.) 
+      B: This insurance card has the policy  ....  
+            (이 보험 카드에 증권 번호가 있어요.) 
+      A: When the  ... is ready, I'll call your name. 
+      (의사 선생님이 준비되시면, 이름을 불러드릴게요.) 
+
+      insurance
+      trevel
+      number
+      doctor
+
+      건강 보험: health insurance
+      자동차 보험: auto insurance = car insurance
+      생명보험: life unsurance
+
+      Do you have siblings?
+      Do you have plans? 약속있니?
+
+      I have health insurance.
+      I have a bicyle.
+
+      암기추천
+      I don't remember my policy number.
+
+      physician: 내과의사
+      surgeon: 외과의사
+      pediatrician: 소아과의사
+      dentist: 치과의사
+
+      When you go home,
+      When you leave,
+      When I'm ready, I'll call you.
+      When she comes back, call me.
+
+# 영자신문
+## Ep. 1279
+## 2019. 11. 5 (화)
+      
