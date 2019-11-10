@@ -211,12 +211,12 @@ Powell said the Fed would continue to act as appropriate/ to sustain the expansi
 
 파월 의장은 연준이 확장세를 유지하기 위해 적절한 행동을 지속할 것이라고 말했습니다. 지난 7월 연준은 10년 만에 처음으로 금리를 2-2.5%대로 인하했지만 도널드 트럼프 대통령은 0 또는 마이너스 대의 금리를 원하고 있습니다. 
 
-Powell said the Fed .../ ...~를 유지/지속하기 위해서 the expansion. Back in July,/ the Fed ... for the first time ... a decade/ ... a range of 2 to 2.25%/ but President Donald Trump wants zero or even negative rates.
+Powell said the Fed ... c.../ ...~를 유지/지속하기 위해서 the expansion. Back in July,/ the Fed c... for the first time ... a decade/ ... a range of 2 to 2.25%/ but President Donald Trump wants zero or even negative rates.
 
 
 Mexico's Foreign Minister Marcelo Ebrard said/ the country had reduced the flow of migrants/ arriving at its border with the US/ by 56% in three months. Ebrard described Mexico's strategy/ to stem the surge of migrants,/ namely reinforcing security on its porous southern border,/ deploying thousands of troops on highway checkpoints leading north,/ and an economic development plan with Honduras and El Salvador/ designed to keep people in their countries. The foreign minister said he believed Mexico's strategy was enough/ to avert US President Donald Trump's threat/ to impose tariffs on all Mexican imports.
 
 마르셀로 에브라르드 멕시코 외교부 장관은 미국 국경에 도착하는 난민의 수가 3개월만에 56% 줄어들었다고 말했습니다.마르셀로 에브라르드 멕시코 외교부 장관은 미국 국경에 도착하는 난민의 수가 3개월만에 56% 줄어들었다고 말했습니다. 에브라르드는 구멍이 많은 남부 국경의 보안을 강화하고 북쪽으로 가는 고속도로 검문소에 수천명의 군사를 파견하고 온두라스와 엘살바도르 국민들을 자국에 머물도록 하는 경제 개발 정책을 만드는 등의 난민의 급증을 막는 멕시코 전략을 설명했습니다. 외교부 장관은 모든 멕시코 수입품에 관세를 부과하겠다는 도널드 트럼프 대통령의 위협을 피하는 데 멕시코의 전략이 충분하다고 믿는다고 말했습니다. 
 
-Mexico's Foreign Minister Marcelo Ebrard said/ the country ...줄어들었다,감소했다 the f... 난민행렬이(을)/ arriving ... its border ... the US/ ... 56% ... three months. Ebrard described Mexico's strategy/ .. s.. the s...,/ namely reinforcing security ... its p... southern border,/ d... thousands of troops ... highway checkpoints l... north,/ and an economic development plan ... Honduras and El Salvador/ designed ... keep people ... their countries. The foreign minister said he believed Mexico's strategy was enough/ ... a... US President Donald Trump's threat/ ... impose tariffs ... all Mexican imports.
+Mexico's Foreign Minister Marcelo Ebrard said/ the country ...줄어들었다,감소했다 the f... 난민행렬이(을)/ arriving # its border # the US/ # 56% # three months. Ebrard described Mexico's strategy/ # s.. the s...,/ namely reinforcing security # its p.. southern border,/ d.. thousands of troops # highway checkpoints l.. north,/ and an economic development plan # Honduras and El Salvador/ designed # keep people # their countries. The foreign minister said he believed Mexico's strategy was enough/ # a.. US President Donald Trump's threat/ # impose tariffs # all Mexican imports.
 
