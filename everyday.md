@@ -39,28 +39,6 @@ Private companies helped to deliver aid to the Abaco Islands/ after Hurricane Do
 
 Private companies ...구호품 수송을 지원했다 aid ... the Abaco Islands/ after Hurricane Dorian ...맹렬히 공격했다 the Bahamas/ ... winds of up to 300 kilometers an hour,/ ...남기면서 a scene of ...완벽한 폐허의.
 
-# 어순트레이닝
-## Ep. 1065: 건배사 할 때
-## 2019. 11. 4 (월)
-
-      Here's to 대상
-
-      Here's to EBS!
-      Here's to our sales team!
-      Here's to all of us!
-      Here's to a successful year!
-      Here's to a new beginning!
-      새로운 시작을 위하여!
-
-      A: We couldn't have done it without all of you.
-      B: Tell me about it. Let's all make a toast.
-      제가 하고 싶은 말입니다.(그러게요)
-      A: Here's to each and every one of you!
-      각각과 모두를 위하여!('여러분 모두를 위하여'란 뜻)
-      B: And to more successful years to come!
-      앞으로 다가올 (우리의) 성공적인 미래를 위하여!
-
-
 # 왕초보 영어
 ## Ep. 1014: 일상: 이 보험 카드에 증권 번호가 있어요
 ## 2019. 11. 5 (화)
@@ -199,3 +177,7 @@ and ... you want to study or memorize something.
       2. Sit here because that way you'll see better.
       여기 앉으세요. 그렇게 하면 더 잘 보일 테니까요. 
 
+
+# 어순트레이닝
+## Ep. 1066: 주량 말하기
+## 2019. 11. 5 (화)
