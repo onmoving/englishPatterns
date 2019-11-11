@@ -177,7 +177,6 @@ and ... you want to study or memorize something.
       2. Sit here because that way you'll see better.
       여기 앉으세요. 그렇게 하면 더 잘 보일 테니까요. 
 
-
 # 어순트레이닝
 ## Ep. 1066: 주량 말하기
 ## 2019. 11. 5 (화)
@@ -215,5 +214,40 @@ and ... you want to study or memorize something.
       A: How were you not drunk?
       B: Trust me, I was. I had a very rough morning.
 
+# 왕초보 영어
+## Ep. 1015: 디자인도 엄청 마음에 드네요
+## 2019. 11. 6 (수)
 
+      퀴즈: Do you have a photo of your dog?
 
+      A: I'm looking for an  ... vacuum cleaner. 
+            (저렴한 진공청소기를 찾고 있는데요.) 
+      B: This is the  ... one.  
+      (이게 가장 싼 거예요.) 
+      B: It's also quite  .... 
+      (그건 꽤나 강력하기도 해요.)
+      A: Oh, I love its  ... as well.  
+            (오, 디자인도 엄청 마음에 드네요.) 
+
+      affordable
+      cheapest
+      powerful
+      design
+
+      I'm looking for a cheap monitor.
+      Are you looking for this?
+
+      the funniest/ the coolest/ the heaviest
+
+      This is the lightest phone.
+      What's the shortest way?
+
+      My son is quite smart.
+      The program is quite fun.
+
+      its vs it's
+
+      its: 소유격
+      it's: it is
+
+      
