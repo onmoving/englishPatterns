@@ -181,3 +181,39 @@ and ... you want to study or memorize something.
 # 어순트레이닝
 ## Ep. 1066: 주량 말하기
 ## 2019. 11. 5 (화)
+
+      drink + OO glass(es) of 술
+      drink + OO bottle(s) of 술
+
+      얼마나 할 수 있어요?
+      술 마시는 걸?
+      How much can you
+      drink?
+
+      저는 할 수 있어요
+      술마시는 걸
+      소주 한 병을.
+      I can drink one bottle of soju
+
+      Morgan은 하지 못해요
+      술마시는 걸
+      전혀.
+      Morgan can't drink at all.
+
+      저는 하지 않아요
+      술 마시는 걸
+      건강때문에
+      I don't drink for health reasons.
+
+      우리 ~를 해요
+      술 마시는 걸
+      적당히
+      Let's drink in moderation!
+
+      A: How much did you drink last night?
+      B: More than I should have. I drank two full bottles of soju by myself.
+      A: How were you not drunk?
+      B: Trust me, I was. I had a very rough morning.
+
+
+
