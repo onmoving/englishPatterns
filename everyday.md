@@ -39,49 +39,6 @@ Private companies helped to deliver aid to the Abaco Islands/ after Hurricane Do
 
 Private companies ...구호품 수송을 지원했다 aid ... the Abaco Islands/ after Hurricane Dorian ...맹렬히 공격했다 the Bahamas/ ... winds of up to 300 kilometers an hour,/ ...남기면서 a scene of ...완벽한 폐허의.
 
-# 왕초보 영어
-## Ep. 1014: 일상: 이 보험 카드에 증권 번호가 있어요
-## 2019. 11. 5 (화)
-
-      퀴즈: Do you have a photo of your dog?
-
-      A: Do you have  ...?  
-      (보험이 있나요?) 
-      B: Yes, I have  ... insurance. 
-            (네, 여행 보험이 있어요.) 
-      B: This insurance card has the policy  ....  
-            (이 보험 카드에 증권 번호가 있어요.) 
-      A: When the  ... is ready, I'll call your name. 
-      (의사 선생님이 준비되시면, 이름을 불러드릴게요.) 
-
-      insurance
-      trevel
-      number
-      doctor
-
-      건강 보험: health insurance
-      자동차 보험: auto insurance = car insurance
-      생명보험: life unsurance
-
-      Do you have siblings?
-      Do you have plans? 약속있니?
-
-      I have health insurance.
-      I have a bicyle.
-
-      암기추천
-      I don't remember my policy number.
-
-      physician: 내과의사
-      surgeon: 외과의사
-      pediatrician: 소아과의사
-      dentist: 치과의사
-
-      When you go home,
-      When you leave,
-      When I'm ready, I'll call you.
-      When she comes back, call me.
-
 # 영자신문
 ## Ep. 1279
 ## 2019. 11. 5 (화)
@@ -218,7 +175,7 @@ and ... you want to study or memorize something.
 ## Ep. 1015: 디자인도 엄청 마음에 드네요
 ## 2019. 11. 6 (수)
 
-      퀴즈: Do you have a photo of your dog?
+      퀴즈: This is the darkest color.
 
       A: I'm looking for an  ... vacuum cleaner. 
             (저렴한 진공청소기를 찾고 있는데요.) 
@@ -250,4 +207,7 @@ and ... you want to study or memorize something.
       its: 소유격
       it's: it is
 
-      
+# 영자신문
+## Ep. 1280
+## 2019. 11. 6 (수)
+
