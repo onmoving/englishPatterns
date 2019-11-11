@@ -1,34 +1,3 @@
-# 왕초보 영어
-## Ep. 1011: 어떤 종류의 전화기를 가지고 계시죠?
-## 2019. 10. 31 (목)
-
-A: Do you possibly have a phone ...? 
-      (혹시 전화 충전기 있나요?) 
-B: What kind of ... do you have?   
-   (어떤 종류의 전화기를 가지고 계시죠?)  
-A: ... is a MayuPhone 10. 
-      (제 거는 MayuPhone 10이에요.) 
-B: I'm sure we have ... for it.  
-   (그 모델용 충전기 분명히 있을 거예요.) 
-
-charger
-phone
-Mine
-one
-
-    Do you possibly know me?
-    Do you possibly work here?
-
-    What kind of man do you like?
-    What kind of person are you?
-
-    I am a career woman.
-    We are husband and wife. 우리는 부부야
-
-    I'm sure he loves her.
-    I'm sure you know my sister.
-    I'm sure you will like it.
-
 # 영어뉴스
 ## Ep. 1065
 ## 2019. 11. 4 (월)
