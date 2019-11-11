@@ -39,39 +39,6 @@ Private companies helped to deliver aid to the Abaco Islands/ after Hurricane Do
 
 Private companies ...구호품 수송을 지원했다 aid ... the Abaco Islands/ after Hurricane Dorian ...맹렬히 공격했다 the Bahamas/ ... winds of up to 300 kilometers an hour,/ ...남기면서 a scene of ...완벽한 폐허의.
 
-# 영자신문
-## Ep. 1279
-## 2019. 11. 5 (화)
-
-Pope Francis is calling for lifestyle and dietary changes to address the paradox of a world in which people suffer from malnutrition in some areas and obesity in others. In a message Wednesday for the U.N.'s World Food Day, Francis lamented this situation that he blamed on the world economy's profit-at-all-cost mentality.
-      
-Pope Francis ... lifestyle and dietary changes ...해결하기 위해 the paradox of a world in which people ...~로 고통 malnutrition ...어떤곳에서 and obesity ...다른곳에서 . In a message Wednesday for the U.N.'s World Food Day, Francis ...애통,한다,탄식했다 this situation that he ...~원인때문이라고 비난했다 the world economy's ...배금주의 사고방식 .
-
----
-
-The Korean central bank lowered its key interest rate on Wednesday, just three months after the last cut, in a bid to navigate worsening economic conditions. 
-
-Against this backdrop, the central bank also slashed its 2019 growth outlook by 0.3 percentage points from 2.5 percent to 2.2 percent.
-
-한국은행이 수요일에 기준금리를 인하했다. 가장 최근 금리 인하 이후 겨우 3개월이 된 시점에 발생한 일로, 불경기를 해소하기 위함이다.
-
-이러한 상황에서, 한국은행은 2019년 경제성장 전망을 2.5%에서 2.3%로 0.3%포인트 하향 조정했다.
-
-The Korean central bank ...인하했다 its key interest rate on Wednesday, just three months after the last cut, ...~하기 위해서, ~을 겨냥해서 ... 불경기를(나빠지는) 해소하기 economic conditions. 
-
-...이러한 상황에서, the central bank also ...삭감,하향 조정했다 its 2019 growth outlook ... 0.3 percentage points ... 2.5 percent ... 2.2 percent.
-
----
-### 영작
-
-The Bank of Korea has dismissed the possibility that the economy is falling into deflation.
-
-한국은행은 경제가 디플레이션에 빠져들고 있는 것은 아니라고 선을 그었습니다.
-
-The Bank of Korea has ...부인하다 the possibility that the economy is falling into deflation.
-
-(rule out the possibility that ~: ~의 가능성을 배제하다)
-
 # 영어뉴스
 ## Ep. 1066
 ## 2019. 11. 5 (화)
@@ -210,4 +177,22 @@ and ... you want to study or memorize something.
 # 영자신문
 ## Ep. 1280
 ## 2019. 11. 6 (수)
+
+Frequent flyers are all too aware that cramped economy cabins are detrimental to comfort.
+
+항공기를 빈번하게 이용한 고객이라면 비좁은 이코노미 클래스가 안락함에는 치명적이라는 사실을 너무나 잘 알고 있다.
+
+Frequent flyers are all # a.. that c..비좁은, 작고 답답한 economy cabins are d.. @ ~에 해로운 comfort.
+
+### 영작
+
+In a country like Korea that lacks natural resources, it is important to encourage more patent filings in order to create future growth engines.
+
+(특허 출원하다 apply for a patent, file a patent application)
+
+우리와 같이 부존자원이 부족한 나라에서는 특허출원을 장려해 국가의 미래 먹거리를 개발해야 한다.
+
+In a country like Korea that l.. natural resources, it is important to e.. more patent f..s in order to c.. future growth engines.
+
+(특허 출원하다 a.. @ a patent, f.. a patent a#)
 
