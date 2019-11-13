@@ -150,9 +150,10 @@ However, growing discontent about the country's leadership/ prompted a military 
 
 그러나 국가 지도부에 대한 불만 증가는 군사 개입을 촉발했고 무가베는 2017년에 축출되었습니다. 
 
-But a... 시간이 지나면서, Mugabe grew intolerant @ ..반대의견의/ and faced ..혐의 of ...인권유린,/ ..탄압/ and ... 선거조작 .
+But a... 시간이 지나면서,/ Mugabe grew intolerant @ ..반대의견의/ and faced ..혐의 of ...인권유린,/ ..탄압/ and ... 선거조작 .
 
 However, growing ..불만 @ the country's leadership/ ..촉발하다 ...군사개입/ and Mugabe ...축출되었다 @ 2017.
+However, growing 
 
 ---
 Prabal Gurung asked:/ Who gets to be an American? He paid tribute to American fashion/ with cowboy boots, denim and sportswear-influenced looks.
@@ -163,7 +164,6 @@ During the finale,/ sashes draped on models asked his key question/ of what defi
 
 피날레에서 그는 모델들이 두른 띠로 미국인을 정의하는 것이 무엇이냐는 핵심 질문을 던졌습니다. 
 
-Prabal Gurung ..지문했다:/ ...문장전체? He p.. .. @ 기렸다 American fashion/ @ cowboy boots, denim and sportswear-influenced looks.
+Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American fashion/ @ cowboy boots, denim and sportswear-influenced looks.
 
-@ the finale,/ ..띠들로 ..두른 @ models asked his key question/ @ what defines an American.
-
+@ the finale,/ sa..띠들로 ..두른 @ models asked his key question/ @ what defines an American.
