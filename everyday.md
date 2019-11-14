@@ -1,25 +1,3 @@
-# 영자신문
-## Ep. 1280
-## 2019. 11. 6 (수)
-
-Frequent flyers are all too aware that cramped economy cabins are detrimental to comfort.
-
-항공기를 빈번하게 이용한 고객이라면 비좁은 이코노미 클래스가 안락함에는 치명적이라는 사실을 너무나 잘 알고 있다.
-
-Frequent flyers are all # a.. that c..비좁은, 작고 답답한 economy cabins are d.. @ ~에 해로운 comfort.
-
-### 영작
-
-In a country like Korea that lacks natural resources, it is important to encourage more patent filings in order to create future growth engines.
-
-(특허 출원하다 apply for a patent, file a patent application)
-
-우리와 같이 부존자원이 부족한 나라에서는 특허출원을 장려해 국가의 미래 먹거리를 개발해야 한다.
-
-In a country like Korea that l.. natural resources, it is important to e.. more patent f..s in order to c.. future growth engines.
-
-(특허 출원하다 a.. @ a patent, f.. a patent a#)
-
 # 영어뉴스
 ## Ep. 1067
 ## 2019. 11. 6 (수)
@@ -196,5 +174,8 @@ Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American 
       I want to fall in love with someone.
       I want to fall in love with somebody.
 
+# 영자신문
+## Ep. 1281
+## 2019. 11. 7 (목)
 
 
