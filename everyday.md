@@ -182,3 +182,6 @@ Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American 
       저는 집에 전화기를 두고 왔어요. 
       I left my phone at home. 
 
+# 어순트레이닝
+## Ep. 1067
+## 2019. 11. 6 (수)
