@@ -196,3 +196,68 @@ Meanwhile Tinder,/ often focused on more casual connections and a younger .. 층
 # 생활영어
 ## Ep. 756
 ## 2019. 11. 7 (목)
+
+In order to stop myself from always getting distracted, I actually had to start meditating. 
+
+Now, it's no surprise that my biggest distraction for many things is my phone. 
+
+There's just so many things to do, 
+and it's so addictive that I always get distracted, no matter what I'm doing, by my phone. 
+
+Now, there's tons of different apps that you can use to prevent your phone from being usable. 
+
+항상 주의가 산만해지는 것을 막기 위해서 저는 사실 명상을 시작해야 했어요.
+
+물론, 여러 가지 면에서 가장 집중력을 흐트러뜨리는 존재는 제 전화기라는 건 놀라운 사실이 아니죠. 
+
+(전화기로) 할 게 정말 많이 있고, 
+그리고 정말 중독성이 있어서 제가 뭘 하고 있든지, 휴대폰 때문에 주의가 산만해져요. 
+
+물론 휴대폰을 쓸 수 없도록 하기 위해서 사용할 수 있는 다양한 앱들이 많이 있어요. 
+
+In order to .. myself @ always .. distracted, I actually had to start meditating. 
+
+Now, ... my biggest distraction for many things is my phone. 
+
+There's just .. many things to do, 
+and ... I always get distracted, ..., by my phone. 
+
+Now, there's tons of different apps ... to prevent your phone @ being usable. 
+
+### Pattern Practice 
+
+      stop ~ from –ing
+      ~가 ~하는 걸 막다 
+
+      1. I stopped him from selling the house.
+
+      2. She stopped him from making another mistake.
+
+      It is no surprise (that) ~
+      ~는 놀라운 일이 아니다
+
+      1. It was no surprise she believed it.
+
+      2. It's no surprise that the price went up.
+            
+      저는 그가 집을 팔지 못하게 했어요. 
+      그녀는 그가 또 다른 실수를 하는 걸 막았어요. 
+      그녀가 그 말을 믿었다는 건 놀랍지 않았어요. 
+      가격이 올라간 건 놀랍지 않아요. 
+
+### 알쏭달쏭 한마디 
+
+      This app will help you do that. 
+      
+      이 앱을 쓰면 도움이 될 거예요. 
+      
+      This app will ... . 
+      
+### In The Social World 
+
+Ahsan (남)
+Meditation helps you develop the skill of diverting your attention from a distraction back to your breathing.
+
+Katarina (여)
+According to this article, scientists have shown that meditation helps us tune out distractions and relieve pain.
+
