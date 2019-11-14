@@ -1,39 +1,3 @@
-# 왕초보 영어
-## Ep. 1015: 디자인도 엄청 마음에 드네요
-## 2019. 11. 6 (수)
-
-      퀴즈: This is the darkest color.
-
-      A: I'm looking for an  ... vacuum cleaner. 
-            (저렴한 진공청소기를 찾고 있는데요.) 
-      B: This is the  ... one.  
-      (이게 가장 싼 거예요.) 
-      B: It's also quite  .... 
-      (그건 꽤나 강력하기도 해요.)
-      A: Oh, I love its  ... as well.  
-            (오, 디자인도 엄청 마음에 드네요.) 
-
-      affordable
-      cheapest
-      powerful
-      design
-
-      I'm looking for a cheap monitor.
-      Are you looking for this?
-
-      the funniest/ the coolest/ the heaviest
-
-      This is the lightest phone.
-      What's the shortest way?
-
-      My son is quite smart.
-      The program is quite fun.
-
-      its vs it's
-
-      its: 소유격
-      it's: it is
-
 # 영자신문
 ## Ep. 1280
 ## 2019. 11. 6 (수)
@@ -187,6 +151,8 @@ Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American 
 # 왕초보 영어
 ## Ep. 1016: 식당
 ## 2019. 11. 7 (목)
+
+      퀴즈: This is the darkest color.
 
       A: What's sugar-free  ...?  
             (무설탕 아이스크림이 뭐예요?) 
