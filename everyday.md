@@ -1,40 +1,3 @@
-# 어순트레이닝
-## Ep. 1066: 주량 말하기
-## 2019. 11. 5 (화)
-
-      drink + OO glass(es) of 술
-      drink + OO bottle(s) of 술
-
-      얼마나 할 수 있어요?
-      술 마시는 걸?
-      How much can you
-      drink?
-
-      저는 할 수 있어요
-      술마시는 걸
-      소주 한 병을.
-      I can drink one bottle of soju
-
-      Morgan은 하지 못해요
-      술마시는 걸
-      전혀.
-      Morgan can't drink at all.
-
-      저는 하지 않아요
-      술 마시는 걸
-      건강때문에
-      I don't drink for health reasons.
-
-      우리 ~를 해요
-      술 마시는 걸
-      적당히
-      Let's drink in moderation!
-
-      A: How much did you drink last night?
-      B: More than I should have. I drank two full bottles of soju by myself.
-      A: How were you not drunk?
-      B: Trust me, I was. I had a very rough morning.
-
 # 왕초보 영어
 ## Ep. 1015: 디자인도 엄청 마음에 드네요
 ## 2019. 11. 6 (수)
@@ -185,3 +148,87 @@ Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American 
 # 어순트레이닝
 ## Ep. 1067
 ## 2019. 11. 6 (수)
+
+      How about we + 동사?
+      How about + 제안할 것?
+
+      어때요?
+      한잔
+      퇴근하고
+      How about a drink after work?
+
+      어때요?
+      일곱시는?
+      How about 7 p.m.?
+      How about 7 o'clock?
+
+      어때요?
+      중국은식은
+      저녁에
+      How about some Chinese for dinner?
+      How about some Chinese food for dinner?
+
+      어때요?
+      잠깐 쉬는 건
+      How about a quick break?
+      How about a break?
+
+      어때요?
+      영화 보는 건
+      오늘 밤에
+      How about a movie tonight?
+
+      A: It's been a long day.
+      B: How about a beer?
+      A: You read my mind!
+      B: See you at eight?
+      (= How about eight?)
+
+# 왕초보 영어
+## Ep. 1016: 식당
+## 2019. 11. 7 (목)
+
+      A: What's sugar-free  ...?  
+            (무설탕 아이스크림이 뭐예요?) 
+      B: Oh, we use natural  ... instead of sugar.  
+      (아, 저희는 설탕 대신 자연산 꿀을 씁니다.)  
+      A: I'll give it a  ....  
+            (그거 한번 먹어볼게요.) 
+      B: You will  ... in love with it.  
+      (그 아이스크림과 사랑에 빠지실 거예요.)
+
+      ice cream
+      honey
+      try
+      fall
+
+      fat-free
+      stress-free
+      care-free
+
+      This is a stress-free job.
+
+      sugar-free VS sugarless
+      -free 해로운 걸 없앤것
+      -less 그냥 없다는 의미
+
+      instead of + 명사
+
+      instead of salt
+
+      Drink water instead of milk.
+      Eat vegetables instead of snacks.
+
+      give it a try
+      = give it a go / git it a shot / git it a whirl
+
+      I already gave it a try.
+
+      fall > fell > fallen
+
+      I fell in love with that TV show.
+      I want to fall in love with someone.
+      I want to fall in love with somebody.
+
+
+
