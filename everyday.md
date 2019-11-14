@@ -343,3 +343,6 @@ Now, there's tons of different apps ... to prevent your phone @ being usable.
 ## Ep. 1282
 ## 2019. 11. 8 (금)
 
+At least 55 elephants have starved to death in the past two months in Zimbabwe's biggest national park as a serious drought forces animals to stray into nearby communities in search of food and water.
+
+At least 55 elephants ... 굶주려와서 죽음에 이르다 @ the past two months in Zimbabwe's biggest national park <>이유,때 a serious dr.. 가뭄 forces animals @ st.. @ 제 위치[길]를 벗어나서 ~안으로 nearby communities ... ~을 찾아 food and water.
