@@ -167,3 +167,63 @@ During the finale,/ sashes draped on models asked his key question/ of what defi
 Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American fashion/ @ cowboy boots, denim and sportswear-influenced looks.
 
 @ the finale,/ sa..띠들로 ..두른 @ models asked his key question/ @ what defines an American.
+
+# 생활영어
+## Ep. 755
+## 2019. 11. 6 (수)
+
+      I'll end up spending maybe 20 minutes on my phone and I don't know how. 
+
+      And then I end up scrolling social media for maybe 15, 20 minutes. 
+
+      And at the end, when I realize, I don't know where all my time has gone. So I find my phone very distracting. 
+
+      Because of this, I will turn off all my notifications and I will have tech-free days where I don't even bring my smartphone with me when I go out. 
+
+      So I highly recommend this if your smartphone is also very distracting.
+
+      저는 저도 모르게 20분 정도를 휴대폰을 보면서 보내게 돼요. 
+
+      그러다가 소셜미디어를 15분, 20분 정도 스크롤 하면서 보게 돼요. 
+
+      그리고는 마침내 정신을 차려 보면, 시간이 어떻게 흘러갔는지를 모르게 돼요. 그래서 휴대폰이 정말 주의를 산만하게 하는 것 같아요. 
+
+      그래서 저는 알림을 모두 끄고 전자제품을 안 쓰는 날을 가지곤 해요. 외출할 때 스마트폰을 안 가지고 가는 거죠. 
+
+      여러분도 스마트폰이 집중력을 많이 흐트러뜨린다면, 이렇게 해 보실 것을 강력히 추천합니다. 
+
+      I'll end ... 보내게 되요 .. 아마도 20 minutes @ my phone and ... 나도 모르게, 어떤 영문인지 모르게. 
+
+      And then I end ... 스크롤 하게 되요 social media @ .. 아마도 15, 20 minutes. 
+
+      And ... 마침내, ... 정신 차려 보면, ... 문장전체. So I .. ~가 ~한것을 알게되다 my phone very .. 주위를 산만하게 하는. 
+
+      Because of this, I will turn off all my notifications and I will have ..-free days <<> I don't even bring my smartphone ... 나와함께 ... 내가 외출할 때. 
+
+      So ... 난 강력히 추천한다 this <> your smartphone is also very .. 주위를 산만하게 하는.
+
+### Pattern Practice 
+      have a –free day
+      ~가 없는 하루를 보내다
+
+      1. Let's have a stress-free day.
+
+      2. They agreed to have a plastic-free day.
+
+      I highly recommend ~
+      저는 ~를 강력 추천합니다.
+
+      1. I highly recommend the pasta.
+
+      2. I highly recommend sunscreen today. 
+      
+      스트레스 없는 하루를 보냅시다.
+      그들은 플라스틱을 안 쓰는 하루를 보내기로 동의했어요. 
+      저는 파스타를 강력 추천해요. 
+      저는 오늘은 선크림을 바를 것을 강력 추천해요. 
+
+### 알쏭달쏭 한마디 
+
+      저는 집에 전화기를 두고 왔어요. 
+      I left my phone at home. 
+
