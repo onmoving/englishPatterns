@@ -261,3 +261,42 @@ Now, there's tons of different apps ... to prevent your phone @ being usable.
       Katarina (여)
       According to this article, scientists have shown that meditation helps us tune out distractions and relieve pain.
 
+# 어순트레이닝
+## Ep. 1068
+## 2019. 11. 7 (목)
+
+      have a hangover (+ from 술)
+
+      저는 있습니다
+      숙취가
+      I have a hangover.
+
+      어떠세요?
+      숙취가
+      How's your hangover?
+
+      저는 계속 ~가 있습니다
+      숙취가
+      소맥으로 인한
+      I am having a hangover from the soju bomb.
+
+      Marvin은 ~인 것 같다
+      숙취가 있는 것처럼
+      Marvin seems like he has a hangover.
+      Marvin looks like he has a hangover.
+
+      여전히 힘드세요?
+      숙취로
+      Are you still suffering from a hangover?
+
+      A: I had the worst hangover this morning.
+      B: I'm still recovering from mine.
+      A: Take this. It'll help with your hangover.
+      B: Thank you. I needed this.
+
+# 왕초보 영어
+## Ep. 1017: 여행
+## 2019. 11. 8 (금)
+
+
+
