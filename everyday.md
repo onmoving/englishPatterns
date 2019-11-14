@@ -178,4 +178,24 @@ Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American 
 ## Ep. 1281
 ## 2019. 11. 7 (목)
 
+A new exhibit at the Louvre, however, opening Thursday and marking the 500th anniversary of the Italian master's death, tries to sketch out as complete a picture of the artist and thinker as possible.
 
+Drawing from the Louvre's permanent collection and institutions around the world, the exhibit brings together some 160 works. 
+
+그러나 이탈리아의 거장인 다빈치 사후 500주년을 기념해 목요일부터 전시되는 루브르의 전시회는 화가이자 사상가인 다빈치의 전모를 가능한 더 자세히 드러내고자 한다.
+
+루브르박물관의 영구 소장품을 비롯해 전세계 여러 기관에서 추린 약 160점의 작품이 이번 전시회에 출품된다.
+
+A new exhibit at the Louvre, however, opening Thursday and m.. 기념하는 the 500th an.. 주년 of the Italian master's death, tries @ sketch @ as complete a picture of the artist and thinker as possible.
+
+Drawing @ the Louvre's permanent collection and institutions @ the world, the exhibit ... 한데 모으다(데려오다) some 160 works. 
+
+### Part 3: DIY 영어 기사 작성하기
+
+The government must cool down the overheated market before the real estate bubble bursts.
+
+(form, inflate, deflate, burst)
+
+정부는 부동산 거품이 터지기 전에 과열된 시장을 가라앉혀야만 한다.
+
+The government must cool @ the over.. market @ the real estate bubble b.. .
