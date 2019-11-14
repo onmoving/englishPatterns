@@ -199,3 +199,8 @@ The government must cool down the overheated market before the real estate bubbl
 정부는 부동산 거품이 터지기 전에 과열된 시장을 가라앉혀야만 한다.
 
 The government must cool @ the over.. market @ the real estate bubble b.. .
+
+# 영어뉴스
+## Ep. 1068
+## 2019. 11. 7 (목)
+
