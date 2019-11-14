@@ -298,5 +298,48 @@ Now, there's tons of different apps ... to prevent your phone @ being usable.
 ## Ep. 1017: 여행
 ## 2019. 11. 8 (금)
 
+      A: Do you mind  ... somewhere else?  
+            (어딘가 다른 곳에서 흡연하시면 꺼리실까요?) 
+      A: There are  ... people here.  
+            (여기 연세 있는 분들이 계신데요.) 
+      B: Oh, I am terribly  .... 
+      (오, 정말 죄송해요.)
+      B: I didn't  .... 
+      (눈치 못 챘네요.) 
 
+      smoking
+      elderly 연세있는
+      sorry
+      notice
+
+      somewhere romantic
+      somewhere quiet
+      somewhere cozy
+
+      Do you mind moving your bag?
+      Do you mind turning off your cell phone?
+
+      대답: No, I don't mind.
+
+      elderly > aged > old
+
+      There are children here.
+      There are little kids here.
+      There are cats in the living room.
+      There are many problems there.
+
+      We are terribly sorry.
+      I am terribly sorry about my mistake.
+
+      I didn't eat your pizza.
+      We didn't touch your donuts.
+
+      퀴즈: This is the darkest color.
+
+      퀴즈: 절 위해 이 병을 열어 주시는 걸 꺼리실까요?
+      Do you mind opening this bottle for me?
+
+# 영자신문
+## Ep. 1282
+## 2019. 11. 8 (금)
 
