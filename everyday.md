@@ -1,33 +1,3 @@
-# 영어뉴스
-## Ep. 1067
-## 2019. 11. 6 (수)
-
-But as time went on,/ Mugabe grew intolerant of dissent/ and faced allegations of human rights abuses,/ repression/ and election rigging.
-
-However, growing discontent about the country's leadership/ prompted a military intervention/ and Mugabe was forced to resign in 2017.
-
-그러나 시간이 지나면서 무가베는 자신에 반대하는 의견을 용납하지 않고 인권 유린, 탄압, 선거 조작 등의 혐의에 직면했습니다.
-
-그러나 국가 지도부에 대한 불만 증가는 군사 개입을 촉발했고 무가베는 2017년에 축출되었습니다. 
-
-But a... 시간이 지나면서,/ Mugabe grew intolerant @ ..반대의견의/ and faced ..혐의 of ...인권유린,/ ..탄압/ and ... 선거조작 .
-
-However, growing ..불만 @ the country's leadership/ ..촉발하다 ...군사개입/ and Mugabe ...축출되었다 @ 2017.
-However, growing 
-
----
-Prabal Gurung asked:/ Who gets to be an American? He paid tribute to American fashion/ with cowboy boots, denim and sportswear-influenced looks.
-
-During the finale,/ sashes draped on models asked his key question/ of what defines an American.
-
-프라발 구룽은 누가 미국인이 될 수 있는가라는 질문을 던졌습니다. 그는 카우보이 부츠, 데님, 스포츠웨어에서 영향을 받은 의상으로 미국인의 패션을 기렸습니다.
-
-피날레에서 그는 모델들이 두른 띠로 미국인을 정의하는 것이 무엇이냐는 핵심 질문을 던졌습니다. 
-
-Prabal Gurung ..지문했다:/ ...문장전체? He pa.. .. @ 기렸다 American fashion/ @ cowboy boots, denim and sportswear-influenced looks.
-
-@ the finale,/ sa..띠들로 ..두른 @ models asked his key question/ @ what defines an American.
-
 # 생활영어
 ## Ep. 755
 ## 2019. 11. 6 (수)
