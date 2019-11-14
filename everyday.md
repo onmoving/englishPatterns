@@ -255,9 +255,9 @@ Now, there's tons of different apps ... to prevent your phone @ being usable.
       
 ### In The Social World 
 
-Ahsan (남)
-Meditation helps you develop the skill of diverting your attention from a distraction back to your breathing.
+      Ahsan (남)
+      Meditation helps you develop the skill of diverting your attention from a distraction back to your breathing.
 
-Katarina (여)
-According to this article, scientists have shown that meditation helps us tune out distractions and relieve pain.
+      Katarina (여)
+      According to this article, scientists have shown that meditation helps us tune out distractions and relieve pain.
 
