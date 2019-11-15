@@ -346,3 +346,23 @@ Now, there's tons of different apps ... to prevent your phone @ being usable.
 At least 55 elephants have starved to death in the past two months in Zimbabwe's biggest national park as a serious drought forces animals to stray into nearby communities in search of food and water.
 
 At least 55 elephants ... 굶주려와서 죽음에 이르다 @ the past two months in Zimbabwe's biggest national park <>이유,때 a serious dr.. 가뭄 forces animals @ st.. @ 제 위치[길]를 벗어나서 ~안으로 nearby communities ... ~을 찾아 food and water.
+
+---
+A study of former professional soccer players in Scotland finds that they were less likely to die of common causes such as heart disease and cancer compared with the general population but more likely to die from dementia.
+
+A study @ former professional soccer players @ Scotland finds that they were less likely @ die @ common causes such as heart disease and cancer compared @ the general population <> more likely @ die @ .. .
+
+---
+Scientists examined 33 El Ninos — a warming of ocean surface temperatures in the equatorial Pacific that triggers weather extremes across the globe — since 1901. 
+
+과학자들은 1901년부터 나타난 33건의 엘니뇨 현상을 조사했다. 엘니뇨는 전세계에 이상 기후를 가져오는 적도 태평양 지역의 해수면 수온 상승 현상을 의미한다.
+
+Scientists .. 33 El Ninos — a warming of ocean surface temperatures in the .. Pacific that .. weather .. @ the globe — @ 1901. 
+
+### Part 3: DIY 영어 기사 작성하기
+
+The effects of climate change are felt in the form of severe heat waves, droughts, and other erratic / extreme weather events.
+
+기후변화로 인한 영향은 극심한 폭염, 가뭄 등의 이상기후로 나타나고 있다.
+
+The effects of climate change ... in the form of severe ..., .., and other .. weather events.
