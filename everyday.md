@@ -144,29 +144,6 @@
       I want to fall in love with someone.
       I want to fall in love with somebody.
 
-# 영어뉴스
-## Ep. 1068
-## 2019. 11. 7 (목)
-
-Samsung's Galaxy Fold sold out/ less than 24 hours after going on sale in Korea,/ despite its price of about 2,000 US dollars. The first batch was thought to number no more than 2,500 units/ but the hot response demonstrates/ that early adopters are willing to pay for cutting-edge technology.
-
-2천 달러의 가격에도 불구하고 삼성 갤럭시 폴드가 국내 출시 24시간도 되지 않아 매진되었습니다. 첫 출고 물량은 2500대 정도 되는 것으로 알려졌는데, 뜨거운 반응은 얼리 어댑터들이 최첨단 기술을 위해 비용을 지불할 의사가 있다는 것을 증명했습니다. 
-
-Samsung's Galaxy Fold ... 매진되었다/ le.. .. 24 hours after ... 출시하다 in Korea,/ <> ~에도불구하고 its price of about 2,000 US dollars. The first b.. 첫출고 ...~로 생각되다,알려지다 number ... 대정도,불과 2,500 units/ but the hot response demon.. 증명한다,보여준다/ that early adopters are willing @ pay @ cut.. 최신의 technology.
-
----
-Facebook is tackling a new frontier:/ love.
-
-Meanwhile Tinder,/ often focused on more casual connections and a younger demographic,/ has continued to grow in countries where Facebook Dating launched earlier.
-
-페이스북이 새로운 개척지에 도전합니다. 바로 사랑입니다.
-
-한편, 캐주얼한 만남과 젊은층에 보통 초점을 맞추는 틴더는 이전에 페이스북 데이팅이 출범한 국가에서 성장을 지속하고 있습니다. 
-
-Facebook ... 도전합니다 a new .. 개척지에:/ love. 
-
-Meanwhile Tinder,/ often focused on more casual connections and a younger .. 층, 인구통계적 집단,/ has ... 성장을 지속하고 있다 in countries <<> Facebook Dating launched earlier.
-
 # 생활영어
 ## Ep. 756
 ## 2019. 11. 7 (목)
@@ -340,3 +317,7 @@ The effects of climate change are felt in the form of severe heat waves, drought
 기후변화로 인한 영향은 극심한 폭염, 가뭄 등의 이상기후로 나타나고 있다.
 
 The effects of climate change ... in the form of severe ..., .., and other .. weather events.
+
+# 영어뉴스
+## Ep. 1069
+## 2019. 11. 8 (금)
