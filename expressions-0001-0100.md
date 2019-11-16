@@ -21,3 +21,5 @@ Wouldn't it be great to have an on/off switch in your mind for distractions?
 #### 2-1: Wouldn't it be great if ~
 
 Wouldn't it be great if we had an on/off switch in your mind for distractions?
+
+#### 3: ~ in some places, ~ in other areas 
