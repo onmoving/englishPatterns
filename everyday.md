@@ -1,62 +1,3 @@
-# 생활영어
-## Ep. 755
-## 2019. 11. 6 (수)
-
-      I'll end up spending maybe 20 minutes on my phone and I don't know how. 
-
-      And then I end up scrolling social media for maybe 15, 20 minutes. 
-
-      And at the end, when I realize, I don't know where all my time has gone. So I find my phone very distracting. 
-
-      Because of this, I will turn off all my notifications and I will have tech-free days where I don't even bring my smartphone with me when I go out. 
-
-      So I highly recommend this if your smartphone is also very distracting.
-
-      저는 저도 모르게 20분 정도를 휴대폰을 보면서 보내게 돼요. 
-
-      그러다가 소셜미디어를 15분, 20분 정도 스크롤 하면서 보게 돼요. 
-
-      그리고는 마침내 정신을 차려 보면, 시간이 어떻게 흘러갔는지를 모르게 돼요. 그래서 휴대폰이 정말 주의를 산만하게 하는 것 같아요. 
-
-      그래서 저는 알림을 모두 끄고 전자제품을 안 쓰는 날을 가지곤 해요. 외출할 때 스마트폰을 안 가지고 가는 거죠. 
-
-      여러분도 스마트폰이 집중력을 많이 흐트러뜨린다면, 이렇게 해 보실 것을 강력히 추천합니다. 
-
-      I'll end ... 보내게 되요 .. 아마도 20 minutes @ my phone and ... 나도 모르게, 어떤 영문인지 모르게. 
-
-      And then I end ... 스크롤 하게 되요 social media @ .. 아마도 15, 20 minutes. 
-
-      And ... 마침내, ... 정신 차려 보면, ... 문장전체. So I .. ~가 ~한것을 알게되다 my phone very .. 주위를 산만하게 하는. 
-
-      Because of this, I will turn off all my notifications and I will have ..-free days <<> I don't even bring my smartphone ... 나와함께 ... 내가 외출할 때. 
-
-      So ... 난 강력히 추천한다 this <> your smartphone is also very .. 주위를 산만하게 하는.
-
-### Pattern Practice 
-      have a –free day
-      ~가 없는 하루를 보내다
-
-      1. Let's have a stress-free day.
-
-      2. They agreed to have a plastic-free day.
-
-      I highly recommend ~
-      저는 ~를 강력 추천합니다.
-
-      1. I highly recommend the pasta.
-
-      2. I highly recommend sunscreen today. 
-      
-      스트레스 없는 하루를 보냅시다.
-      그들은 플라스틱을 안 쓰는 하루를 보내기로 동의했어요. 
-      저는 파스타를 강력 추천해요. 
-      저는 오늘은 선크림을 바를 것을 강력 추천해요. 
-
-### 알쏭달쏭 한마디 
-
-      저는 집에 전화기를 두고 왔어요. 
-      I left my phone at home. 
-
 # 어순트레이닝
 ## Ep. 1067
 ## 2019. 11. 6 (수)
@@ -143,74 +84,6 @@
       I fell in love with that TV show.
       I want to fall in love with someone.
       I want to fall in love with somebody.
-
-# 생활영어
-## Ep. 756
-## 2019. 11. 7 (목)
-
-In order to stop myself from always getting distracted, I actually had to start meditating. 
-
-Now, it's no surprise that my biggest distraction for many things is my phone. 
-
-There's just so many things to do, 
-and it's so addictive that I always get distracted, no matter what I'm doing, by my phone. 
-
-Now, there's tons of different apps that you can use to prevent your phone from being usable. 
-
-항상 주의가 산만해지는 것을 막기 위해서 저는 사실 명상을 시작해야 했어요.
-
-물론, 여러 가지 면에서 가장 집중력을 흐트러뜨리는 존재는 제 전화기라는 건 놀라운 사실이 아니죠. 
-
-(전화기로) 할 게 정말 많이 있고, 
-그리고 정말 중독성이 있어서 제가 뭘 하고 있든지, 휴대폰 때문에 주의가 산만해져요. 
-
-물론 휴대폰을 쓸 수 없도록 하기 위해서 사용할 수 있는 다양한 앱들이 많이 있어요. 
-
-In order to .. myself @ always .. distracted, I actually had to start meditating. 
-
-Now, ... my biggest distraction for many things is my phone. 
-
-There's just .. many things to do, 
-and ... I always get distracted, ..., by my phone. 
-
-Now, there's tons of different apps ... to prevent your phone @ being usable. 
-
-### Pattern Practice 
-
-      stop ~ from –ing
-      ~가 ~하는 걸 막다 
-
-      1. I stopped him from selling the house.
-
-      2. She stopped him from making another mistake.
-
-      It is no surprise (that) ~
-      ~는 놀라운 일이 아니다
-
-      1. It was no surprise she believed it.
-
-      2. It's no surprise that the price went up.
-            
-      저는 그가 집을 팔지 못하게 했어요. 
-      그녀는 그가 또 다른 실수를 하는 걸 막았어요. 
-      그녀가 그 말을 믿었다는 건 놀랍지 않았어요. 
-      가격이 올라간 건 놀랍지 않아요. 
-
-### 알쏭달쏭 한마디 
-
-      This app will help you do that. 
-      
-      이 앱을 쓰면 도움이 될 거예요. 
-      
-      This app will ... . 
-      
-### In The Social World 
-
-      Ahsan (남)
-      Meditation helps you develop the skill of diverting your attention from a distraction back to your breathing.
-
-      Katarina (여)
-      According to this article, scientists have shown that meditation helps us tune out distractions and relieve pain.
 
 # 어순트레이닝
 ## Ep. 1068
@@ -334,3 +207,7 @@ The fully-functioning toilet,/ titled "America",/ was previously on display at N
 아메리카란 제목의 완벽히 작동하는 변기는 기존에 뉴욕 구겐하임 미술관에서 전시되었으며, 미술관 관계자들에 따르면 예술과 자연과 교감할 기회를 얻기 위해 수천명이 줄을 서서 기다렸습니다. 카텔란은 무엇을 먹든지 간에 변기의 관점에서는 결과가 같기 때문에, 변기는 과도한 부에 대한 풍자적인 작품이라고 설명했습니다.
 
 The fully-f..작동하는,기능하는 toilet,/ t.. 제목의 "America",/ .. previously @ d.. 전시되었다 @ New York's Guggenheim Museum,/ <> thousands had waited in line @ the opportunity/ @ "... ~와 교감하다 art and @ nature", according @ museum officials. Cattelan said the toilet was a sat.. 풍자적인 p..작품 @ ~대한 excess wealth,/ <>이유 whatever you eat,/ the results are the same, toilet-..변기의관점,~에 관하여,~의 면에서.
+
+# 생활영어
+## Ep. 757
+## 2019. 11. 8 (금)
