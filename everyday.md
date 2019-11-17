@@ -1,31 +1,3 @@
-# 영자신문
-## Ep. 1282
-## 2019. 11. 8 (금)
-
-At least 55 elephants have starved to death in the past two months in Zimbabwe's biggest national park as a serious drought forces animals to stray into nearby communities in search of food and water.
-
-At least 55 elephants ... 굶주려와서 죽음에 이르다 @ the past two months in Zimbabwe's biggest national park <>이유,때 a serious dr.. 가뭄 forces animals @ st.. @ 제 위치[길]를 벗어나서 ~안으로 nearby communities ... ~을 찾아 food and water.
-
----
-A study of former professional soccer players in Scotland finds that they were less likely to die of common causes such as heart disease and cancer compared with the general population but more likely to die from dementia.
-
-A study @ former professional soccer players @ Scotland finds that they were less likely @ die @ common causes such as heart disease and cancer compared @ the general population <> more likely @ die @ .. .
-
----
-Scientists examined 33 El Ninos — a warming of ocean surface temperatures in the equatorial Pacific that triggers weather extremes across the globe — since 1901. 
-
-과학자들은 1901년부터 나타난 33건의 엘니뇨 현상을 조사했다. 엘니뇨는 전세계에 이상 기후를 가져오는 적도 태평양 지역의 해수면 수온 상승 현상을 의미한다.
-
-Scientists .. 33 El Ninos — a warming of ocean surface temperatures in the .. Pacific that .. weather .. @ the globe — @ 1901. 
-
-### Part 3: DIY 영어 기사 작성하기
-
-The effects of climate change are felt in the form of severe heat waves, droughts, and other erratic / extreme weather events.
-
-기후변화로 인한 영향은 극심한 폭염, 가뭄 등의 이상기후로 나타나고 있다.
-
-The effects of climate change ... in the form of severe ..., .., and other .. weather events.
-
 # 영어뉴스
 ## Ep. 1069
 ## 2019. 11. 8 (금)
@@ -181,3 +153,31 @@ The problem is people find distractions to avoid having to face themselves, thei
 
       퀴즈: 절 위해 이 병을 열어 주시는 걸 꺼리실까요?
       Do you mind opening this bottle for me?
+
+# 영자신문
+## Ep. 1283
+## 2019. 11. 11 (월)
+
+But it is more due to freakish Antarctic weather than efforts to cut down on pollution, NASA reported.
+
+But it ... 더 ~로 인한 것이다,때문이다 fr..별난,기이한 A..남극의 weather <> efforts @ cut down @ pollution, NASA reported.
+
+---
+Three United Nations agencies had urged Mexico to adopt such measures "to address a national emergency of excess weight and obesity."
+
+Three United Nations agencies ... 촉구했었다 Mexico @ ad..채택할 것을 such me..조치들 "@ ad..해결하기위해 a national emergency @ excess weight and obesity."
+
+---
+Two centuries after its invention, the stethoscope — the very symbol of the medical profession — is facing an uncertain prognosis.
+
+의사를 상징하는 청진기는 200년 전에 발명되었다. 그러나 청진기의 미래는 불확실하다.
+
+Two centuries @ its invention, the .. 청진기 — ... 바로 그 상징 of the medical profession — is facing an uncertain prog.. 예후,예측.
+
+### Part 3: DIY 영어 기사 작성하기
+
+Junk food is processed food that is high / rich in calories, but low in nutrients like protein and fiber.
+
+정크 푸드는 칼로리는 높지만 단백질과 섬유질과 같은 영양소는 부족한 가공 식품을 의미한다.
+
+Junk food is pro.. food that is .. / r.. @ .. 칼로리, but .. @ .. 영양소 like protein and fiber.
