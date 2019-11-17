@@ -203,3 +203,34 @@ The problem is people find distractions to avoid having to face themselves, thei
 # 어순트레이닝
 ## Ep. 1069
 ## 2019. 11. 8 (금)
+
+      hear (about) + 루머/소문
+
+      들었어요?
+      그 소식을
+      Did you hear the news?
+
+      들었어요?
+      승진에 대해
+      올해
+      Did you hear about the promotion this year?
+
+      들었어요?
+      새로운 부장님에 대해
+      취임하시는
+      Did you hear about the new boss coming in?
+
+      어디서
+      들었어요?
+      그걸
+      Where did you hear that?
+
+      누구에게
+      들었어요?
+      말도 안 되는 가십을
+      Who did you hear that ridiculous gossip from?
+
+      A: Hey, did you hear about Howard and Pepper?
+      B: No, what happened?
+      A: I heard that they split up? ( = broke up)
+      B: What? They got engaged last month.
