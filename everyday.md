@@ -234,3 +234,40 @@ The problem is people find distractions to avoid having to face themselves, thei
       B: No, what happened?
       A: I heard that they split up? ( = broke up)
       B: What? They got engaged last month.
+
+# 왕초보 영어
+## Ep. 1018
+## 2019. 11. 11 (월)
+
+      A: I'm sorry I .. fun of you.  
+      (누나를 놀려서 미안해.) 
+      B: No, I .. it first.  
+            (아니야, 내가 먼저 시작했잖아.) 
+      B: I'm sorry for .. at you.  
+            (너한테 소리 질러서 미안해.) 
+      A: Let's not .. again. 
+      (다시는 싸우지 말자.) 
+
+      made
+      started
+      yelling
+      fight
+
+      Don't make fun of my cloths.
+      Peter made of fun of my hair.
+      Did you make fun of my siste?
+
+      I'm sorry I lied.
+      I'm sorry I'm late again.
+
+      Brush your teeth first.
+      Brian pinched me first. 꼬집다
+      I said it first.
+
+      Stop yelling at me.
+      My mom yelled at my dad.
+
+      I'm sorry for ruining the party.
+
+      Let's not go out.
+      Let's not be selfish.
