@@ -23,3 +23,14 @@ Wouldn't it be great to have an on/off switch in your mind for distractions?
 Wouldn't it be great if we had an on/off switch in your mind for distractions?
 
 #### 3: ~ in some places, ~ in other areas 
+
+
+### 4. to를 받는 동사
+
+    begin to
+
+They invited two Syrian refugees who had had to swim for their lives while crossing over the Mediterranean Sea when their boat began to sink.
+
+그들은 지중해를 건너다 배가 가라앉기 시작하자 살기 위해 수영을 했던 두 명의 시리아인을 초대했습니다.
+
+#### 4. ing를 받는 동사
