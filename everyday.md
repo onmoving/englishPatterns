@@ -1,20 +1,3 @@
-# 영어뉴스
-## Ep. 1069
-## 2019. 11. 8 (금)
-
-Taking the stage in Jordan were various speakers,/ such as two Syrian refugees/ who had had to swim for their lives while crossing over the Mediterranean Sea/ when their boat began to sink.
-
-요르단에서 개최된 무대에는 지중해를 건너다 배가 가라앉기 시작하자 살기 위해 수영을 했던 두 명의 시리아인을 포함한 다양한 연사가 올랐습니다.
-
-..점유하는 the stage in Jordan ..점유하는 중이었다 various speakers,/ such as two Syrian ...피난민/ who had had to swim ...살기위해 while crossing @ the Mediterranean Sea/ when their boat began @ sink.
-
----
-The fully-functioning toilet,/ titled "America",/ was previously on display at New York's Guggenheim Museum,/ where thousands had waited in line for the opportunity/ to "commune with art and with nature", according to museum officials. Cattelan said the toilet was a satirical piece on excess wealth,/ because whatever you eat,/ the results are the same, toilet-wise.
-
-아메리카란 제목의 완벽히 작동하는 변기는 기존에 뉴욕 구겐하임 미술관에서 전시되었으며, 미술관 관계자들에 따르면 예술과 자연과 교감할 기회를 얻기 위해 수천명이 줄을 서서 기다렸습니다. 카텔란은 무엇을 먹든지 간에 변기의 관점에서는 결과가 같기 때문에, 변기는 과도한 부에 대한 풍자적인 작품이라고 설명했습니다.
-
-The fully-f..작동하는,기능하는 toilet,/ t.. 제목의 "America",/ .. previously @ d.. 전시되었다 @ New York's Guggenheim Museum,/ <> thousands had waited in line @ the opportunity/ @ "... ~와 교감하다 art and @ nature", according @ museum officials. Cattelan said the toilet was a sat.. 풍자적인 p..작품 @ ~대한 excess wealth,/ <>이유 whatever you eat,/ the results are the same, toilet-..변기의관점,~에 관하여,~의 면에서.
-
 # 생활영어
 ## Ep. 757
 ## 2019. 11. 8 (금)
