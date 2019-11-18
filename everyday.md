@@ -30,11 +30,11 @@ Junk food is pro.. food that is .. / r.. @ .. 칼로리, but .. @ .. 영양소 l
 ## Ep. 1070
 ## 2019. 11. 11 (월)
 
-Yemen's Houthi rebels claimed responsibility/ and vowed to increase the attacks/ if Saudi-coalition forces continued their strikes inside Yemen. However, western and Saudi officials have cast doubt on the claim,/ saying the drones did not originate in Yemen/ and instead pointed to Iran/ – a known backer of the Houthis.
+Yemen's Houthi rebels claimed responsibility/ and vowed to increase the attacks/ if Saudi-coalition forces continued their strikes inside Yemen. However, western and Saudi officials have cast doubt on the claim,/ saying the drones did not originate in Yemen/ and instead pointed to Iran/ - a known backer of the Houthis.
 
 예멘 후티 반군이 자신들의 소행이라고 주장하며, 사우디 연합군이 예멘 내부에 대한 타격을 계속할 경우 공격을 증가하겠다고 맹세했습니다. 그러나, 서방 및 사우디 관계자는 드론이 예멘에서 출발하지 않았다고 말하며 후티의 알려진 지지자인 이란을 지목하며 이들 주장에 의혹을 던졌습니다. 
 
-Yemen's Houthi rebels cl...소행이라고 주장하다, 책임을 인정하다/ and .. 맹세했다 to increase the attacks/ if Saudi-co연합 forces continued their st..타격 in@ 내부 Yemen. However, western and Saudi officials have ca... ~을 의심하다, 의혹을 던지다 the claim,/ ..말하며 the drones did not ... ~에서 비롯하다, 시작되다 Yemen/ and instead po... 지목했다 Iran/ – a known ba..지지자 of the Houthis.
+Yemen's Houthi rebels cl...소행이라고 주장하다, 책임을 인정하다/ and .. 맹세했다, 천명했다 to increase the attacks/ if Saudi-co연합 forces continued their st..타격 in@ 내부의,안쪽의 Yemen. However, western and Saudi officials have ca... ~을 의심하다, 의혹을 던지다 the claim,/ ..말하며 the drones did not ... ~에서 비롯하다, 시작되다 Yemen/ and instead po... 지목했다 Iran/ - a known ba..지지자 of the Houthis.
 
 ---
 The 8-day festival honors Indra,/ the god of rain and harvest,/ and is celebrated by both Hindus and Buddhists/ with music, dancing and feasting. The living goddess or Kumari/ is a young girl chosen through a series of ancient ceremonies/ from a specific clan from the Newar (발음: ni-WAHR) community. During the festival,/ Kumari is taken around the main parts of the Nepalese capital/ in a wooden chariot pulled by supporters. Indra Jatra marks the end of monsoon/ and the beginning of the festival season in Nepal. 
@@ -253,3 +253,27 @@ Experts say many migrants enter Britain @ l.. 합법적인 tourist visas, then .
 # 영어뉴스
 ## Ep. 1071
 ## 2019. 11. 12 (화)
+
+The demonstration in Johannesburg/ followed several days of protests in Cape Town/ after a spate of murders of young women and children.
+
+Some protesters called out the government/ for not dealing with xenophobic attacks/ against foreign-owned shops and stalls.
+
+요하네스버그에서 열린 데모에서 젊은 여성과 어린이들에 대한 잇따른 살인사건 이후 케이프타운에서 열린 며칠간의 시위 후 개최되었습니다.
+
+일부 시위자들은 정부가 외국인 소유의 가게나 좌판에 대한 외국인을 싫어하는 공격에 대응하지 않고 있다고 지적했습니다. 
+
+The demonstration in Johannesburg/ f.. ~를 뒤 따랐다 se... 며칠간의 시위 in Cape Town/ @ 후에 ... 잇따른,연속적인 murders of young women and children.
+
+Some protesters ca... 지적했다 the government/ @ not de... 다루지 않는것 xe.. attacks/ @~에 대항하는 foreign-owned shops and st..좌판,가판대.
+
+---
+Earlier in the day,/ US President Donald Trump laid a wreath at the Pentagon. In Pennsylvania,/ the third site of a plane crash on 9/11,/ Vice President Mike Pence credited the crew and passengers who fought back against the hijackers/ with protecting people in the US Capitol building that day. Nearly 3,000 people were killed/ when terrorist-piloted planes/ slammed into the World Trade Center,/ the Pentagon/ and a field in Pennsylvania.
+
+아침 일찍 도널드 트럼프 대통령은 펜타곤에서 헌화했습니다. 9.11 비행기 충돌의 세 번째 장소인 펜실베니아에서는 마이크 펜스 부통령은 그날 미국 국회의사당에 있는 사람들을 보호하기 위해 납치범들과 싸운 승무원과 승객들에게 공적을 돌렸습니다. 테러범들이 조정하는 비행기가 월드트레이드센터, 국방부, 펜실베니아 들판에 충돌했을 때 약 3천명이 사망했습니다. 
+
+.. @ the day,/ US President Donald Trump ... 헌화했다 @ the Pentagon. @ Pennsylvania,/ the third site of a plane crash @ 9/11,/ Vice President Mike Pence c... ~에게 공적을 돌렸다 the crew and passengers <<> ... ~와 싸우다 the hijackers/ @ protecting people in the US Capitol building that day. Nearly 3,000 people were killed/ when terrorist-p.. planes/ ... ~을 꽝하고 충돌하다 the World Trade Center,/ the Pentagon/ and a field in Pennsylvania.
+
+# 생활영어
+## Ep. 759
+## 2019. 11. 12 (화)
+
