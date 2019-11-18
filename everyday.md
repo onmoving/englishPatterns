@@ -1,43 +1,3 @@
-# 왕초보 영어
-## Ep. 1018
-## 2019. 11. 11 (월)
-
-      A: I'm sorry I .. fun of you.  
-      (누나를 놀려서 미안해.) 
-      B: No, I .. it first.  
-            (아니야, 내가 먼저 시작했잖아.) 
-      B: I'm sorry for .. at you.  
-            (너한테 소리 질러서 미안해.) 
-      A: Let's not .. again. 
-      (다시는 싸우지 말자.) 
-
-      made
-      started
-      yelling
-      fight
-
-      Don't make fun of my cloths.
-      Peter made of fun of my hair.
-      Did you make fun of my siste?
-
-      I'm sorry I lied.
-      I'm sorry I'm late again.
-
-      Brush your teeth first.
-      Brian pinched me first. 꼬집다
-      I said it first.
-
-      Stop yelling at me.
-      My mom yelled at my dad.
-
-      I'm sorry for ruining the party.
-
-      Let's not go out.
-      Let's not be selfish.
-
-      퀴즈: 절 위해 이 병을 열어 주시는 걸 꺼리실까요?
-      Do you mind opening this bottle for me?
-
 # 영자신문
 ## Ep. 1283
 ## 2019. 11. 11 (월)
@@ -203,3 +163,10 @@ Don't feel bad @ saying no, @ putting yourself and your mental health first, <> 
       B: I'm actuall on my way to lunch with some business partners.
       A: Oh, no problem. Should we set up a meeting then?
       B: Yeah, let's set one up for some time this week.
+
+# 왕초보 영어
+## Ep. 1019
+## 2019. 11. 12 (화)
+
+      퀴즈: 절 위해 이 병을 열어 주시는 걸 꺼리실까요?
+      Do you mind opening this bottle for me?
