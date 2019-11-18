@@ -1,67 +1,3 @@
-# 생활영어
-## Ep. 757
-## 2019. 11. 8 (금)
-
-I was supposed to be working until I got distracted by an email on my cell phone. 
-
-But I don't think that's the case, because when I was a kid, before cell phones were even a thing, 
-
-And I'd be willing to bet that my parents and their parents and their parents also had their own technological distraction. 
-
-I'd even like to imagine thousands of years ago one of my ancestors getting distracted skipping rocks across a lake. 
-
-저는 원래 일을 해야 했는데, 휴대폰에 들어온 이메일 때문에 주의가 분산됐어요. 
-
-그런데 저는 꼭 그런 건 아닌 것 같아요. 왜냐하면 제가 어렸을 때, 휴대폰이라는 것이 없을 때에도
-
-그리고 분명히 저희 부모님과 그 분들의 부모님들, 그리고 그 분들의 부모님들도 뭔가 기술 제품 때문에 주의가 분산됐었을 거예요.
-
-그리고 저는 심지어 수천 년 전에 저의 조상님 중 한 분이 호수에서 물수제비를 뜨며 주의가 산만해졌을 거라고 상상해 보고 싶어요. 
-
----
-I ...supposed... <>그러다가,그런데 I ... @~의해 산만해졌다 an email @ my cell phone. 
-
-But I don't think ..., <>이유 when I was a kid, @ cell phones ... thing, 
-
-And I'.. be willing to .. 장담하다 that my parents and their parents and their parents also had their ..자신만의 technological distraction. 
-
-I'.. even ...~하길 좋아하다 imagine thousands of years ago one of my ancestors getting distracted skipp.. rocks @ a lake. 
-
-### Pattern Practice 
-#### refer to ~ as ~
-~를 ~라고 칭하다
-
-1. I refer to my friend as my twin.
-
-2. They referred to the house chores as a punishment.
-
-#### keep ~ from ~ 
-~를 ~로부터 멀리 떨어뜨려 놓다 
-
-1. Keep the kids from the stove.
-
-2. They kept me from negative thoughts.
-
-저는 제 친구를 제 쌍둥이라고 불러요.
-그들은 집안일을 벌이라고 불렀어요. 
-아이들이 가스레인지 곁에 못 가게 하세요.
-그들은 제가 부정적인 생각을 못 하게 했어요. 
-
-### 알쏭달쏭 한마디 
-
-기분 전환을 하고 싶어요.
-I need a distraction. 
-
-### In The Social World 
-
-Amanda (여)
-
-People always find distractions while studying. Honestly, I think the real distraction is the studying.
-
-Simon (남)
-
-The problem is people find distractions to avoid having to face themselves, their actions, and the consequences of them. 
-
 # 어순트레이닝
 ## Ep. 1069
 ## 2019. 11. 8 (금)
@@ -182,3 +118,6 @@ The 8-day festival honors Indra,/ the god of rain and harvest,/ and is celebrate
 
 The 8-day festival h..기린다 Indra,/ the god of rain and harvest,/ and ... 축하하다<수동> both Hindus and Buddhists/ @ music, dancing and fe..연회. The living goddess or Kumari/ is a young girl ...선출된 일련의 고대의식을 통해 ancient ceremonies/ from a specific ..씨족 from the Newar (발음: ni-WAHR) ..공동체/족. During the festival,/ Kumari ... 구석구석 데려다집니다<수동태> the main p..지역들 of the Nepalese capital/ in a wooden ch.. 마차 p..(마차를 끄는) by supporters. Indra Jatra m..알린다,표기한다 the end of monsoon/ and the beginning of the festival season in Nepal. 
 
+# 생활영어
+## Ep. 758
+## 2019. 11. 11 (월)
