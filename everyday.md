@@ -121,3 +121,78 @@ The 8-day festival h..기린다 Indra,/ the god of rain and harvest,/ and ... �
 # 생활영어
 ## Ep. 758
 ## 2019. 11. 11 (월)
+
+I think it's really important to say no sometimes just for your mental health.
+
+In this day and age, people feel so compelled to say yes to every single opportunity that they're given. 
+
+I see that with a lot of my friends who make online videos, 
+that they just put way too much on their plate and get overwhelmed, 
+and then sort of end up just stopping and doing nothing for a little while. 
+
+And so for me personally, instead of that, 
+I think that it's better to take things at a manageable pace and try and sort of regulate it so you can always do it. 
+And that means sometimes you have to say no to stuff, and that's okay.
+
+가끔은 정신 건강을 위해서라도 거절하는 게 정말 중요한 것 같아요. 
+
+요즘은 사람들이 자신들에게 주어지는 모든 기회를 받아들여야 한다고 여기는 것 같아요. 
+
+저는 인터넷에 비디오를 만들어 올리는 제 친구들이 이런 걸 겪는 걸 많이 봐요. 
+일을 너무 많이 맡아서는 감당이 안 되는 상황 말이에요. 
+그리고 결국에는 멈춰서는 한동안 아무것도 안 하게 돼요. 
+
+그리고 저는 개인적으로, 그런 것 대신에, 
+저는 일을 감당할 수 있는 속도로 맡고, 언제나 일을 해낼 수 있도록 조절하는 게 더 낫다고 생각해요. 
+그리고 그건 어떤 건 거절을 해야 한다는 뜻인데, 그래도 괜찮아요. 
+
+I think it's really important @ say no sometimes just @ your mental health.
+
+In this ..., people feel .. 매우,너무 compelled @ say yes @ every single opportunity <> they're g..주어지는. 
+
+I see <> with a lot of my friends <> make online videos, 
+<> they just put ... 정말 너무 많이 on their plate and ...압도되다 감당이안되다, 
+and then sort of ... ~하게 되다 just st.. and do.. nothing ... while. 한동안
+
+And so ...저의경우 개인적으로, instead of that, 
+I think that it's better @ take things @ a m..감당할 수 있는 pace and try and sort of re..조절하다 it so you can always do it. 
+And that means sometimes you have to say no @ stuff, and that's okay.
+
+### Pattern Practice 
+      feel compelled to ~
+      ~를 해야만 할 것 같은 기분이다
+
+      way too much
+      너무 많이, 너무 지나치게 
+
+      1. I felt compelled to clap.
+      2. He feels compelled to buy them dinner.
+
+      1. Did I talk way too much?
+      2. You're worrying way too much.
+      
+      저는 박수를 쳐야만 할 것 같은 기분이 들었어요.
+      그는 그들에게 저녁을 꼭 사 줘야 할 것 같은 기분이에요.
+      제가 말을 너무 많이 했나요? 
+      당신은 걱정을 너무 많이 하고 있어요. 
+
+### 알쏭달쏭 한마디 
+
+      이번엔 거절해야 할 것 같아요. 
+      
+      I'll have to say no this time. 
+
+#### In The Social World 
+
+Kim (여)
+
+Give yourself permission to do whatever it takes to keep your mental health in check. If that means saying no, do it!
+
+Kev (여)
+
+Don't feel bad about saying no, for putting yourself and your mental health first, because the only person that lives with your decisions is you.
+
+---
+Give yourself permission to do ... keep your mental health in check. If that means saying no, do it!
+
+Don't feel bad @ saying no, @ putting yourself and your mental health first, <> the only person that lives @ your decisions is you.
