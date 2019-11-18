@@ -181,3 +181,7 @@ Junk food is processed food that is high / rich in calories, but low in nutrient
 정크 푸드는 칼로리는 높지만 단백질과 섬유질과 같은 영양소는 부족한 가공 식품을 의미한다.
 
 Junk food is pro.. food that is .. / r.. @ .. 칼로리, but .. @ .. 영양소 like protein and fiber.
+
+# 영어뉴스
+## Ep. 1070
+## 2019. 11. 11 (월)
