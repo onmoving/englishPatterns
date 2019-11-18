@@ -168,3 +168,17 @@ Junk food is pro.. food that is .. / r.. @ .. 칼로리, but .. @ .. 영양소 l
 # 영어뉴스
 ## Ep. 1070
 ## 2019. 11. 11 (월)
+
+Yemen's Houthi rebels claimed responsibility/ and vowed to increase the attacks/ if Saudi-coalition forces continued their strikes inside Yemen. However, western and Saudi officials have cast doubt on the claim,/ saying the drones did not originate in Yemen/ and instead pointed to Iran/ – a known backer of the Houthis.
+
+예멘 후티 반군이 자신들의 소행이라고 주장하며, 사우디 연합군이 예멘 내부에 대한 타격을 계속할 경우 공격을 증가하겠다고 맹세했습니다. 그러나, 서방 및 사우디 관계자는 드론이 예멘에서 출발하지 않았다고 말하며 후티의 알려진 지지자인 이란을 지목하며 이들 주장에 의혹을 던졌습니다. 
+
+Yemen's Houthi rebels cl...소행이라고 주장하다, 책임을 인정하다/ and .. 맹세했다 to increase the attacks/ if Saudi-co연합 forces continued their st..타격 in@ 내부 Yemen. However, western and Saudi officials have ca... ~을 의심하다, 의혹을 던지다 the claim,/ ..말하며 the drones did not ... ~에서 비롯하다, 시작되다 Yemen/ and instead po... 지목했다 Iran/ – a known ba..지지자 of the Houthis.
+
+---
+The 8-day festival honors Indra,/ the god of rain and harvest,/ and is celebrated by both Hindus and Buddhists/ with music, dancing and feasting. The living goddess or Kumari/ is a young girl chosen through a series of ancient ceremonies/ from a specific clan from the Newar (발음: ni-WAHR) community. During the festival,/ Kumari is taken around the main parts of the Nepalese capital/ in a wooden chariot pulled by supporters. Indra Jatra marks the end of monsoon/ and the beginning of the festival season in Nepal. 
+
+8일간의 축제는 비와 수확의 신인 인드라를 기리며, 음악, 춤, 연회로 힌두교와 불교에서 모두 축하합니다. 살아있는 여신 또는 쿠마리는 네와르족(공동체)이라는 특정 씨족에서 일련의 고대 의식을 통해 선출한 어린 소녀입니다. 축제기간동안 쿠마리는 지지자들이 끄는 나무 마차에 타고 네팔 수도의 주요 지역을 돌아다닙니다. 인드라 자트라는 네팔의 우기의 끝을 알리고 축제 기간의 시작을 알립니다. 
+
+The 8-day festival h..기린다 Indra,/ the god of rain and harvest,/ and ... 축하하다<수동> both Hindus and Buddhists/ @ music, dancing and fe..연회. The living goddess or Kumari/ is a young girl ...선출된 일련의 고대의식을 통해 ancient ceremonies/ from a specific ..씨족 from the Newar (발음: ni-WAHR) ..공동체/족. During the festival,/ Kumari ... 구석구석 데려다집니다<수동태> the main p..지역들 of the Nepalese capital/ in a wooden ch.. 마차 p..(마차를 끄는) by supporters. Indra Jatra m..알린다,표기한다 the end of monsoon/ and the beginning of the festival season in Nepal. 
+
