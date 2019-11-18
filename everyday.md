@@ -241,3 +241,15 @@ British Prime Minister Boris Johnson vowed in Parliament on Wednesday that peopl
 보리스 존슨 영국 총리는 사람을 밀입국시키는 범죄자들에 대해서는 법이 정한 최고형량을 구형할 것이라고 수요일 의회에서 공식 입장을 밝혔다.
 
 British Prime Minister Boris Johnson v..맹세했다,공식입장을 밝혔다 @ Parliament @ Wednesday <> people sm.. ... 기소될 것이다, 구형될 것이다 the full ex.. of the law. 법이 정한 최고형량
+
+---
+
+Experts say many migrants enter Britain on legitimate tourist visas, then stick around.
+
+많은 이주자들이 합법적인 관광비자로 영국에 들어온 후 버틴다고 전문가들은 말하고 있다.
+
+Experts say many migrants enter Britain @ l.. 합법적인 tourist visas, then ...버틴다.
+
+# 영어뉴스
+## Ep. 1071
+## 2019. 11. 12 (화)
