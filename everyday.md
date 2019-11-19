@@ -26,85 +26,6 @@ Junk food is processed food that is high / rich in calories, but low in nutrient
 
 Junk food is pro.. food that is .. / r.. @ .. 칼로리, but .. @ .. 영양소 like protein and fiber.
 
-# 생활영어
-## Ep. 758
-## 2019. 11. 11 (월)
-
-I think it's really important to say no sometimes just for your mental health.
-
-In this day and age, people feel so compelled to say yes to every single opportunity that they're given. 
-
-I see that with a lot of my friends who make online videos, 
-that they just put way too much on their plate and get overwhelmed, 
-and then sort of end up just stopping and doing nothing for a little while. 
-
-And so for me personally, instead of that, 
-I think that it's better to take things at a manageable pace and try and sort of regulate it so you can always do it. 
-And that means sometimes you have to say no to stuff, and that's okay.
-
-가끔은 정신 건강을 위해서라도 거절하는 게 정말 중요한 것 같아요. 
-
-요즘은 사람들이 자신들에게 주어지는 모든 기회를 받아들여야 한다고 여기는 것 같아요. 
-
-저는 인터넷에 비디오를 만들어 올리는 제 친구들이 이런 걸 겪는 걸 많이 봐요. 
-일을 너무 많이 맡아서는 감당이 안 되는 상황 말이에요. 
-그리고 결국에는 멈춰서는 한동안 아무것도 안 하게 돼요. 
-
-그리고 저는 개인적으로, 그런 것 대신에, 
-저는 일을 감당할 수 있는 속도로 맡고, 언제나 일을 해낼 수 있도록 조절하는 게 더 낫다고 생각해요. 
-그리고 그건 어떤 건 거절을 해야 한다는 뜻인데, 그래도 괜찮아요. 
-
-I think it's really important @ say no sometimes just @ your mental health.
-
-In this ..., people feel .. 매우,너무 compelled @ say yes @ every single opportunity <> they're g..주어지는. 
-
-I see <> with a lot of my friends <> make online videos, 
-<> they just put ... 정말 너무 많이 on their plate and ...압도되다 감당이안되다, 
-and then sort of ... ~하게 되다 just st.. and do.. nothing ... while. 한동안
-
-And so ...저의경우 개인적으로, instead of that, 
-I think that it's better @ take things @ a m..감당할 수 있는 pace and try and sort of re..조절하다 it so you can always do it. 
-And that means sometimes you have to say no @ stuff, and that's okay.
-
-### Pattern Practice 
-      feel compelled to ~
-      ~를 해야만 할 것 같은 기분이다
-
-      way too much
-      너무 많이, 너무 지나치게 
-
-      1. I felt compelled to clap.
-      2. He feels compelled to buy them dinner.
-
-      1. Did I talk way too much?
-      2. You're worrying way too much.
-      
-      저는 박수를 쳐야만 할 것 같은 기분이 들었어요.
-      그는 그들에게 저녁을 꼭 사 줘야 할 것 같은 기분이에요.
-      제가 말을 너무 많이 했나요? 
-      당신은 걱정을 너무 많이 하고 있어요. 
-
-### 알쏭달쏭 한마디 
-
-      이번엔 거절해야 할 것 같아요. 
-      
-      I'll have to say no this time. 
-
-#### In The Social World 
-
-Kim (여)
-
-Give yourself permission to do whatever it takes to keep your mental health in check. If that means saying no, do it!
-
-Kev (여)
-
-Don't feel bad about saying no, for putting yourself and your mental health first, because the only person that lives with your decisions is you.
-
----
-Give yourself permission to do ... keep your mental health in check. If that means saying no, do it!
-
-Don't feel bad @ saying no, @ putting yourself and your mental health first, <> the only person that lives @ your decisions is you.
-
 # 어순트레이닝
 ## Ep. 1070
 ## 2019. 11. 11 (월)
@@ -259,3 +180,52 @@ Earlier in the day,/ US President Donald Trump laid a wreath at the Pentagon. In
 # 생활영어
 ## Ep. 759
 ## 2019. 11. 12 (화)
+
+Setting boundaries and saying no is a really important skill to learn and something we should all keep practicing and get better at.
+
+So something I've been trying to work on as I've gotten older is setting boundaries and, in particular, learning how to say no. 
+
+And I think there's something to be said about helping people
+but also staying within reason of your own personal boundaries and your own personal abilities. 
+
+경계를 짓고 거절하는 것은 배워야 하는 정말 중요한 기술이고, 우리 모두가 계속 연습하고 더 잘해야 하는 거예요. 
+
+제가 나이가 들면서 더 잘하려고 노력하고 있는 것 하나는, 경계를 짓는 거예요. 그리고 특히, 거절하는 법을 배우는 거예요. 
+
+그리고 사람들을 돕는 것은 분명 좋은 일이지만, 
+그래도 개인적인 경계선과 자신의 능력을 고려했을 때 합당한 선을 유지하는 것도 중요해요. 
+
+Setting boundaries and saying no is a really important skill ... 배워야하는 and something we should all ... 계속 연습하다 and ...능숙해 지다.
+
+So something I've been trying to ... 잘하려고 as I've gotten older is setting boundaries and, in particular, learning ...거절하는 법. 
+
+And I think ... 분명 좋은 일이다 helping people
+but also ... 합당한 선을 유지하는 것 of your own personal boundaries and your own personal abilities. 
+
+### Pattern Practice 
+
+      have a habit of –ing
+      ~를 하는 습관이 있다
+
+      1. She had a habit of biting her nails.
+
+      2. He has a habit of mixing up people's names.
+
+      I think it's important to make sure to ~
+      꼭 ~하는 게 중요한 것 같아요.
+
+      1. I think it's important to make sure to work out.
+
+      2. I think it's important to make sure to eat healthy.
+
+      그녀는 손톱을 물어뜯는 습관이 있었어요.
+      그는 사람들의 이름을 헷갈리는 버릇이 있어요. 
+
+      꼭 운동하는 게 중요한 것 같아요.
+      꼭 건강한 음식을 먹는 게 중요한 것 같아요. 
+
+### 알쏭달쏭 한마디 
+
+      I wouldn't say no to that.
+
+      저라면 마다하지 않을 거예요. 
