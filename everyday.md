@@ -229,3 +229,7 @@ but also ... 합당한 선을 유지하는 것 of your own personal boundaries a
       I wouldn't say no to that.
 
       저라면 마다하지 않을 거예요. 
+
+# 어순트레이닝
+## Ep. 1071
+## 2019. 11. 12 (화)
