@@ -1,5 +1,5 @@
 # 왕초보 영어 (01-beginner-english)
-## Ep. 1019 (2019. 11. 12 화)
+## Ep. 1019 (2019. 11. 12 화): 일상
 
       퀴즈: 절 위해 이 병을 열어 주시는 걸 꺼리실까요?
       Do you mind opening this bottle for me?
@@ -80,3 +80,8 @@
       Thank God (평서문)
       = (평서문)이라 참 다행이야.
 
+      퀴즈: 절 위해 이 병을 열어 주시는 걸 꺼리실까요?
+      Do you mind opening this bottle for me?
+
+      퀴즈: 그렇지 않으면, 난 널 안 도와줄 거야.
+      Otherwise, I won't help you.
