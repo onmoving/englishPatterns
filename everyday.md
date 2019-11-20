@@ -26,48 +26,6 @@ Junk food is processed food that is high / rich in calories, but low in nutrient
 
 Junk food is pro.. food that is .. / r.. @ .. 칼로리, but .. @ .. 영양소 like protein and fiber.
 
-# 어순트레이닝
-## Ep. 1070
-## 2019. 11. 11 (월)
-
-      set up + 일정
-      set 대명사 up
-
-      제가 하겠습니다
-      일정을 잡는 걸
-      미팅을
-      오후 1시로
-      I'll set up a meeting for 1 p.m.
-
-      저희가 할 수 있을까요?
-      일정을 잡는 걸
-      면접을
-      내일로
-      Can we set up a job interview for tomorrow?
-
-      합시다
-      일정을 잡는 걸
-      화상회의를
-      중국에 있는 파트너와.
-      Let's set up a conference call with the partners in China.
-
-      해줄 수 있어요?
-      일정을 잡는 걸
-      Karen과 약속을
-      5시로
-      Can you set up an appointment with Karen for 5 p.m.?
-
-      해줬으면 해요
-      일정을 잡는 걸
-      오전 미팅을
-      문제를 논의하기 위해.
-      I want you to set up a breakfast meeting to discuss some issues.
-
-      A: Do you have a moment to talk about the sales report?
-      B: I'm actuall on my way to lunch with some business partners.
-      A: Oh, no problem. Should we set up a meeting then?
-      B: Yeah, let's set one up for some time this week.
-
 # 왕초보 영어
 ## Ep. 1019
 ## 2019. 11. 12 (화)
