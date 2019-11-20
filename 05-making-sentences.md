@@ -1,5 +1,5 @@
-## Ep. 1070
-### 2019. 11. 11 (월)
+# 어순 트레이닝
+## Ep. 1070 (2019. 11. 11 월)
 
       set up + 일정
       set 대명사 up
@@ -39,8 +39,7 @@
       A: Oh, no problem. Should we set up a meeting then?
       B: Yeah, let's set one up for some time this week.
 
-### Ep. 1071
-## 2019. 11. 12 (화)
+## Ep. 1071 (2019. 11. 12 화)
 
     일정 + start + at 시간
     일정 + end + at 시간
