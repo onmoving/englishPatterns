@@ -64,4 +64,26 @@ Experts say many migrants enter Britain on legitimate tourist visas, then stick 
 
 많은 이주자들이 합법적인 관광비자로 영국에 들어온 후 버틴다고 전문가들은 말하고 있다.
 
-Experts say many migrants enter Britain @ l.. 합법적인 tourist visas, then ...버틴다.
+Experts say many migrants enter Britain `@ l.. 합법적인` tourist visas, then ...버틴다.
+
+## Ep. 1285 (2019. 11. 13 수)
+
+A French government panel on domestic violence is urging authorities to begin confiscating guns from people following the first complaint of family violence levied against them.
+
+프랑스 정부의 가정폭력 퇴치를 위한 패널은 가정폭력으로 최초 고소를 당한 사람들의 총기 압수를 당국에 촉구하고 있다.
+
+A French government panel on ... 가정폭력 is urging authorities @ begin conf.. guns from people following the first com...고소 of family violence lev..부과 against them.
+
+---
+Other proposals include mandatory reporting requirements for health professionals who witness signs of domestic violence and new protocols for police responding to domestic violence complaints. 
+
+이 밖의 제안으로는 의료 종사자가 가정폭력 징후를 발견했을 때 의무적으로 신고를 해야 하는 것과 가정폭력 고소를 접수했을 때 경찰이 취해야 할 새로운 절차가 포함된다.
+
+Other proposals include mandatory reporting requirements @ health professionals <<> witness signs of domestic violence and new protocols @ police responding @ domestic violence complaints. 
+
+---
+The government should increase the number of shelters for battered women. 
+
+정부는 가정 폭력 피해 여성들을 위한 쉼터를 늘려야 한다.
+
+The government should increase the number of s.. for b.. women. 
