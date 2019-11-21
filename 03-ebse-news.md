@@ -21,3 +21,30 @@ Earlier in the day,/ US President Donald Trump laid a wreath at the Pentagon. In
 .. @ the day,/ US President Donald Trump ... 헌화했다 @ the Pentagon. @ Pennsylvania,/ the third site of a plane crash @ 9/11,/ Vice President Mike Pence c... ~에게 공적을 돌렸다 the crew and passengers <<> ... ~와 싸우다 the hijackers/ @ protecting people in the US Capitol building that day. Nearly 3,000 people were killed/ when terrorist-p.. planes/ ... ~을 꽝하고 충돌하다 the World Trade Center,/ the Pentagon/ and a field in Pennsylvania.
 
 ## Ep. 1072 (2019. 11. 13 수)
+
+UNESCO announced that the timeline for the restoration of the mosque/ was hammered out with Iraqi officials,/ and that work would begin early next year.
+
+유네스코는 모스크 재건의 일정은 이라크 관리들과 조율되었고, 작업이 내년 초에 시작될 것이라고 발표했습니다.
+
+UNESCO announced <> the t..일정 for the res..재건 of the mosque/ ...~와 조율되었다 Iraqi officials,/ and <> work .. 시작될것이다 begin early next year.
+
+---
+The decision to select Mosul,/ as opposed to other Iraqi cities,/ for a revamp/ was due to it being a city of diversity and tolerance.
+
+재건 프로젝트로 다른 이라크 도시가 아닌 모술을 선택한 결정은 모술의 다양성과 포용성 때문입니다. 
+
+The decision @ select Mosul,/ as ... ~가 아닌,~와 상반되게 other Iraqi cities,/ @ a revamp/ was due to it be.. a city of diversity and to..포용성.
+
+---
+This is not a rock concert,/ but one can be forgiven for thinking so/ due to the audience's enthusiastic response.
+
+록 콘서트가 아니지만, 청중의 열광적인 반응을 보면 그렇게 생각하는 것도 무리는 아닙니다.
+
+This is not a rock concert,/ <> one can ...생각해도 무리가 아니다 so/ due @ the audience's enthusiastic response.
+
+---
+On the heels of his official retirement,/ speculation was rife that Ma was forced out/ because he had become too powerful and influential,/ potentially posing a challenge to China's top leaders.
+
+공식적인 은퇴 직후 잭 마가 중국 최고 지도층에 도전을 할 만큼 너무 강력해지고 영향력을 갖게 되어 강제 퇴출되었다는 추측이 만연했습니다. 
+
+...~지후에 his official retirement,/ sp.. 추측 .. r.. 만연했다 <> Ma was forced @ 추출,퇴출되다/ <> he had ..~이 되었다 too powerful and influential,/ potentially po.. a challenge @ China's top leaders.
