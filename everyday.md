@@ -104,4 +104,20 @@ The company posted its first year-on-year drop in net profit in three years for 
 
 이 회사는 금년 2분기에 3년 만에 처음으로 전년 대비 순이익 하락을 기록했다
 
-The company p.. its first y.. drop @ net profit @ three years @ the second quarter.
+The company p.. its first y..전년 대비 drop @ net profit @ three years @ the second quarter.
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1073 (2019. 11. 14 목)
+
+The Pony became iconic/ and marked the birth of the company's design DNA. The automaker said that the "45"/ pays homage to that heritage.
+
+포니는 상징물이자 회사 디자인 DNA의 시초가 되었습니다. 자동차회사는 45가 그 유산에 경의를 표한다고 말했습니다.
+
+The Pony ..~가 되었다 iconic/ and m.. ... 시초가 되다, 탄생을 표시하다 of the company's design DNA. The automaker said that the "45"/ p.. ... 경의를 표하다 that heritage.
+
+---
+Outside,/ the remnants of the Berlin Wall/ act as a reminder/ that walls are often put up,/ but sometimes also torn down.
+
+외부에는 베를린 장벽의 잔재들이 벽은 세워지기도 하지만 철거되기도 한다는 점을 상기시키는 역할을 하고 있습니다. 
+
+..,/ .. re..잔재들 of the Berlin Wall/ act as a reminder/ that walls are often ... 세워지다,/ but sometimes also ... 철거되다/찢겨 쓰러지다.
