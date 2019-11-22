@@ -68,7 +68,7 @@
       You must follow these rules.
       She must come to the meeting.
 
-      shrink > shrunk/shuank > shrunk
+      shrink > shrunk/shrank > shrunk
 
       otherwise, = 그렇지 않으면
       Go apologize him. Otherwise, he will be mad.
