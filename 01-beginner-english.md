@@ -1,5 +1,6 @@
 # 왕초보 영어 (01-beginner-english)
-## Ep. 1019 (2019. 11. 12 화): 일상
+## Ep. 1019 (2019. 11. 12 화)
+일상
 
       퀴즈: 절 위해 이 병을 열어 주시는 걸 꺼리실까요?
       Do you mind opening this bottle for me?
@@ -39,7 +40,8 @@
       You have to fill out this form.
       We have to be quiet.
 
-## Ep. 1020 (2019. 11. 13 수): 쇼핑
+## Ep. 1020 (2019. 11. 13 수)
+쇼핑
 
       A: Can I machine-wash this ..?  
             (이 스웨터 세탁기로 빨아도 되나요?) 
