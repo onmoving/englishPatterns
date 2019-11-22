@@ -51,3 +51,52 @@ Pattern Practice
     I wouldn't say no to that.
 
     저라면 마다하지 않을 거예요. 
+
+## Ep. 760 (2019. 11. 13 수)
+
+Though it's hard, it's okay to say no.
+
+어렵지만, 거절을 해도 괜찮아요. 
+
+...문장전체
+
+I find it hard to say no sometimes.
+
+저는 가끔 거절하는 게 힘들더라고요. 
+
+...문장전체
+
+Because I really want them to like me, I'll just agree and say yes to what people want, even if it's not what I want or it takes away my time or it stresses me out. 
+
+그들이 저를 좋아했으면 하는 마음이 크기 때문에, 저는 그냥 동의를 하고 사람들이 원하는 것에 승낙을 해요. 
+그게 제가 원하는 것이 아니거나 제 시간을 뺏거나, 제게 스트레스를 주더라도요. 
+
+Because I really want them @ like me, I'll just a.. and say yes @ .. people want, even if it's not @ I want or it ... 뺏다 my time or it stresses me @ 스트레스를 주다. 
+
+And it's something I've had to learn to overcome. 
+그리고 저는 그걸 극복하는 법을 배워야 했어요. 
+
+---
+Pattern Practice 
+    the downside to ~
+    ~의 단점
+
+    1. The downside to this room is that it's tiny.
+    2. A long commute was the downside to the job.
+
+    stress ~ out
+    ~에게 스트레스를 주다 
+
+    1. The presentation stressed her out.
+    2. Loud noises can stress people out.
+
+    이 방의 단점은 작다는 거예요. 
+    출퇴근이 오래 걸린다는 것이 그 일의 단점이었어요. 
+    그 발표는 그녀에게 스트레스를 줬어요.
+    큰 소음은 사람들에게 스트레스를 줄 수 있어요. 
+
+---
+알쏭달쏭 한마디 
+
+    약속을 한 적은 없어요.
+    I didn't make any promises. 
