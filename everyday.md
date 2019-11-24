@@ -121,3 +121,76 @@ Outside,/ the remnants of the Berlin Wall/ act as a reminder/ that walls are oft
 외부에는 베를린 장벽의 잔재들이 벽은 세워지기도 하지만 철거되기도 한다는 점을 상기시키는 역할을 하고 있습니다. 
 
 ..,/ .. re..잔재들 of the Berlin Wall/ act as a reminder/ that walls are often ... 세워지다,/ but sometimes also ... 철거되다/찢겨 쓰러지다.
+
+# 생활영어 (04-english-life)
+## Ep. 761 (2019. 11. 14 목)
+
+It's important to be able to say no.
+
+거절할 수 있다는 건 중요해요. 
+
+...
+
+---
+
+I think it's important to say no respectfully and also to explain your circumstances.
+
+저는 정중하게 거절하고, 또한 자신의 상황을 설명하는 것은 중요하다고 생각해요. 
+
+...
+
+---
+
+Saying no … This issue is of particular interest to me as it is an issue I have struggled with for many years. 
+
+거절을 한다는 것은 저에게는 특히 관심이 가는 주제인데, 제가 오랫동안 힘들어 했던 부분이거든요. 
+
+Saying no … This issue is ...특별한 관심의 to me <> it is an issue I ... 힘들어해오던 for many years. 
+
+---
+I used to find myself in the situation where 
+people would ask me for a favor when I already had enough work to do, and I couldn't say no. 
+
+저는 ~한 상황을 겪곤 했어요. 
+제가 이미 할 일이 많은데, 사람들이 저에게 부탁을 하고 제가 거절을 못 하는 상황 말이에요. 
+
+I ... where 
+people .. ask me for a favor <> I already .. enough work to do, and I ..'t say no. 
+
+---
+And what I respect the most is when people can say no when it's necessary 
+instead of saying yes and not following through on their promises.
+
+그리고 제가 가장 존중하는 건, 사람들이 거절할 필요가 있을 때 거절하는 거예요.
+승낙을 한 후에 약속을 지키지 못하는 대신에 말이에요. 
+
+And what I respect the most is <> people can say no <> it's necessary 
+instead of saying yes and not ... their promises.
+
+---
+Pattern Practice 
+
+    be of interest to ~
+    ~에게 있어서 흥미롭다
+
+    1. This fact was of interest to me.
+    2. Her test scores were of interest to her parents.
+
+    as it is ~ 
+    ~이기 때문에  
+
+    1. They prepared a cake as it was his birthday.
+    2. As it's Saturday, I'm not going to the office.
+
+    이 사실이 저에게는 흥미로웠어요. 
+    그녀의 시험 점수는 그녀의 부모에게 관심 사안이었어요. 
+    그의 생일이어서 그들은 케이크를 준비했습니다. 
+    토요일이어서 저는 사무실에 안 가요. 
+
+---
+알쏭달쏭 한마디 
+
+    I hope I made myself clear.
+
+    제 말이 확실히 전달되었다면 좋겠네요. 
+    
