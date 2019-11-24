@@ -1,19 +1,3 @@
-# 영자신문 (02-newspaper)
-## Ep. 1286 (2019. 11. 14 목)
-
-Americans have a wide variety of plans to celebrate the spooky holiday this year, from carving pumpkins to watching scary movies. Some even plan to make their dogs and cats suffer the fate of being forced into goblin or Spiderman outfits.
-
-미국인들은 금년 핼러윈을 기념하기 위한 정말로 다양한 계획을 가지고 있다. 핼러윈 호박을 만드는 것에서부터 공포 영화를 보는 것까지 다양하다. 심지어 일부 사람들은 자신들이 키우는 애완견이나 고양이에게 고블린 혹은 스파이더맨 의상을 입힐 계획이다.
-
-Americans have a w.. ..정말로 다양한 of plans to celebrate the s..으스스한,귀신이 나올 것 같은 holiday this year, from c..조각하다,말들다 pumpkins to watching scary movies. Some even plan to ..~하게 만들다 their dogs and cats suffer the fate of ...~으로 강제되다 goblin or Spiderman o..의상.
-
----
-The company posted its first year-on-year drop in net profit in three years for the second quarter.
-
-이 회사는 금년 2분기에 3년 만에 처음으로 전년 대비 순이익 하락을 기록했다
-
-The company p.. its first y..전년 대비 drop @ net profit @ three years @ the second quarter.
-
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1073 (2019. 11. 14 목)
 
@@ -197,3 +181,42 @@ Pattern Practice
 
     퀴즈: 난 맥주 두 캔을 마셨어.
     I drank two cans of beer.
+
+# 영자신문 (02-newspaper)
+## Ep. 1287 (2019. 11. 15 금)
+
+The work, a masterpiece attributed to the 13th-century Italian painter Cimabue that was discovered earlier this year, sold for 24 million euros ($26.6 million) Sunday.
+
+The work, a masterpiece ... (그림 등이) ~ 작품으로 간주되다 the 13th-century Italian painter Cimabue that was discovered earlier this year, sold @ 24 million euros ($26.6 million) Sunday.
+
+---
+Airbnb's CEO said the company was taking actions against unauthorized parties in the wake of a deadly shooting at a Halloween party held at an Airbnb rental home in California.
+
+Airbnb's CEO said the company was taking actions @ unauthorized parties ... ~이후 그 결과로 a deadly shooting at a Halloween party held at an Airbnb rental home in California.
+
+---
+Hackers plead guilty in (a) data breach that Uber covered up
+
+우버가 은폐한 해킹 사건의 범인들, 법정에서 유죄 인정
+
+Hackers ... @ (a) data b.. that Uber ... 은폐했던
+
+---
+Two computer hackers have pleaded guilty to concocting an extortion scheme that entangled Uber in a yearlong cover-up of a data breach that stole sensitive information about 57 million of the ride-hailing service's passengers and drivers.
+
+두 해커들이 금품 강탈 사건에서 내용 조작한 혐의에 대해 유죄를 인정했다. 당시 사건으로 승차공유 기업인 우버는 자사의 고객과 기사를 포함해 약 5,700만 명의 민감한 개인 정보가 도난 당한 정보 유출 사건을 1년이나 은폐한 문제에 휘말리게 되었다.
+
+Two computer hackers ... 유죄를 인정했다 @ con..(이야기를) 지어내다, 조작하다 an ex.. 금품 강탈, 부당 취득 sch.. 사건 that en.. 얽히게 만들다 Uber @ a yearlong .. 은폐 of a ... 정보유출 that stole sensitive information about 57 million of the .. 승차공유 service's passengers and drivers.
+
+Critics say that the leaked information could have been used for identity theft and other malicious purposes.
+
+일각에서는 유출된 정보가 신원도용이나 다른 악의적인 목적을 위해 사용될 수도 있었다고 비난하고 있다.
+
+.. say that the l.. information ... 사용될 수도 있었다고 used @ ... 신원도용 and other 악의적인 목적들.
+
+---
+Severe droughts around the world have sent grain prices soaring.
+
+전세계적인 극심한 가뭄으로 곡물가격이 천정부지로 치솟고 있다.
+
+Severe .. @ the world have s.. grain prices .. 치솟다.
