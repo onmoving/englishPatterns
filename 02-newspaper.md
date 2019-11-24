@@ -87,3 +87,18 @@ The government should increase the number of shelters for battered women.
 정부는 가정 폭력 피해 여성들을 위한 쉼터를 늘려야 한다.
 
 The government should increase the number of s.. for b.. women. 
+
+## Ep. 1286 (2019. 11. 14 목)
+
+Americans have a wide variety of plans to celebrate the spooky holiday this year, from carving pumpkins to watching scary movies. Some even plan to make their dogs and cats suffer the fate of being forced into goblin or Spiderman outfits.
+
+미국인들은 금년 핼러윈을 기념하기 위한 정말로 다양한 계획을 가지고 있다. 핼러윈 호박을 만드는 것에서부터 공포 영화를 보는 것까지 다양하다. 심지어 일부 사람들은 자신들이 키우는 애완견이나 고양이에게 고블린 혹은 스파이더맨 의상을 입힐 계획이다.
+
+Americans have a w.. ..정말로 다양한 of plans to celebrate the s..으스스한,귀신이 나올 것 같은 holiday this year, from c..조각하다,말들다 pumpkins to watching scary movies. Some even plan to ..~하게 만들다 their dogs and cats suffer the fate of ...~으로 강제되다 goblin or Spiderman o..의상.
+
+---
+The company posted its first year-on-year drop in net profit in three years for the second quarter.
+
+이 회사는 금년 2분기에 3년 만에 처음으로 전년 대비 순이익 하락을 기록했다
+
+The company p.. its first y..전년 대비 drop @ net profit @ three years @ the second quarter.
