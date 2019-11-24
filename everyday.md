@@ -1,38 +1,3 @@
-# 어순 트레이닝 (05-making-sentences)
-## Ep. 1072 (2019. 11. 13 수)
-
-    What do you think of + 명사?
-    = What do you say of + 명사?
-    = What do you think about + 명사?
-    = What do you make of + 명사?
-
-    어떻게 생각하세요?
-    신제품에 대해서
-    What do you think of our new product?
-
-    어떻게 생각하세요?
-    계약조건에 대해
-    What do you think of the deal?
-
-    어떻게 생각하세요?
-    이 아이디어에 대해
-    What do you think of this idea?
-
-    어떻게 생각하세요?
-    로고에 대해
-    What do you think of the logo?
-
-    어땠어요?
-    발표자에 대해
-    What did you think of the presenter?
-
-    A: We finished renovations at our office space last month.
-    B: How do you like the changes? 
-        달라진 건 어때요?
-    A: It's wonderful! You should swing by and tell me what you think (of it).
-        * swing by = come by 들르다
-    B: Sure.
-
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1021 (2019. 11. 14 목)
 식당
@@ -194,3 +159,45 @@ Pattern Practice
 
     제 말이 확실히 전달되었다면 좋겠네요. 
     
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1073 (2019. 11. 14 목)
+화재언급
+
+    bring up + 화제
+    bring + 대명사 + up
+
+    우리 합시다
+    이야기를 꺼내는 걸
+    그 이슈를
+    회의에서.
+    Let's bring up the issue at the meeting.
+
+    하지 말아요
+    그 이야기를 꺼내는 걸
+    Let's not bring it up.
+
+    왜 하고 있나요?
+    그 이야기를 꺼내는 걸
+    다시
+    Why are you bringing that up again?
+
+    Bradley는 했어요
+    이야기를 꺼내는 걸
+    좋은 아이디어를
+    팀원들에게
+    Bradley brough up a great idea to the team members.    
+    Bradley brough a great idea up to the team members.    
+
+    같은 주제가
+    언급될 수도 있다
+    저녁 식사에서.
+    The same topic might be brough up at dinner.(약한 가능성)
+
+---
+
+    A: I can't believe you brough that up in front of our coworkers!
+    B: Brought waht up?
+    A: That I failed the test.
+        (= You brought up that I faile the test.)
+    B: I'm sorry. I didn't know it was a secret.
+
