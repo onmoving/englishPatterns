@@ -1,45 +1,3 @@
-# 어순 트레이닝 (05-making-sentences)
-## Ep. 1073 (2019. 11. 14 목)
-화재언급
-
-    bring up + 화제
-    bring + 대명사 + up
-
-    우리 합시다
-    이야기를 꺼내는 걸
-    그 이슈를
-    회의에서.
-    Let's bring up the issue at the meeting.
-
-    하지 말아요
-    그 이야기를 꺼내는 걸
-    Let's not bring it up.
-
-    왜 하고 있나요?
-    그 이야기를 꺼내는 걸
-    다시
-    Why are you bringing that up again?
-
-    Bradley는 했어요
-    이야기를 꺼내는 걸
-    좋은 아이디어를
-    팀원들에게
-    Bradley brough up a great idea to the team members.    
-    Bradley brough a great idea up to the team members.    
-
-    같은 주제가
-    언급될 수도 있다
-    저녁 식사에서.
-    The same topic might be brough up at dinner.(약한 가능성)
-
----
-
-    A: I can't believe you brough that up in front of our coworkers!
-    B: Brought waht up?
-    A: That I failed the test.
-        (= You brought up that I faile the test.)
-    B: I'm sorry. I didn't know it was a secret.
-
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1022 (2019. 11. 15 금)
 여행: 비행기 안에서
@@ -197,3 +155,39 @@ how much work that particular thing is going to .. and how much I can r.. g.. �
 
     ...
 
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1074 (2019. 11. 15 금)
+
+    agree with + 의견
+    disagree with + 의견
+
+    저는 동의해요
+    당신의 의견에.
+    I agree with you.
+
+    하시나요?
+    동의하는 걸
+    이 아이디어에?
+    Do you agree with this idea?
+
+    저의 동의하지 않아요
+    그것에.
+    I disagree with that.
+
+    모두들 하시나요?
+    동의하는 걸
+    이 결정에
+    Does everyone agree with this decision?
+
+    ~인 줄 알았다
+    네가 했다고
+    동의하는 걸
+    내게
+    I thought you agreed with me.
+
+---
+    A: You didn't seem too enthused at the meeting.
+    오늘 회의에서 기분이 별로 안좋아 보이더라.
+    B: I didn't agree with the plan that Liza was proposing.
+    A: Why didn't you agree with her?
+    B: She needs a lot more market research to back herself up.
