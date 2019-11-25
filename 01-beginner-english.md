@@ -143,3 +143,56 @@
     That's why I love you.
     That's why I drink hot water.
     That's why my daughter is studying grammar.
+
+## Ep. 1022 (2019. 11. 15 금)
+여행: 비행기 안에서
+
+    A: Would you like beef or ..?  
+    (소고기를 원하시나요, 아니면 생선을 원하시나요?) 
+    B: I want fish and a .. of beer. 
+        (생선이랑 맥주 한 캔을 원해요.) 
+    A: Here's your .. . Be careful.  
+    (여기 손님 맥주입니다. 조심하세요.)
+    B: I would like some .. chips, too. 
+        (감자칩도 좀 주세요.) 
+
+    fish
+    can
+    beer
+    potato
+
+---
+    beef / pork / chicken
+
+    Would you like ...?
+    (= Do you want ...?)
+
+    Would you like A or B
+    
+    Would you like an apple or an orage?
+    Would you like chicken or beef?
+
+---
+    a can of tuna / a can of soda
+    a bottle of wine / a bottle of water / a bottle of beer
+    a glass of wine / a glass of milk
+
+---
+    Be cool.
+    Be kind.
+    Be nice to me.
+
+---
+    I would like ...
+    ( = I want ...)
+
+    I would like some red wine.
+    I would like a fresh apple.
+
+---
+    퀴즈: 그렇지 않으면, 난 널 안 도와줄 거야.
+    Otherwise, I won't help you.
+    Otherwise, I will not help you.
+
+    퀴즈: 난 맥주 두 캔을 마셨어.
+    I drank two cans of beer.
