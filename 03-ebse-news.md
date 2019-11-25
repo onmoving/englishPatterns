@@ -48,3 +48,18 @@ On the heels of his official retirement,/ speculation was rife that Ma was force
 공식적인 은퇴 직후 잭 마가 중국 최고 지도층에 도전을 할 만큼 너무 강력해지고 영향력을 갖게 되어 강제 퇴출되었다는 추측이 만연했습니다. 
 
 ...~지후에 his official retirement,/ sp.. 추측 .. r.. 만연했다 <> Ma was forced @ 추출,퇴출되다/ <> he had ..~이 되었다 too powerful and influential,/ potentially po.. a challenge @ China's top leaders.
+
+## Ep. 1073 (2019. 11. 14 목)
+
+The Pony became iconic/ and marked the birth of the company's design DNA. The automaker said that the "45"/ pays homage to that heritage.
+
+포니는 상징물이자 회사 디자인 DNA의 시초가 되었습니다. 자동차회사는 45가 그 유산에 경의를 표한다고 말했습니다.
+
+The Pony ..~가 되었다 iconic/ and m.. ... 시초가 되다, 탄생을 표시하다 of the company's design DNA. The automaker said that the "45"/ p.. ... 경의를 표하다 that heritage.
+
+---
+Outside,/ the remnants of the Berlin Wall/ act as a reminder/ that walls are often put up,/ but sometimes also torn down.
+
+외부에는 베를린 장벽의 잔재들이 벽은 세워지기도 하지만 철거되기도 한다는 점을 상기시키는 역할을 하고 있습니다. 
+
+..,/ .. re..잔재들 of the Berlin Wall/ act as a reminder/ that walls are often ... 세워지다,/ but sometimes also ... 철거되다/찢겨 쓰러지다.
