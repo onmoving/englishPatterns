@@ -1,19 +1,3 @@
-# 영어뉴스 (03-ebse-news)
-## Ep. 1073 (2019. 11. 14 목)
-
-The Pony became iconic/ and marked the birth of the company's design DNA. The automaker said that the "45"/ pays homage to that heritage.
-
-포니는 상징물이자 회사 디자인 DNA의 시초가 되었습니다. 자동차회사는 45가 그 유산에 경의를 표한다고 말했습니다.
-
-The Pony ..~가 되었다 iconic/ and m.. ... 시초가 되다, 탄생을 표시하다 of the company's design DNA. The automaker said that the "45"/ p.. ... 경의를 표하다 that heritage.
-
----
-Outside,/ the remnants of the Berlin Wall/ act as a reminder/ that walls are often put up,/ but sometimes also torn down.
-
-외부에는 베를린 장벽의 잔재들이 벽은 세워지기도 하지만 철거되기도 한다는 점을 상기시키는 역할을 하고 있습니다. 
-
-..,/ .. re..잔재들 of the Berlin Wall/ act as a reminder/ that walls are often ... 세워지다,/ but sometimes also ... 철거되다/찢겨 쓰러지다.
-
 # 생활영어 (04-english-life)
 ## Ep. 761 (2019. 11. 14 목)
 
@@ -220,3 +204,19 @@ Severe droughts around the world have sent grain prices soaring.
 전세계적인 극심한 가뭄으로 곡물가격이 천정부지로 치솟고 있다.
 
 Severe .. @ the world have s.. grain prices .. 치솟다.
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1074 (2019. 11. 15 금)
+
+The 16-year-old said she believed/ there was an "awakening" regarding climate change,/ and that the pace of awareness and debates is picking up.
+
+16세인 툰베리는 기후변화에 대한 각성이 생겼고 그러한 자각의 속도와 토론이 더욱 강력해지고 있다고 믿는다고 말했습니다. 
+
+The 16-year-old said she believed/ there was an "a.."각성 reg.. ~에 대한 climate change,/ and that the pace of aw.. 자각 and debates is ... 강해지다,개선되다.
+
+---
+The heartwarming gesture briefly stopped the game/ and produced an incredible scene of raining cuddly toys.
+
+마음이 따뜻해지는 제스처로 게임은 잠깐 멈췄고, 봉제인형이 비처럼 내리는 놀라운 장면을 만들어냈습니다. 
+
+The .. 마음이 따뜻해지는 gesture briefly stopped the game/ and produced an incredible scene of raining cu.. 꼭 껴안고 싶은, 껴안을 수 있게 만든 toys.
