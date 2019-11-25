@@ -189,3 +189,20 @@ how much work that particular thing is going to .. and how much I can r.. g.. �
     
     Am I too lazy?
     I'm too sleepy.
+
+# 영자신문 (02-newspaper)
+## Ep. 1288 (2019. 11. 18 월)
+
+Saudi Arabia formally started its long-anticipated initial public offering of its state-run oil giant Saudi Aramco on Sunday, which will see a sliver of the firm offered on a local stock exchange in hopes of raising billions of dollars for the kingdom.
+
+사우디아라비아가 일요일을 기점으로 오랫동안 기다려 왔던 국영 석유회사 아람코의 기업공개(IPO)에 착수했다. 기업공개가 이루어지면 자국 증권거래소에서 아람코 주식의 일부가 거래되게 되는데 사우디아라비아는 이를 통해 수십억 달러 이상의 자금 조달을 바라고 있다.
+
+Saudi Arabia formally started its ..오랫동안 기다려 왔던/예견됐던 ... 기업공개 of its ..국영 oil giant Saudi Aramco on Sunday, which will see a sl..조각 of the firm offered @ a local ... 증권거래소 @ hopes of raising billions of dollars @ the kingdom.
+
+---
+WeWork put its stock market debut on the backburner, struggling to drum up investor enthusiasm.
+(WeWork dropped its plan to launch an IPO)
+
+투자자들의 관심을 끄는데 실패한 '위워크'는 기업공개를 보류했다.
+
+WeWork .. its stock market debut @ the b.., struggling to ... (관심을) 끌다 investor enthusiasm.
