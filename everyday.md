@@ -1,57 +1,3 @@
-# 왕초보 영어 (01-beginner-english)
-## Ep. 1022 (2019. 11. 15 금)
-여행: 비행기 안에서
-
-    A: Would you like beef or ..?  
-    (소고기를 원하시나요, 아니면 생선을 원하시나요?) 
-    B: I want fish and a .. of beer. 
-        (생선이랑 맥주 한 캔을 원해요.) 
-    A: Here's your .. . Be careful.  
-    (여기 손님 맥주입니다. 조심하세요.)
-    B: I would like some .. chips, too. 
-        (감자칩도 좀 주세요.) 
-
-    fish
-    can
-    beer
-    potato
-
----
-    beef / pork / chicken
-
-    Would you like ...?
-    (= Do you want ...?)
-
-    Would you like A or B
-    
-    Would you like an apple or an orage?
-    Would you like chicken or beef?
-
----
-    a can of tuna / a can of soda
-    a bottle of wine / a bottle of water / a bottle of beer
-    a glass of wine / a glass of milk
-
----
-    Be cool.
-    Be kind.
-    Be nice to me.
-
----
-    I would like ...
-    ( = I want ...)
-
-    I would like some red wine.
-    I would like a fresh apple.
-
----
-    퀴즈: 그렇지 않으면, 난 널 안 도와줄 거야.
-    Otherwise, I won't help you.
-    Otherwise, I will not help you.
-
-    퀴즈: 난 맥주 두 캔을 마셨어.
-    I drank two cans of beer.
-
 # 영자신문 (02-newspaper)
 ## Ep. 1287 (2019. 11. 15 금)
 
@@ -191,3 +137,55 @@ how much work that particular thing is going to .. and how much I can r.. g.. �
     B: I didn't agree with the plan that Liza was proposing.
     A: Why didn't you agree with her?
     B: She needs a lot more market research to back herself up.
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1023 (2019. 11. 18 월)
+가정
+
+    A: The heater is not .. again. 
+    (히터가 또 작동을 안 하고 있어요.) 
+    B: We .. it last year.  
+        (우리 그거 작년에 고쳤잖아요.) 
+    A: I think it's time to .. it.  
+    (그걸 교체할 때인 거 같아요.)
+    B: You're right. It's too .. .
+        (당신 말이 맞아요. 그거 너무 낡았어요.) 
+    
+    working
+    fixed
+    replace
+    old
+
+---
+    heater / air-conditioner (or A/C)
+
+    be + not + ~ing
+
+    I'm not laughing.
+    We're not doing anything.
+    We're doing nothting.
+
+---
+    fix / repair (수리하다)
+
+    in last year (X)
+    last year (O)
+
+    I graudated last year.
+    Did you move to LA last year.
+
+---
+    It's time to + 동사원요
+
+    It's time to wake up.
+    It's time to watch 왕초보영어.
+    It's time to say good-bye
+
+---
+    right vs wrong
+
+    too = 너무 (형용사) 하다
+    so 보다 더 심할 경우
+    
+    Am I too lazy?
+    I'm too sleepy.
