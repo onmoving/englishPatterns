@@ -1,58 +1,3 @@
-# 영자신문 (02-newspaper)
-## Ep. 1287 (2019. 11. 15 금)
-
-The work, a masterpiece attributed to the 13th-century Italian painter Cimabue that was discovered earlier this year, sold for 24 million euros ($26.6 million) Sunday.
-
-The work, a masterpiece ... (그림 등이) ~ 작품으로 간주되다 the 13th-century Italian painter Cimabue that was discovered earlier this year, sold @ 24 million euros ($26.6 million) Sunday.
-
----
-Airbnb's CEO said the company was taking actions against unauthorized parties in the wake of a deadly shooting at a Halloween party held at an Airbnb rental home in California.
-
-Airbnb's CEO said the company was taking actions @ unauthorized parties ... ~이후 그 결과로 a deadly shooting at a Halloween party held at an Airbnb rental home in California.
-
----
-Hackers plead guilty in (a) data breach that Uber covered up
-
-우버가 은폐한 해킹 사건의 범인들, 법정에서 유죄 인정
-
-Hackers ... @ (a) data b.. that Uber ... 은폐했던
-
----
-Two computer hackers have pleaded guilty to concocting an extortion scheme that entangled Uber in a yearlong cover-up of a data breach that stole sensitive information about 57 million of the ride-hailing service's passengers and drivers.
-
-두 해커들이 금품 강탈 사건에서 내용 조작한 혐의에 대해 유죄를 인정했다. 당시 사건으로 승차공유 기업인 우버는 자사의 고객과 기사를 포함해 약 5,700만 명의 민감한 개인 정보가 도난 당한 정보 유출 사건을 1년이나 은폐한 문제에 휘말리게 되었다.
-
-Two computer hackers ... 유죄를 인정했다 @ con..(이야기를) 지어내다, 조작하다 an ex.. 금품 강탈, 부당 취득 sch.. 사건 that en.. 얽히게 만들다 Uber @ a yearlong .. 은폐 of a ... 정보유출 that stole sensitive information about 57 million of the .. 승차공유 service's passengers and drivers.
-
-Critics say that the leaked information could have been used for identity theft and other malicious purposes.
-
-일각에서는 유출된 정보가 신원도용이나 다른 악의적인 목적을 위해 사용될 수도 있었다고 비난하고 있다.
-
-.. say that the l.. information ... 사용될 수도 있었다고 used @ ... 신원도용 and other 악의적인 목적들.
-
----
-Severe droughts around the world have sent grain prices soaring.
-
-전세계적인 극심한 가뭄으로 곡물가격이 천정부지로 치솟고 있다.
-
-Severe .. @ the world have s.. grain prices .. 치솟다.
-
-# 영어뉴스 (03-ebse-news)
-## Ep. 1074 (2019. 11. 15 금)
-
-The 16-year-old said she believed/ there was an "awakening" regarding climate change,/ and that the pace of awareness and debates is picking up.
-
-16세인 툰베리는 기후변화에 대한 각성이 생겼고 그러한 자각의 속도와 토론이 더욱 강력해지고 있다고 믿는다고 말했습니다. 
-
-The 16-year-old said she believed/ there was an "a.."각성 reg.. ~에 대한 climate change,/ and that the pace of aw.. 자각 and debates is ... 강해지다,개선되다.
-
----
-The heartwarming gesture briefly stopped the game/ and produced an incredible scene of raining cuddly toys.
-
-마음이 따뜻해지는 제스처로 게임은 잠깐 멈췄고, 봉제인형이 비처럼 내리는 놀라운 장면을 만들어냈습니다. 
-
-The .. 마음이 따뜻해지는 gesture briefly stopped the game/ and produced an incredible scene of raining cu.. 꼭 껴안고 싶은, 껴안을 수 있게 만든 toys.
-
 # 생활영어 (04-english-life)
 ## Ep. 762 (2019. 11. 15 금)
 
@@ -206,3 +151,19 @@ WeWork put its stock market debut on the backburner, struggling to drum up inves
 투자자들의 관심을 끄는데 실패한 '위워크'는 기업공개를 보류했다.
 
 WeWork .. its stock market debut @ the b.., struggling to ... (관심을) 끌다 investor enthusiasm.
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1075 (2019. 11. 18 월)
+
+It was the most Fed dissents in years. Fed Chair Jerome Powell acknowledged the sharp division/ but said he believed that disparate perspectives are nothing but healthy. Powell did leave the door open to additional rate cuts,/ if the economy weakens.
+
+이는 수년 만에 가장 큰 연준내 이견이었습니다. 제롬 파월 의장은 의견이 첨예하게 갈렸다는 것을 인정했지만, 서로 다른 의견은 건강하다고 믿는다고 말했습니다. 파월은 경제가 약화될 경우 추가 금리 인하 가능성을 열어두었습니다. 
+
+It was the most Fed d.. 이견,불화 in years. Fed Chair Jerome Powell acknowledged the s... 날카로운 의견차이/ but said he believed that di..이질적인 perspectives are ... ~일 뿐인다 ~한 것 말고는 아무것도 아니다 healthy. Powell did l.. the door o.. @ ~에 가능성을 열어두다 additional rate cuts,/ if the economy w.. 약화되다.
+
+---
+The cast features many Egyptian stars/ and a director who said he watched Disney's animated classics/ before taking the helm of his very first animation.
+
+많은 이집트 스타들이 배역진에 등장하며, 감독은 최초의 애니메이션의 키를 잡기 전에 디즈니의 클래식 애니메이션을 봤다고 말했습니다.
+
+The cast f..주연하다, 등장하다 many Egyptian stars/ and a director who said he watched Disney's animated classics/ before t... 책임을 맡다, 키를 잡다 of his very first animation.
