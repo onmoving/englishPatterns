@@ -172,4 +172,50 @@ Pattern Practice
     I hope I made myself clear.
 
     제 말이 확실히 전달되었다면 좋겠네요. 
- 
+
+## Ep. 762 (2019. 11. 15 금)
+
+So now what I do is I tell people, "Okay, give me 24 hours to think about this and I'll get back to you with an answer." 
+
+그래서 이제는 사람들한테 이렇게 말해요. "이것에 대해서 24시간만 생각할 시간을 주시면 답변을 드릴게요."
+
+So now ... 내가하는 것은 내가 사람들에게 말하는 거예요, "Okay, give me 24 hours ...  and I'll ... an answer." 
+
+---
+That way I can look at my calendar and really evaluate 
+how much work that particular thing is going to take and how much I can realistically give.
+
+그렇게 함으로써 저는 제 일정을 보고 정말로 계산을 해 볼 수 있어요.
+그걸 하려면 얼마나 많은 노력이 필요할지, 그리고 현실적으로 제가 얼마나 많이 할 수 있을지에 대해서요. 
+
+That way I can look at my calendar and really .. 
+how much work that particular thing is going to .. and how much I can r.. g.. 할 수 있을지,줄 수 있을지.
+
+---
+    give oneself time to ~
+    스스로에게 ~할 시간을 주다
+
+    1. He gave himself time to get ready.
+
+    2. It's okay to give yourself time to respond.
+
+    if there is ever a(n) ~
+    혹시라도 ~가 있게 되면 
+
+    1. Call me if there is ever an emergency.
+
+    2. If there's ever a new problem, we can handle it better. 
+
+    그는 스스로에게 준비할 시간을 주었습니다. 
+    스스로에게 대답할 시간을 주는 것도 괜찮아요. 
+
+    혹시라도 비상 상황이 생기면 저한테 전화해 주세요.
+    혹시라도 새로운 문제가 생기면, 우리는 그걸 더 잘 처리할 수 있어요. 
+
+---
+
+    I need some more time to think about it. 
+
+    생각할 시간이 더 필요해요.
+
+    ...
