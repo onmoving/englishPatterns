@@ -63,3 +63,18 @@ Outside,/ the remnants of the Berlin Wall/ act as a reminder/ that walls are oft
 외부에는 베를린 장벽의 잔재들이 벽은 세워지기도 하지만 철거되기도 한다는 점을 상기시키는 역할을 하고 있습니다. 
 
 ..,/ .. re..잔재들 of the Berlin Wall/ act as a reminder/ that walls are often ... 세워지다,/ but sometimes also ... 철거되다/찢겨 쓰러지다.
+
+## Ep. 1074 (2019. 11. 15 금)
+
+The 16-year-old said she believed/ there was an "awakening" regarding climate change,/ and that the pace of awareness and debates is picking up.
+
+16세인 툰베리는 기후변화에 대한 각성이 생겼고 그러한 자각의 속도와 토론이 더욱 강력해지고 있다고 믿는다고 말했습니다. 
+
+The 16-year-old said she believed/ there was an "a.."각성 reg.. ~에 대한 climate change,/ and that the pace of aw.. 자각 and debates is pi.. @ 강해지다,개선되다.
+
+---
+The heartwarming gesture briefly stopped the game/ and produced an incredible scene of raining cuddly toys.
+
+마음이 따뜻해지는 제스처로 게임은 잠깐 멈췄고, 봉제인형이 비처럼 내리는 놀라운 장면을 만들어냈습니다. 
+
+The .. 마음이 따뜻해지는 gesture briefly stopped the game/ and produced an incredible scene of raining cu.. 꼭 껴안고 싶은, 껴안을 수 있게 만든 toys.
