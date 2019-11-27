@@ -78,3 +78,18 @@ The heartwarming gesture briefly stopped the game/ and produced an incredible sc
 마음이 따뜻해지는 제스처로 게임은 잠깐 멈췄고, 봉제인형이 비처럼 내리는 놀라운 장면을 만들어냈습니다. 
 
 The .. 마음이 따뜻해지는 gesture briefly stopped the game/ and produced an incredible scene of raining cu.. 꼭 껴안고 싶은, 껴안을 수 있게 만든 toys.
+
+## Ep. 1075 (2019. 11. 18 월)
+
+It was the most Fed dissents in years. Fed Chair Jerome Powell acknowledged the sharp division/ but said he believed that disparate perspectives are nothing but healthy. Powell did leave the door open to additional rate cuts,/ if the economy weakens.
+
+이는 수년 만에 가장 큰 연준내 이견이었습니다. 제롬 파월 의장은 의견이 첨예하게 갈렸다는 것을 인정했지만, 서로 다른 의견은 건강하다고 믿는다고 말했습니다. 파월은 경제가 약화될 경우 추가 금리 인하 가능성을 열어두었습니다. 
+
+It was the most Fed d.. 이견들,불화들 in years. Fed Chair Jerome Powell acknowledged the s... 날카로운 의견차이,나뉨/ but said he believed that di..이질적인 perspectives are ... ~일 뿐인다 ~한 것 말고는 아무것도 아니다 healthy. Powell did l.. the door o.. @ ~에 가능성을 열어두다 additional rate cuts,/ if the economy w.. 약화되다.
+
+---
+The cast features many Egyptian stars/ and a director who said he watched Disney's animated classics/ before taking the helm of his very first animation.
+
+많은 이집트 스타들이 배역진에 등장하며, 감독은 최초의 애니메이션의 키를 잡기 전에 디즈니의 클래식 애니메이션을 봤다고 말했습니다.
+
+The cast f..주연하다, 등장하다 many Egyptian stars/ and a director who said he watched Disney's animated classics/ before t... 책임을 맡다, 키를 잡다 of his very first animation.
