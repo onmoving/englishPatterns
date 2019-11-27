@@ -375,3 +375,58 @@ Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor a
 
 Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor ..전통에 따라,전통이 요구하는 대로.
 
+# 생활영어 (04-english-life)
+## Ep. 765 (2019. 11. 20 수)
+
+Some people can't stand grocery shopping, but I just can't get enough. 
+
+어떤 사람들은 식료품 쇼핑을 견딜 수 없지만 저는 아무리 해도 질리지 않아요.
+
+Some people can't stand grocery shopping, but I just ..넉넉해지지 않는다.질리지 않는다. 
+
+---
+And I like to take things slow. 
+
+그리고 저는 천천히 둘러보는 걸 좋아해요.
+
+And I like .. 천천히 둘러보다. 
+
+---
+I was able to find giant watermelons for only two dollars each. Those were a steal. 
+
+저는 커다란 수박을 2달러에 파는 곳을 찾았어요. 공짜나 마찬가지였어요. 
+
+I was able to find giant watermelons ...각각2달라에. Those ..공짜나 마찬가지 였다. 
+
+---
+Now, I don't go overboard like some people clipping stacks of coupons or price matching every little thing, 
+
+물론 저는 쿠폰을 잔뜩 잘라오거나 모든 물건을 다른 가게에서만큼 싸게 사려고 하는 사람들처럼 심하게 하지는 않아요. 
+
+Now, I don't ...열광하다.너무하다 like some people clipping stacks of coupons or price match.. every little thing, 
+
+---
+    only two dollars each
+    하나에 2달러밖에 안 하다
+
+    1. The flowers are only two dollars each.
+    2. I bought two pens for only two dollars each.
+
+    time out of one's ~
+    자신의 ~중에서 시간을 ~
+
+    1. We'll take time out of our day to call.
+    2. He arranged time out of his schedule for us.
+
+    그 꽃들은 한 송이에 2달러밖에 안 해요. 
+    저는 하나 당 겨우 2달러에 펜 2개를 샀어요. 
+    우리는 하루 중에서 시간을 내서 전화를 할 거예요. 
+    그는 자신의 일정에서 우리를 위해 시간을 내 줬어요. 
+
+---
+    That was a real bargain. 
+
+    그건 정말 저렴하게 샀어요.
+
+    ...
+
