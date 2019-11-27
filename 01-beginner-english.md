@@ -196,3 +196,54 @@
 
     퀴즈: 난 맥주 두 캔을 마셨어.
     I drank two cans of beer.
+
+## Ep. 1023 (2019. 11. 18 월)
+가정
+
+    A: The heater is not .. again. 
+    (히터가 또 작동을 안 하고 있어요.) 
+    B: We .. it last year.  
+        (우리 그거 작년에 고쳤잖아요.) 
+    A: I think it's time to .. it.  
+    (그걸 교체할 때인 거 같아요.)
+    B: You're right. It's too .. .
+        (당신 말이 맞아요. 그거 너무 낡았어요.) 
+    
+    working
+    fixed
+    replace
+    old
+
+---
+    heater / air-conditioner (or A/C)
+
+    be + not + ~ing
+
+    I'm not laughing.
+    We're not doing anything.
+    We're doing nothting.
+
+---
+    fix / repair (수리하다)
+
+    in last year (X)
+    last year (O)
+
+    I graudated last year.
+    Did you move to LA last year.
+
+---
+    It's time to + 동사원요
+
+    It's time to wake up.
+    It's time to watch 왕초보영어.
+    It's time to say good-bye
+
+---
+    right vs wrong
+
+    too = 너무 (형용사) 하다
+    so 보다 더 심할 경우
+    
+    Am I too lazy?
+    I'm too sleepy.
