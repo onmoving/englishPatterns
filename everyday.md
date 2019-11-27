@@ -1,55 +1,3 @@
-# 왕초보 영어 (01-beginner-english)
-## Ep. 1023 (2019. 11. 18 월)
-가정
-
-    A: The heater is not .. again. 
-    (히터가 또 작동을 안 하고 있어요.) 
-    B: We .. it last year.  
-        (우리 그거 작년에 고쳤잖아요.) 
-    A: I think it's time to .. it.  
-    (그걸 교체할 때인 거 같아요.)
-    B: You're right. It's too .. .
-        (당신 말이 맞아요. 그거 너무 낡았어요.) 
-    
-    working
-    fixed
-    replace
-    old
-
----
-    heater / air-conditioner (or A/C)
-
-    be + not + ~ing
-
-    I'm not laughing.
-    We're not doing anything.
-    We're doing nothting.
-
----
-    fix / repair (수리하다)
-
-    in last year (X)
-    last year (O)
-
-    I graudated last year.
-    Did you move to LA last year.
-
----
-    It's time to + 동사원요
-
-    It's time to wake up.
-    It's time to watch 왕초보영어.
-    It's time to say good-bye
-
----
-    right vs wrong
-
-    too = 너무 (형용사) 하다
-    so 보다 더 심할 경우
-    
-    Am I too lazy?
-    I'm too sleepy.
-
 # 영자신문 (02-newspaper)
 ## Ep. 1288 (2019. 11. 18 월)
 
@@ -170,3 +118,59 @@ I think it depends on the situation.
         영업실적을 다루면서
     B: Alright. Go ahead.
     A: I'll divde it into 2 parts, Q1 to Q2 and Q3 and Q4.
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1024 (2019. 11. 19 화)
+
+일상
+
+    A: What's the ..? 
+    (문제가 뭐죠?) 
+    B: I have a .. tire.  
+        (타이어가 펑크 났어요.) 
+    B: But I don't know how to .. it.  
+        (하지만 그걸 교체하는 법을 몰라요.) 
+    A: I'll .. you a hand. 
+    (제가 거들어드릴게요.) 
+
+    problem
+    flat
+    change
+    give
+
+---
+    What's the problem?
+    = What's the matter?
+    = What's wrong?
+
+---
+    I have a flat tire. (단수)
+    I have two flat tires. (복수)
+
+    백미러: rear-view mirror
+    핸들: steering wheel
+    오픈 카: convertible
+
+---
+    how to read Chinese
+    how to snowboard
+    how to open this door
+    how to drive
+
+    I don't know how to read Chinese.
+    Teach me how to snowboard.
+    Do you know how to open this door?
+    Do you remember how to open this door?
+    I'm learning how to drive.
+
+---
+    give > gave > given
+
+    hand: 손, 거들어 줌
+    
+    Can you give me a hand?
+    My neighbors gave me a hand.
+
+    help 사람 out
+    = 사람을 거들어주다
+
