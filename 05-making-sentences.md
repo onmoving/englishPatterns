@@ -154,3 +154,39 @@
     A: That I failed the test.
         (= You brought up that I failed the test.)
     B: I'm sorry. I didn't know it was a secret.
+
+## Ep. 1074 (2019. 11. 15 금)
+
+    agree with + 의견
+    disagree with + 의견
+
+    저는 동의해요
+    당신의 의견에.
+    I agree with you.
+
+    하시나요?
+    동의하는 걸
+    이 아이디어에?
+    Do you agree with this idea?
+
+    저의 동의하지 않아요
+    그것에.
+    I disagree with that.
+
+    모두들 하시나요?
+    동의하는 걸
+    이 결정에
+    Does everyone agree with this decision?
+
+    ~인 줄 알았다
+    네가 했다고
+    동의하는 걸
+    내게
+    I thought you agreed with me.
+
+---
+    A: You didn't seem too enthused at the meeting.
+    오늘 회의에서 기분이 별로 안좋아 보이더라.
+    B: I didn't agree with the plan that Liza was proposing.
+    A: Why didn't you agree with her?
+    B: She needs a lot more market research to back herself up.
