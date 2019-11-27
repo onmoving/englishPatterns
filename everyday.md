@@ -275,6 +275,63 @@ I just can't ... online.
 
     A: Hey, do you know how long it'll take?
         = How long will it take?
-    B: The las speaker starts at 3:30
+    B: The last speaker starts at 3:30
     A: So, we should be out by 4? 네지 전에
     B: Yeah, we won't be here longer than 2 hours.
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1025 (2019. 11. 20 수)
+
+쇼핑
+
+    A: Do you guys .. to The East Village? 
+        (The East Village로 배달하시나요?) 
+    B: Sure. What would you ..?  
+    (그럼요. 뭘 원하시나요?) 
+    A: I want one medium .. pizza. 
+        (중간 사이즈 치즈피자 하나 주세요.) 
+    B: Alright. It'll take .. 50 minutes.
+    (알겠습니다. 50분 정도 걸릴 거예요.)    
+
+    deliver
+    like
+    cheese
+    about
+
+---
+    you guys = 너희들, 여러분, 당신들, 성별에 상관없이 씀
+
+    Do you guys enjoy music?
+    I love you guys.
+
+---
+    would you like = 원하시나요?
+    
+    What would you like?
+    = What do you want?
+
+---
+    small
+    medium
+    large
+
+    I want two cheese bugers.
+    Peter wants more money.
+
+---
+    It'll take 6 months.
+    It'll take 2 hours.
+
+    Alright.
+    = All right.
+    = OK.
+    = I got it.
+    = I see.
+
+---
+    퀴즈: 난 맥주 두 캔을 마셨어.
+    I drank two cans of beer.
+    I had two cans of beer.
+
+    퀴즈: 그건 약 3주 정도 걸릴 거예요.
+    It'll take about 3 weeks.
