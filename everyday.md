@@ -1,40 +1,3 @@
-# 어순 트레이닝 (05-making-sentences)
-## Ep. 1074 (2019. 11. 15 금)
-
-    agree with + 의견
-    disagree with + 의견
-
-    저는 동의해요
-    당신의 의견에.
-    I agree with you.
-
-    하시나요?
-    동의하는 걸
-    이 아이디어에?
-    Do you agree with this idea?
-
-    저의 동의하지 않아요
-    그것에.
-    I disagree with that.
-
-    모두들 하시나요?
-    동의하는 걸
-    이 결정에
-    Does everyone agree with this decision?
-
-    ~인 줄 알았다
-    네가 했다고
-    동의하는 걸
-    내게
-    I thought you agreed with me.
-
----
-    A: You didn't seem too enthused at the meeting.
-    오늘 회의에서 기분이 별로 안좋아 보이더라.
-    B: I didn't agree with the plan that Liza was proposing.
-    A: Why didn't you agree with her?
-    B: She needs a lot more market research to back herself up.
-
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1023 (2019. 11. 18 월)
 가정
@@ -165,5 +128,45 @@ I think it depends on the situation.
 
 ---
     I'll put that on my list. 
-    
+
     목록에 추가해 놓을게요.
+
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1075 (2019. 11. 18 월)
+
+발표시작
+
+    start with + 시작할 내용
+    start by + ~ing: ~를 하면서 시작하다
+
+    하겠습니다
+    시작하는 걸
+    새로운 소식부터
+    I'll start with some updates.
+
+    합시다
+    시작하는 걸
+    소개부터
+    Let's start with the introductions.
+
+    ~할까요?
+    시작하는 걸
+    첫 번째 안건부터
+    Shall we start with the first item?
+    = Shall we start with the first agenda?
+
+    무엇부터 할까요?
+    시작하는 걸
+    What should we start with?
+
+    우리는 해야 했다
+    시작하는 걸
+    처음부터 새로
+    We had to start from scratch.
+    (맨땅에 해딩하면서의 의미가 있음, 처음부터 무에서 부터 완전히 새롭게)
+
+    A: Start the presentation if you're ready for it.
+    B: Yes, sir. I'd like to start with the sales figures.
+        영업실적을 다루면서
+    B: Alright. Go ahead.
+    A: I'll divde it into 2 parts, Q1 to Q2 and Q3 and Q4.
