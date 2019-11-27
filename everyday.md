@@ -1,19 +1,3 @@
-# 영어뉴스 (03-ebse-news)
-## Ep. 1075 (2019. 11. 18 월)
-
-It was the most Fed dissents in years. Fed Chair Jerome Powell acknowledged the sharp division/ but said he believed that disparate perspectives are nothing but healthy. Powell did leave the door open to additional rate cuts,/ if the economy weakens.
-
-이는 수년 만에 가장 큰 연준내 이견이었습니다. 제롬 파월 의장은 의견이 첨예하게 갈렸다는 것을 인정했지만, 서로 다른 의견은 건강하다고 믿는다고 말했습니다. 파월은 경제가 약화될 경우 추가 금리 인하 가능성을 열어두었습니다. 
-
-It was the most Fed d.. 이견,불화 in years. Fed Chair Jerome Powell acknowledged the s... 날카로운 의견차이/ but said he believed that di..이질적인 perspectives are ... ~일 뿐인다 ~한 것 말고는 아무것도 아니다 healthy. Powell did l.. the door o.. @ ~에 가능성을 열어두다 additional rate cuts,/ if the economy w.. 약화되다.
-
----
-The cast features many Egyptian stars/ and a director who said he watched Disney's animated classics/ before taking the helm of his very first animation.
-
-많은 이집트 스타들이 배역진에 등장하며, 감독은 최초의 애니메이션의 키를 잡기 전에 디즈니의 클래식 애니메이션을 봤다고 말했습니다.
-
-The cast f..주연하다, 등장하다 many Egyptian stars/ and a director who said he watched Disney's animated classics/ before t... 책임을 맡다, 키를 잡다 of his very first animation.
-
 # 생활영어 (04-english-life)
 ## Ep. 763 (2019. 11. 18 월)
 
@@ -190,3 +174,69 @@ So many people say we are living in a winner-takes-all society.
 너무나 많은 사람들이 우리가 사는 사회는 일등주의, 승자독식 사회라고 말한다.
 
 So many people say we #비 l.. in a .. society.
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1076 (2019. 11. 19 화)
+
+Trudeau apologized,/ saying he should have known better, but he didn't/ and was deeply sorry for his action.
+
+트뤼도는 어리석을 행동을 하지 말았어야 했는데 했다며 자신의 행동에 대해 깊이 후회한다고 사과했습니다. 
+
+Trudeau apologized,/ saying he #조 ..., but he didn't/ and #비 d.. ... his action.
+
+---
+The iconic spotlight featuring the silhouette of a giant bat/ was spotted in 13 cities around the world,/ including Berlin, Rome, London and New York City. 
+
+대형 박쥐의 실루엣이 등장하는 상징적인 조명은 베를린, 로마, 런던, 뉴욕시 등 전 세계 13개 도시에서 목격되었습니다. 
+
+The iconic spotlight fe.. the sil.. 실루엣 of a giant bat/ #비 ..목격되었다 in 13 cities around the world,/ .. Berlin, Rome, London and New York City. 
+
+# 생활영어 (04-english-life)
+## Ep. 764 (2019. 11. 19 화)
+
+If I had it my way, I would do all of my shopping online. 
+
+제가 원하는 대로 할 수 있다면, 저는 모든 쇼핑을 인터넷으로 할 거예요. 
+
+If ..., I #조 do all of my shopping online. 
+
+---
+But it's a personal thing where I like to touch and feel ingredients so that I know that they're going to taste good. 
+
+그런데 저는 개인적으로 식재료들을 만져 보고 느껴 봐서 맛이 좋을 거라는 걸 알 수 있는 게 좋아요. 
+
+But it's a personal thing <<> I like to touch and feel ingredients ... I know that they're going to taste good. 
+
+---
+I just can't shop for groceries online.
+
+식료품은 인터넷으로 못 사겠어요. 
+
+I just can't ... online.
+
+---
+    have ~ my way
+    ~를 내가 원하는 대로 하다
+
+    1. I wanted to have the party my way.
+
+    2. I don't need to have everything my way.
+
+    be in season
+    제철이다
+
+    1. I think watermelons are still in season.
+
+    2. Strawberries will be in season soon.
+
+    저는 파티를 제가 원하는 대로 하고 싶었어요. 
+    저는 모든 걸 제가 원하는 대로 할 필요는 없어요. 
+    수박이 아직 제철인 것 같아요. 
+    딸기가 곧 제철이 될 거예요. 
+
+---
+    That's an idea! 
+
+    그런 방법이 있군요!
+
+    That's an idea! 
