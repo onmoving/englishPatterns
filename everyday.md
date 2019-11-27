@@ -240,3 +240,41 @@ I just can't ... online.
     그런 방법이 있군요!
 
     That's an idea! 
+
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1076 (2019. 11. 19 화)
+
+발표 소요 시간
+
+    발표 + take + 시간
+
+    얼마나 오래
+    프리젠텐이션이
+    소요되나요?
+    How long does the presentation take?
+
+    할 겁니다
+    소요되는 게
+    30분 정도
+    It'll take about 30 minutes.
+
+    시간이 소요됐습니다
+    더 오래
+    제가 생각했던것 보다.
+    This took longer than I expected.
+
+    시간이 걸리진 않았습니다
+    아주 오래
+    It didn't take too long.
+
+    얼마나 오래
+    시간이 걸릴까요?
+    Q&A 하는 데
+    How long do you think the Q&A will take?
+    = How long does the Q&A take?
+
+    A: Hey, do you know how long it'll take?
+        = How long will it take?
+    B: The las speaker starts at 3:30
+    A: So, we should be out by 4? 네지 전에
+    B: Yeah, we won't be here longer than 2 hours.
