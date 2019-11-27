@@ -1,51 +1,3 @@
-# 생활영어 (04-english-life)
-## Ep. 762 (2019. 11. 15 금)
-
-So now what I do is I tell people, "Okay, give me 24 hours to think about this and I'll get back to you with an answer." 
-
-그래서 이제는 사람들한테 이렇게 말해요. “이것에 대해서 24시간만 생각할 시간을 주시면 답변을 드릴게요.”
-
-So now ..., "Okay, give me 24 hours ...  and I'll ... an answer." 
-
----
-That way I can look at my calendar and really evaluate 
-how much work that particular thing is going to take and how much I can realistically give.
-
-그렇게 함으로써 저는 제 일정을 보고 정말로 계산을 해 볼 수 있어요.
-그걸 하려면 얼마나 많은 노력이 필요할지, 그리고 현실적으로 제가 얼마나 많이 할 수 있을지에 대해서요. 
-
-That way I can look at my calendar and really .. 
-how much work that particular thing is going to .. and how much I can r.. g.. 할 수 있을지,줄 수 있을지.
-
----
-    give oneself time to ~
-    스스로에게 ~할 시간을 주다
-
-    1. He gave himself time to get ready.
-
-    2. It's okay to give yourself time to respond.
-
-    if there is ever a(n) ~
-    혹시라도 ~가 있게 되면 
-
-    1. Call me if there is ever an emergency.
-
-    2. If there's ever a new problem, we can handle it better. 
-
-    그는 스스로에게 준비할 시간을 주었습니다. 
-    스스로에게 대답할 시간을 주는 것도 괜찮아요. 
-
-    혹시라도 비상 상황이 생기면 저한테 전화해 주세요.
-    혹시라도 새로운 문제가 생기면, 우리는 그걸 더 잘 처리할 수 있어요. 
-
----
-
-    I need some more time to think about it. 
-
-    생각할 시간이 더 필요해요.
-
-    ...
-
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1074 (2019. 11. 15 금)
 
@@ -167,3 +119,51 @@ The cast features many Egyptian stars/ and a director who said he watched Disney
 많은 이집트 스타들이 배역진에 등장하며, 감독은 최초의 애니메이션의 키를 잡기 전에 디즈니의 클래식 애니메이션을 봤다고 말했습니다.
 
 The cast f..주연하다, 등장하다 many Egyptian stars/ and a director who said he watched Disney's animated classics/ before t... 책임을 맡다, 키를 잡다 of his very first animation.
+
+# 생활영어 (04-english-life)
+## Ep. 763 (2019. 11. 18 월)
+
+I love going shopping when I have a list, but I'm not much of a window shopper.
+
+저는 쇼핑 목록이 있을 때 쇼핑하러 가는 걸 좋아하지만, 아이쇼핑은 별로 안 좋아해요.
+
+I love .. shopping <> I have a list, <> I'm not much @ a window shopper.
+
+---
+When it comes to shopping, I find that I don't hate or I love it. 
+
+저는 쇼핑에 관해서는, 싫거나 좋거나 하지 않은 것 같아요. 
+
+When it ..., I find that I don't ... 
+
+---
+I think it depends on the situation. 
+
+상황에 따라 다른 것 같아요. 
+
+...
+
+---
+    I think it depends on ~
+    ~에 따라 달라지는 것 같아요
+
+    1. I thought it depended on the time.
+
+    2. I think it depends on your personality.
+
+    unless I ~
+    ~하지 않는 한, ~하는 게 아니라면 
+
+    1. I'll hang out unless I'm too tired.
+
+    2. Unless I find another place, let's meet here.
+
+    저는 시간대에 따라 달라지는 줄 알았어요.
+    성격에 따라 다른 것 같아요.
+    저는 너무 피곤하지만 않으면 놀러 나갈게요. 
+    제가 다른 곳을 발견하지 않으면, 여기에서 만나죠. 
+
+---
+    I'll put that on my list. 
+    
+    목록에 추가해 놓을게요.
