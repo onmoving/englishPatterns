@@ -46,40 +46,6 @@ I think it depends on the situation.
 
     목록에 추가해 놓을게요.
 
-# 영자신문 (02-newspaper)
-## Ep. 1289 (2019. 11. 19 화)
-
-Google, the company that helped make it fun to just sit around surfing the web, is jumping into the fitness-tracker business with both feet, buying Fitbit for about $2.1 billion.
-
-제자리에서 인터넷을 검색을 하는데 크나큰 도움을 준 구글이 핏비트를 21억 달러에 인수하면서 '피트니스 트래커' 사업에 본격적으로 뛰어들었다.
-
-    - sit around: 빈둥거리다
-    - with both feet: 단호하게 
-    - jump in with both feet: 열심히 참가하다, 기세 좋게 착수하다 
-
-Google, the company that helped ..., is jumping into the fitness-tracker business ..., buying Fitbit @~얼마에 @약 $2.1 billion.
-
----
-The deal could put Google in direct competition with Apple and Samsung in the highly competitive market for smartwatches and other wearable devices. But it also raises questions about privacy and Google's dominance in the tech industry.
-
-이번 기업인수로 구글은 경쟁이 매우 치열한 스마트워치와 그 밖의 착용형 기기 시장에서 애플, 삼성과 직접적인 경쟁을 피할 수 없게 되었다. 또한 사생활 침해와 구글의 IT 산업 지배력에 관한 우려가 제기되고 있다.
-
-The deal #조 put Google ...~와 직접적인(치열한) 경쟁 Apple and Samsung @ the highly competitive market @ smartwatches and other wearable devices. But it also raises questions @ privacy and Google's do..지배력 @ the tech industry.
-
----
-The company's announcement Friday came with a promise that it won't sell ads using the intimate health data that Fitbit devices collect.
-
-구글의 금요일 발표에는 한 가지 약속이 따라 붙었다. 핏비트 기기가 수집하는 개인의 사적인 정보를 이용해 광고를 판매하지는 않겠다는 내용이다.
-
-The company's announcement Friday ... (약속이) 함께 왔다, 따라 붙었다 that it won't sell ads using the in..사적인 health data that Fitbit devices collect.
-
----
-So many people say we are living in a winner-takes-all society.
-
-너무나 많은 사람들이 우리가 사는 사회는 일등주의, 승자독식 사회라고 말한다.
-
-So many people say we #비 l.. in a .. society.
-
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1076 (2019. 11. 19 화)
 
@@ -420,3 +386,19 @@ Now, I don't ...열광하다.너무하다 like some people clipping stacks of co
 
     water: 군침이 돌다 (배고플 때)
     VS drool 군침을 질질 흘리다 (욕심이 나서 군침을 흘리다) 부정적 의미를 가짐
+
+# 영자신문 (02-newspaper)
+## Ep. 1291 (2019. 11. 21 목)
+
+An international team of researchers says the fossilized partial skeleton of a male ape that lived almost 12 million years ago in the humid forests of what is now southern Germany bears a striking resemblance to modern human bones. 
+
+여러 나라 과학자들로 이루어진 연구팀은 1,200만 년 전에 오늘날의 남부 독일에 해당하는 습한 숲에서 살았던 남성 유인원의 화석화된 유골 일부를 발견했고 이것이 오늘날 인간의 뼈와 놀랄 만큼 닮아 있다고 말했다.
+
+An international team of researchers says the fo.. 화석화된 partial sk..유골 of a male ape <<> lived almost 12 million years ago @ the humid forests @ <<> is now southern Germany be...~와 놀랄 만큼 닮았다 modern human bones. 
+
+---
+Son was visibly distraught after seeing the extent of Gomes' injury
+
+손흥민 선수는 고메스 선수의 부상 정도를 보고 눈에 띌 정도로 넋이 나간 모습을 보였다.
+
+Son was vi.. dis.. after seeing the ex.. of Gomes' injury
