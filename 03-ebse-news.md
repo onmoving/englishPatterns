@@ -93,3 +93,18 @@ The cast features many Egyptian stars/ and a director who said he watched Disney
 많은 이집트 스타들이 배역진에 등장하며, 감독은 최초의 애니메이션의 키를 잡기 전에 디즈니의 클래식 애니메이션을 봤다고 말했습니다.
 
 The cast f..주연하다, 등장하다 many Egyptian stars/ and a director who said he watched Disney's animated classics/ before t... 책임을 맡다, 키를 잡다 of his very first animation.
+
+## Ep. 1076 (2019. 11. 19 화)
+
+Trudeau apologized,/ saying he should have known better, but he didn't/ and was deeply sorry for his action.
+
+트뤼도는 어리석을 행동을 하지 말았어야 했는데 했다며 자신의 행동에 대해 깊이 후회한다고 사과했습니다. 
+
+Trudeau apologized,/ saying he #조 ... `더 잘`, but he didn't/ and #비 d.. ... his action.
+
+---
+The iconic spotlight featuring the silhouette of a giant bat/ was spotted in 13 cities around the world,/ including Berlin, Rome, London and New York City. 
+
+대형 박쥐의 실루엣이 등장하는 상징적인 조명은 베를린, 로마, 런던, 뉴욕시 등 전 세계 13개 도시에서 목격되었습니다. 
+
+The iconic spotlight fe.. the sil.. 실루엣 of a giant bat/ #비 `sp.목격되었다` in 13 cities around the world,/ .. Berlin, Rome, London and New York City. 
