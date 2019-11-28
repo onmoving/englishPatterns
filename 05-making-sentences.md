@@ -190,3 +190,42 @@
     B: I didn't agree with the plan that Liza was proposing.
     A: Why didn't you agree with her?
     B: She needs a lot more market research to back herself up.
+
+## Ep. 1075 (2019. 11. 18 월)
+
+발표시작
+
+    start with + 시작할 내용
+    start by + ~ing: ~를 하면서 시작하다
+
+    하겠습니다
+    시작하는 걸
+    새로운 소식부터
+    I'll start with some updates.
+
+    합시다
+    시작하는 걸
+    소개부터
+    Let's start with the introductions.
+
+    ~할까요?
+    시작하는 걸
+    첫 번째 안건부터
+    Shall we start with the first item?
+    = Shall we start with the first agenda?
+
+    무엇부터 할까요?
+    시작하는 걸
+    What should we start with?
+
+    우리는 해야 했다
+    시작하는 걸
+    처음부터 새로
+    We had to start from scratch.
+    (맨땅에 해딩하면서의 의미가 있음, 처음부터 무에서 부터 완전히 새롭게)
+
+    A: Start the presentation if you're ready for it.
+    B: Yes, sir. I'd like to start with the sales figures.
+        영업실적을 다루면서
+    B: Alright. Go ahead.
+    A: I'll divide it into 2 parts, Q1 to Q2 and Q3 to Q4.
