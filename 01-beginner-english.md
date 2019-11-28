@@ -247,3 +247,57 @@
     
     Am I too lazy?
     I'm too sleepy.
+
+## Ep. 1024 (2019. 11. 19 화)
+
+일상
+
+    A: What's the ..? 
+    (문제가 뭐죠?) 
+    B: I have a .. tire.  
+        (타이어가 펑크 났어요.) 
+    B: But I don't know how to .. it.  
+        (하지만 그걸 교체하는 법을 몰라요.) 
+    A: I'll .. you a hand. 
+    (제가 거들어드릴게요.) 
+
+    problem
+    flat
+    change
+    give
+
+---
+    What's the problem?
+    = What's the matter?
+    = What's wrong?
+
+---
+    I have a flat tire. (단수)
+    I have two flat tires. (복수)
+
+    백미러: rear-view mirror
+    핸들: steering wheel
+    오픈 카: convertible
+
+---
+    how to read Chinese
+    how to snowboard
+    how to open this door
+    how to drive
+
+    I don't know how to read Chinese.
+    Teach me how to snowboard.
+    Do you know how to open this door?
+    Do you remember how to open this door?
+    I'm learning how to drive.
+
+---
+    give > gave > given
+
+    hand: 손, 거들어 줌
+    
+    Can you give me a hand?
+    My neighbors gave me a hand.
+
+    help 사람 out
+    = 사람을 거들어주다
