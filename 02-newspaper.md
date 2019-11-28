@@ -156,3 +156,36 @@ WeWork put its stock market debut on the backburner, struggling to drum up inves
 투자자들의 관심을 끄는데 실패한 '위워크'는 기업공개를 보류했다.
 
 WeWork .. its stock market debut @ the b.., struggling to ... (관심을) 끌다 investor enthusiasm.
+
+## Ep. 1289 (2019. 11. 19 화)
+
+Google, the company that helped make it fun to just sit around surfing the web, is jumping into the fitness-tracker business with both feet, buying Fitbit for about $2.1 billion.
+
+제자리에서 인터넷을 검색을 하는데 크나큰 도움을 준 구글이 핏비트를 21억 달러에 인수하면서 '피트니스 트래커' 사업에 본격적으로 뛰어들었다.
+
+    - sit around: 빈둥거리다
+    - with both feet: 단호하게 
+    - jump in with both feet: 열심히 참가하다, 기세 좋게 착수하다 
+
+Google, the company that helped ..., is jumping into the fitness-tracker business ..., buying Fitbit @~얼마에 @약 $2.1 billion.
+
+---
+The deal could put Google in direct competition with Apple and Samsung in the highly competitive market for smartwatches and other wearable devices. But it also raises questions about privacy and Google's dominance in the tech industry.
+
+이번 기업인수로 구글은 경쟁이 매우 치열한 스마트워치와 그 밖의 착용형 기기 시장에서 애플, 삼성과 직접적인 경쟁을 피할 수 없게 되었다. 또한 사생활 침해와 구글의 IT 산업 지배력에 관한 우려가 제기되고 있다.
+
+The deal #조 put Google ...~와 직접적인(치열한) 경쟁 Apple and Samsung @ the highly competitive market @ smartwatches and other wearable devices. But it also raises questions @ privacy and Google's do..지배력 @ the tech industry.
+
+---
+The company's announcement Friday came with a promise that it won't sell ads using the intimate health data that Fitbit devices collect.
+
+구글의 금요일 발표에는 한 가지 약속이 따라 붙었다. 핏비트 기기가 수집하는 개인의 사적인 정보를 이용해 광고를 판매하지는 않겠다는 내용이다.
+
+The company's announcement Friday `... (약속이) 함께 왔다, 따라 붙었다` that it won't sell ads using the `in..사적인` health data that Fitbit devices collect.
+
+---
+So many people say we are living in a winner-takes-all society.
+
+너무나 많은 사람들이 우리가 사는 사회는 일등주의, 승자독식 사회라고 말한다.
+
+So many people say we #비 l.. in a .. society.
