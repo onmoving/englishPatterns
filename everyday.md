@@ -46,46 +46,6 @@ I think it depends on the situation.
 
     목록에 추가해 놓을게요.
 
-# 어순 트레이닝 (05-making-sentences)
-## Ep. 1075 (2019. 11. 18 월)
-
-발표시작
-
-    start with + 시작할 내용
-    start by + ~ing: ~를 하면서 시작하다
-
-    하겠습니다
-    시작하는 걸
-    새로운 소식부터
-    I'll start with some updates.
-
-    합시다
-    시작하는 걸
-    소개부터
-    Let's start with the introductions.
-
-    ~할까요?
-    시작하는 걸
-    첫 번째 안건부터
-    Shall we start with the first item?
-    = Shall we start with the first agenda?
-
-    무엇부터 할까요?
-    시작하는 걸
-    What should we start with?
-
-    우리는 해야 했다
-    시작하는 걸
-    처음부터 새로
-    We had to start from scratch.
-    (맨땅에 해딩하면서의 의미가 있음, 처음부터 무에서 부터 완전히 새롭게)
-
-    A: Start the presentation if you're ready for it.
-    B: Yes, sir. I'd like to start with the sales figures.
-        영업실적을 다루면서
-    B: Alright. Go ahead.
-    A: I'll divde it into 2 parts, Q1 to Q2 and Q3 and Q4.
-
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1024 (2019. 11. 19 화)
 
@@ -430,3 +390,31 @@ Now, I don't ...열광하다.너무하다 like some people clipping stacks of co
 
     ...
 
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1077 (2019. 11. 20 수)
+
+다른 주제로 넘어갈 때
+
+    move on to + 다음 내용
+
+    제가 하겠습니다 / 넘어가는 걸 / 다음 슬라이드로.
+    I'll move on to the next slide.
+
+    합시다 / 넘어가는 걸 / 다음 주제로.
+    Let's move on to the next issue.
+
+    하는 게 좋겠습니다 / 넘어가는 걸 / 결론으로.
+    We'd beter move on to the bottom line.
+
+    해도 될까요? / 넘어가는 걸 / 다음 주제로 / 주요 사안에 집중하고자
+    Can we move on to the next topic to focus on the major issue.
+
+    넘어가기 전에 / 질문 있나요?
+    Before moving on, any questions?
+    = Do you have any questions before moving on to the nexe part?
+
+---
+    A: What's the time, Robert?
+    B: It's almost six.
+    A: We have to move on to the next section.
+    B: Don't worry, take your time.
