@@ -46,61 +46,6 @@ I think it depends on the situation.
 
     목록에 추가해 놓을게요.
 
-# 왕초보 영어 (01-beginner-english)
-## Ep. 1024 (2019. 11. 19 화)
-
-일상
-
-    A: What's the ..? 
-    (문제가 뭐죠?) 
-    B: I have a .. tire.  
-        (타이어가 펑크 났어요.) 
-    B: But I don't know how to .. it.  
-        (하지만 그걸 교체하는 법을 몰라요.) 
-    A: I'll .. you a hand. 
-    (제가 거들어드릴게요.) 
-
-    problem
-    flat
-    change
-    give
-
----
-    What's the problem?
-    = What's the matter?
-    = What's wrong?
-
----
-    I have a flat tire. (단수)
-    I have two flat tires. (복수)
-
-    백미러: rear-view mirror
-    핸들: steering wheel
-    오픈 카: convertible
-
----
-    how to read Chinese
-    how to snowboard
-    how to open this door
-    how to drive
-
-    I don't know how to read Chinese.
-    Teach me how to snowboard.
-    Do you know how to open this door?
-    Do you remember how to open this door?
-    I'm learning how to drive.
-
----
-    give > gave > given
-
-    hand: 손, 거들어 줌
-    
-    Can you give me a hand?
-    My neighbors gave me a hand.
-
-    help 사람 out
-    = 사람을 거들어주다
-
 # 영자신문 (02-newspaper)
 ## Ep. 1289 (2019. 11. 19 화)
 
@@ -418,3 +363,60 @@ Now, I don't ...열광하다.너무하다 like some people clipping stacks of co
     B: It's almost six.
     A: We have to move on to the next section.
     B: Don't worry, take your time.
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1026 (2019. 11. 21 목)
+식당
+
+    A: Can you recommend me a good ..?  
+        (좋은 식당 좀 추천해줄 수 있니?) 
+    B: There's this .. restaurant in LA.  
+    (LA에 어떤 이탈리안 식당이 있어.)  
+    B: It's famous for its .. .  
+    (거기는 그곳의 파스타로 유명해.)
+    A: Oh, my .. is watering. 
+        (오, 군침 돌고 있어.) 
+
+    restaurant
+    Italian
+    pasta
+    mouth
+
+---
+    recommend 사람 명사
+
+    My dad recommended me this program.
+    Can you recommend me a good nail shop?
+    I can recommend you a quiet cafe.
+
+---
+    Italy: 이탈리아 (발음주의)
+
+    Korean / Canadian / French
+    한국의 / 캐나나의 / 프랑스의
+
+    There's an Italian restaurant in LA.
+    VS There's this Italian restaurant in LA.
+    this (명사)
+    = 어떤 (명사) => 경험하거나 본 것
+    회화체에서 습관적으로 사용됨
+
+    I know this singer.
+    There's this cool program.
+
+---
+    be famous for
+
+    전지현 is famous for her acting.
+    왕초보영어 is famous for its cool content.
+
+    암기추천
+    What is this place famous for?
+
+    its vs it's
+
+---
+    mouth 발음주의 VS mouse(쥐)
+
+    water: 군침이 돌다 (배고플 때)
+    VS drool 군침을 질질 흘리다 (욕심이 나서 군침을 흘리다) 부정적 의미를 가짐
