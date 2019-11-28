@@ -219,3 +219,50 @@ how much work that particular thing is going to .. and how much I can r.. g.. �
     생각할 시간이 더 필요해요.
 
     ...
+
+## Ep. 763 (2019. 11. 18 월)
+
+I love going shopping when I have a list, but I'm not much of a window shopper.
+
+저는 쇼핑 목록이 있을 때 쇼핑하러 가는 걸 좋아하지만, 아이쇼핑은 별로 안 좋아해요.
+
+I love .. shopping <> I have a list, <> I'm not `much` @ a window shopper.
+
+---
+When it comes to shopping, I find that I don't hate or I love it. 
+
+저는 쇼핑에 관해서는, 싫거나 좋거나 하지 않은 것 같아요. 
+
+When it ..., I find that I don't ... 
+
+---
+I think it depends on the situation. 
+
+상황에 따라 다른 것 같아요. 
+
+...
+
+---
+    I think it depends on ~
+    ~에 따라 달라지는 것 같아요
+
+    1. I thought it depended on the time.
+
+    2. I think it depends on your personality.
+
+    unless I ~
+    ~하지 않는 한, ~하는 게 아니라면 
+
+    1. I'll hang out unless I'm too tired.
+
+    2. Unless I find another place, let's meet here.
+
+    저는 시간대에 따라 달라지는 줄 알았어요.
+    성격에 따라 다른 것 같아요.
+    저는 너무 피곤하지만 않으면 놀러 나갈게요. 
+    제가 다른 곳을 발견하지 않으면, 여기에서 만나죠. 
+
+---
+    I'll put that on my list. 
+
+    목록에 추가해 놓을게요.
