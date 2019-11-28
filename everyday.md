@@ -46,22 +46,6 @@ I think it depends on the situation.
 
     목록에 추가해 놓을게요.
 
-# 영어뉴스 (03-ebse-news)
-## Ep. 1076 (2019. 11. 19 화)
-
-Trudeau apologized,/ saying he should have known better, but he didn't/ and was deeply sorry for his action.
-
-트뤼도는 어리석을 행동을 하지 말았어야 했는데 했다며 자신의 행동에 대해 깊이 후회한다고 사과했습니다. 
-
-Trudeau apologized,/ saying he #조 ..., but he didn't/ and #비 d.. ... his action.
-
----
-The iconic spotlight featuring the silhouette of a giant bat/ was spotted in 13 cities around the world,/ including Berlin, Rome, London and New York City. 
-
-대형 박쥐의 실루엣이 등장하는 상징적인 조명은 베를린, 로마, 런던, 뉴욕시 등 전 세계 13개 도시에서 목격되었습니다. 
-
-The iconic spotlight fe.. the sil.. 실루엣 of a giant bat/ #비 ..목격되었다 in 13 cities around the world,/ .. Berlin, Rome, London and New York City. 
-
 # 생활영어 (04-english-life)
 ## Ep. 764 (2019. 11. 19 화)
 
@@ -402,3 +386,12 @@ Son was visibly distraught after seeing the extent of Gomes' injury
 손흥민 선수는 고메스 선수의 부상 정도를 보고 눈에 띌 정도로 넋이 나간 모습을 보였다.
 
 Son was vi.. dis.. after seeing the ex.. of Gomes' injury
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1078 (2019. 11. 21 목)
+
+One lawmaker urged more action to fight online extremism,/ but cautioned against pushing people off of social media/ so they end up on the dark web.
+
+한 의원은 온라인 극단주의와 싸우기 위해 더 많은 조치를 취할 것으로 촉구하는 한편 사람들이 소셜 미디어에서 밀려나 결국 다크웹에 가게 될 것을 경고했습니다. 
+
+One lawmaker ur.. more action @ fight online extremism,/ but cau.. @ push.. people #@ @ social media/ <> they ...결국 (어떤 처지에) 처하게 되다 @ the dark web.
