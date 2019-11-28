@@ -266,3 +266,52 @@ I think it depends on the situation.
     I'll put that on my list. 
 
     목록에 추가해 놓을게요.
+
+## Ep. 764 (2019. 11. 19 화)
+
+If I had it my way, I would do all of my shopping online. 
+
+제가 원하는 대로 할 수 있다면, 저는 모든 쇼핑을 인터넷으로 할 거예요. 
+
+If ..., I #조 do all of my shopping online. 
+
+---
+But it's a personal thing where I like to touch and feel ingredients so that I know that they're going to taste good. 
+
+그런데 저는 개인적으로 식재료들을 만져 보고 느껴 봐서 맛이 좋을 거라는 걸 알 수 있는 게 좋아요. 
+
+But it's a personal thing <<> I like to touch and feel ingredients ... I know that they're going to taste good. 
+
+---
+I just can't shop for groceries online.
+
+식료품은 인터넷으로 못 사겠어요. 
+
+I just can't ... online.
+
+---
+    have ~ my way
+    ~를 내가 원하는 대로 하다
+
+    1. I wanted to have the party my way.
+
+    2. I don't need to have everything my way.
+
+    be in season
+    제철이다
+
+    1. I think watermelons are still in season.
+
+    2. Strawberries will be in season soon.
+
+    저는 파티를 제가 원하는 대로 하고 싶었어요. 
+    저는 모든 걸 제가 원하는 대로 할 필요는 없어요. 
+    수박이 아직 제철인 것 같아요. 
+    딸기가 곧 제철이 될 거예요. 
+
+---
+    That's an idea! 
+
+    그런 방법이 있군요!
+
+    That's an idea! 
