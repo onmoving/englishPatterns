@@ -1,101 +1,3 @@
-# 생활영어 (04-english-life)
-## Ep. 763 (2019. 11. 18 월)
-
-I love going shopping when I have a list, but I'm not much of a window shopper.
-
-저는 쇼핑 목록이 있을 때 쇼핑하러 가는 걸 좋아하지만, 아이쇼핑은 별로 안 좋아해요.
-
-I love .. shopping <> I have a list, <> I'm not much @ a window shopper.
-
----
-When it comes to shopping, I find that I don't hate or I love it. 
-
-저는 쇼핑에 관해서는, 싫거나 좋거나 하지 않은 것 같아요. 
-
-When it ..., I find that I don't ... 
-
----
-I think it depends on the situation. 
-
-상황에 따라 다른 것 같아요. 
-
-...
-
----
-    I think it depends on ~
-    ~에 따라 달라지는 것 같아요
-
-    1. I thought it depended on the time.
-
-    2. I think it depends on your personality.
-
-    unless I ~
-    ~하지 않는 한, ~하는 게 아니라면 
-
-    1. I'll hang out unless I'm too tired.
-
-    2. Unless I find another place, let's meet here.
-
-    저는 시간대에 따라 달라지는 줄 알았어요.
-    성격에 따라 다른 것 같아요.
-    저는 너무 피곤하지만 않으면 놀러 나갈게요. 
-    제가 다른 곳을 발견하지 않으면, 여기에서 만나죠. 
-
----
-    I'll put that on my list. 
-
-    목록에 추가해 놓을게요.
-
-# 생활영어 (04-english-life)
-## Ep. 764 (2019. 11. 19 화)
-
-If I had it my way, I would do all of my shopping online. 
-
-제가 원하는 대로 할 수 있다면, 저는 모든 쇼핑을 인터넷으로 할 거예요. 
-
-If ..., I #조 do all of my shopping online. 
-
----
-But it's a personal thing where I like to touch and feel ingredients so that I know that they're going to taste good. 
-
-그런데 저는 개인적으로 식재료들을 만져 보고 느껴 봐서 맛이 좋을 거라는 걸 알 수 있는 게 좋아요. 
-
-But it's a personal thing <<> I like to touch and feel ingredients ... I know that they're going to taste good. 
-
----
-I just can't shop for groceries online.
-
-식료품은 인터넷으로 못 사겠어요. 
-
-I just can't ... online.
-
----
-    have ~ my way
-    ~를 내가 원하는 대로 하다
-
-    1. I wanted to have the party my way.
-
-    2. I don't need to have everything my way.
-
-    be in season
-    제철이다
-
-    1. I think watermelons are still in season.
-
-    2. Strawberries will be in season soon.
-
-    저는 파티를 제가 원하는 대로 하고 싶었어요. 
-    저는 모든 걸 제가 원하는 대로 할 필요는 없어요. 
-    수박이 아직 제철인 것 같아요. 
-    딸기가 곧 제철이 될 거예요. 
-
----
-    That's an idea! 
-
-    그런 방법이 있군요!
-
-    That's an idea! 
-
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1076 (2019. 11. 19 화)
 
@@ -230,61 +132,6 @@ Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor a
 
 Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor ..전통에 따라,전통이 요구하는 대로.
 
-# 생활영어 (04-english-life)
-## Ep. 765 (2019. 11. 20 수)
-
-Some people can't stand grocery shopping, but I just can't get enough. 
-
-어떤 사람들은 식료품 쇼핑을 견딜 수 없지만 저는 아무리 해도 질리지 않아요.
-
-Some people can't stand grocery shopping, but I just ..넉넉해지지 않는다.질리지 않는다. 
-
----
-And I like to take things slow. 
-
-그리고 저는 천천히 둘러보는 걸 좋아해요.
-
-And I like .. 천천히 둘러보다. 
-
----
-I was able to find giant watermelons for only two dollars each. Those were a steal. 
-
-저는 커다란 수박을 2달러에 파는 곳을 찾았어요. 공짜나 마찬가지였어요. 
-
-I was able to find giant watermelons ...각각2달라에. Those ..공짜나 마찬가지 였다. 
-
----
-Now, I don't go overboard like some people clipping stacks of coupons or price matching every little thing, 
-
-물론 저는 쿠폰을 잔뜩 잘라오거나 모든 물건을 다른 가게에서만큼 싸게 사려고 하는 사람들처럼 심하게 하지는 않아요. 
-
-Now, I don't ...열광하다.너무하다 like some people clipping stacks of coupons or price match.. every little thing, 
-
----
-    only two dollars each
-    하나에 2달러밖에 안 하다
-
-    1. The flowers are only two dollars each.
-    2. I bought two pens for only two dollars each.
-
-    time out of one's ~
-    자신의 ~중에서 시간을 ~
-
-    1. We'll take time out of our day to call.
-    2. He arranged time out of his schedule for us.
-
-    그 꽃들은 한 송이에 2달러밖에 안 해요. 
-    저는 하나 당 겨우 2달러에 펜 2개를 샀어요. 
-    우리는 하루 중에서 시간을 내서 전화를 할 거예요. 
-    그는 자신의 일정에서 우리를 위해 시간을 내 줬어요. 
-
----
-    That was a real bargain. 
-
-    그건 정말 저렴하게 샀어요.
-
-    ...
-
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1077 (2019. 11. 20 수)
 
@@ -395,3 +242,41 @@ One lawmaker urged more action to fight online extremism,/ but cautioned against
 한 의원은 온라인 극단주의와 싸우기 위해 더 많은 조치를 취할 것으로 촉구하는 한편 사람들이 소셜 미디어에서 밀려나 결국 다크웹에 가게 될 것을 경고했습니다. 
 
 One lawmaker ur.. more action @ fight online extremism,/ but cau.. @ push.. people #@ @ social media/ <> they ...결국 (어떤 처지에) 처하게 되다 @ the dark web.
+
+# 생활영어 (04-english-life)
+## Ep. 766 (2019. 11. 21 목)
+
+I also make it a point to walk through the entire store 
+before making any decisions of what to buy, in case there's something I've missed.
+
+그리고 저는 반드시 가게 전체를 꼭 다 걸어 다녀 봐요. 
+뭘 사고 싶은지 결정하기 전에 말이에요. 제가 놓친 게 있을 수도 있으니까요. 
+
+I also ... 반드시 ~하는 걸 한다, 포인트를 만든다 walk #@ 관통해서 the entire store 
+<@> making any decisions of #의 to buy, ...의 경우,~할 지도 몰라서 there's something I've missed.
+
+---
+Pattern Practice 
+
+    the act of –ing
+    ~를 하는 행동, ~를 하는 행위 
+
+    1. He was caught in the act of stealing the bike.
+    2. The act of writing a letter is rare now.
+
+    in case there is ~
+    ~가 있을지도 몰라서
+
+    1. I closed the window in case there was fine dust.
+    2. In case there's no water fountain, let's bring water.
+
+    그는 자전거를 훔치는 행위를 하다가 걸렸어요. 
+    편지를 쓰는 행위는 이제 흔치 않아요. 
+    저는 미세 먼지가 있을지도 몰라서 창문을 닫았어요. 
+    식수대가 없을 수도 있으니 물을 가져갑시다. 
+----
+알쏭달쏭 한마디 
+
+    I know what I'm going to buy. 
+
+    뭘 살지 정했어요.
