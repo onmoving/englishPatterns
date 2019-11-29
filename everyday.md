@@ -1,41 +1,3 @@
-# 어순 트레이닝 (05-making-sentences)
-## Ep. 1076 (2019. 11. 19 화)
-
-발표 소요 시간
-
-    발표 + take + 시간
-
-    얼마나 오래
-    프리젠텐이션이
-    소요되나요?
-    How long does the presentation take?
-
-    할 겁니다
-    소요되는 게
-    30분 정도
-    It'll take about 30 minutes.
-
-    시간이 소요됐습니다
-    더 오래
-    제가 생각했던것 보다.
-    This took longer than I expected.
-
-    시간이 걸리진 않았습니다
-    아주 오래
-    It didn't take too long.
-
-    얼마나 오래
-    시간이 걸릴까요?
-    Q&A 하는 데
-    How long do you think the Q&A will take?
-    = How long does the Q&A take?
-
-    A: Hey, do you know how long it'll take?
-        = How long will it take?
-    B: The last speaker starts at 3:30
-    A: So, we should be out by 4? 네지 전에
-    B: Yeah, we won't be here longer than 2 hours.
-
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1025 (2019. 11. 20 수)
 
@@ -280,3 +242,37 @@ Pattern Practice
     I know what I'm going to buy. 
 
     뭘 살지 정했어요.
+
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1078 (2019. 11. 21 목)
+자료를 활용할 때
+
+    take a look at + 자료
+    : 살펴보다
+
+    look at: ~가를 보다
+
+    해주십시요 / 봐 주시는 걸 / 도표를.
+    Please take a look at the charts.
+
+    합시다 / 보는 걸 / 이 슬라이드를
+    Let's take a look at this slide.
+
+    해 주시겠어요? / 보는 걸 / 인쇄물을.
+    Can you take a look at the handout?
+    = printout
+
+    ~부터 시작합시다 / 보는 것을 / 새로운 광고를.
+    Let's start by taking a look at the new ads.
+
+    start by ~ing: ~(행동을) 하면서 시작하다
+    start with: ~을 다루면서 시작하다
+
+    다음 부분으로 넘어가면서, / 전 하고 싶습니다 / 보는 걸 / 장단점을.
+    Moving on to the next section, I'd like to take a look at the pros and cons.
+
+---
+    A: I don't know what I'm supposed to be looking at.
+    B: Can you see the upper right-hand corner of the photograph?
+    A: Oh, I see it now
+    B: Great. Let's take a look at it.
