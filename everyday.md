@@ -1,60 +1,3 @@
-# 왕초보 영어 (01-beginner-english)
-## Ep. 1025 (2019. 11. 20 수)
-
-쇼핑
-
-    A: Do you guys .. to The East Village? 
-        (The East Village로 배달하시나요?) 
-    B: Sure. What would you ..?  
-    (그럼요. 뭘 원하시나요?) 
-    A: I want one medium .. pizza. 
-        (중간 사이즈 치즈피자 하나 주세요.) 
-    B: Alright. It'll take .. 50 minutes.
-    (알겠습니다. 50분 정도 걸릴 거예요.)    
-
-    deliver
-    like
-    cheese
-    about
-
----
-    you guys = 너희들, 여러분, 당신들, 성별에 상관없이 씀
-
-    Do you guys enjoy music?
-    I love you guys.
-
----
-    would you like = 원하시나요?
-    
-    What would you like?
-    = What do you want?
-
----
-    small
-    medium
-    large
-
-    I want two cheese bugers.
-    Peter wants more money.
-
----
-    It'll take 6 months.
-    It'll take 2 hours.
-
-    Alright.
-    = All right.
-    = OK.
-    = I got it.
-    = I see.
-
----
-    퀴즈: 난 맥주 두 캔을 마셨어.
-    I drank two cans of beer.
-    I had two cans of beer.
-
-    퀴즈: 그건 약 3주 정도 걸릴 거예요.
-    It'll take about 3 weeks.
-
 # 영자신문 (02-newspaper)
 ## Ep. 1290 (2019. 11. 20 수)
 
@@ -276,3 +219,55 @@ Pattern Practice
     B: Can you see the upper right-hand corner of the photograph?
     A: Oh, I see it now
     B: Great. Let's take a look at it.
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1027 (2019. 11. 22 금)
+여행
+
+    A: We are sorry for the .. .   
+    (지연에 대해 죄송합니다.) 
+    A: The plane will take off ...  
+    (비행기가 곧 이륙할 거예요.) 
+    B: It's been 2 ... 
+        (2시간이 지났잖아요.) 
+    B: I can't miss my connecting .. . 
+        (저 연결 항공편 놓치면 안 돼요.)
+
+    delay
+    shortly = soon
+    hours
+    flight
+
+---
+    I'm sorry for everything.
+    We are sorry for the inconveniece.
+
+    take off <-> land (착륙하다)
+    plane: 비행기 = air plane
+
+---
+    여기서 it's = it has
+    
+    It's been 기간
+    기간이 지났어요.
+
+    It's been two weeks.
+    It's been 10 months.
+
+    암기추천:
+    It's been forever.
+    = 엄청 오랜 시간이 지났어. / 엄청 오래 됐어.
+    = It's been a long time. 을 회화체로 바꾼 표현
+
+---
+    flight 항공편
+
+    I can't miss this show.
+    You can't come in here.
+
+---
+    퀴즈: 그건 약 3주 정도 걸릴 거예요.
+    It'll take about 3 weeks.
+
+    퀴즈: 그 비행기는 30분 전에 이륙했어.
+    The plane took off 30 minutes earlier.
