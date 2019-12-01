@@ -189,3 +189,25 @@ So many people say we are living in a winner-takes-all society.
 너무나 많은 사람들이 우리가 사는 사회는 일등주의, 승자독식 사회라고 말한다.
 
 So many people say we #비 l.. in a .. society.
+
+## Ep. 1290 (2019. 11. 20 수)
+
+His statement touted America's carbon pollution cuts and called the Paris deal an "unfair economic burden" to the U.S. economy.
+
+폼페이오 장관은 성명을 통해 미국의 탄소 오염 삭감조치를 홍보하면서 파리 협약은 미국 경제에 "부당한 경제 부담"이라고 말했다.
+
+His statement t.. 자랑,홍보하다 America's carbon pollution cuts and called the Paris deal an "unfair economic burden" @ the U.S. economy.
+
+---
+Nearly 200 nations signed the climate deal in which each country provides its own goals to curb emissions of heat-trapping gases that lead to climate change.
+
+약 200개 국가가 파리 기후협약에 서명했다. 협약에 따르면 각국은 기후변화를 야기하는 온실가스 배출량 삭감을 위해 자체적인 목표를 제시해야 한다.
+
+Nearly 200 nations signed the climate deal @ <> each country provides its own goals to `cu..` emissions of heat-tr.. gases that lead @ climate change.
+
+---
+The Paris deal calls for nations to come up with more ambitious pollution cuts every five years
+
+파리 기후협약에서는 국가들로 하여금 매5년 마다 더욱 과감한 오염 삭감 목표를 제시할 것을 요구하고 있다.
+
+The Paris deal calls for nations to `...목표를 제시하다, 마련하다, 따라잡다` more ambitious pollution cuts .. five years
