@@ -213,7 +213,17 @@ Thousands of young people/ marched through New York City on Friday, September 20
 Thousands of young people/ marched th@ New York City @ Friday, September 20th,/ demand.. world leaders/ ... their efforts @ climate change.
 
 ---
+Even after the hoax was revealed,/ the area braced itself for large crowds of alien enthusiasts. A number of events were organized/ to cater to those earthlings descending upon the area,/ including an "Alienstock" music festival.
 
+    장난, 거짓말 hoax 
+    ~에 대비하다 brace for 
+    (때로는 예상치 못하게, 대규모로) ~에 몰려들다 descend upon
+    cater to: 수용하다
+    earthlings: 지구인
+
+장난이 드러난 후에도, 지역은 대규모의 외계인 애호가들이 몰려들 것에 대비했습니다. 에일리언스톡 뮤직 페스티벌을 포함해 지역에 몰려들 지구인들을 위해 다양한 행사가 조직되었습니다. 
+
+Even after the ho.. was revealed,/ the area br.. itself @ large crowds of alien enthusiasts. A number of events were organized/ @ cat.. @ those earthlings des.. @ the area,/ including an "Alienstock" music festival.
 
 # 생활영어 (04-english-life)
 ## Ep. 767 (2019. 11. 22 금)
