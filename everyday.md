@@ -201,6 +201,20 @@ The bill was spearheaded by the liberal government but in the end was supported 
 
 The bill was spea.. @ the liberal government but in the end was supported by the ma... party.
 
+# 영어뉴스 (03-ebse-news)
+## Ep. 1079 (2019. 11. 22 금)
+
+Thousands of young people/ marched through New York City on Friday, September 20th,/ demanding world leaders/ step up their efforts against climate change.
+
+    step something up: ~을 증가시키다, 강화하다
+
+수천 명의 젊은이들이 9월 20일 금요일 뉴욕시를 행진하며 세계 지도자들에게 기후변화에 대한 노력을 강화할 것을 요구했습니다.
+
+Thousands of young people/ marched th@ New York City @ Friday, September 20th,/ demand.. world leaders/ ... their efforts @ climate change.
+
+---
+
+
 # 생활영어 (04-english-life)
 ## Ep. 767 (2019. 11. 22 금)
 
