@@ -199,7 +199,7 @@ The bill was spearheaded by the liberal government but in the end was supported 
 
 이 법안은 정부 주도로 이루어졌지만, 결국에는 제1야당의 지지를 받았다.
 
-The bill was spea.. @ the liberal government but in the end was supported by the ma... party.
+The bill was spea.. @ the liberal government but in the end was supported by #관 ma... party.
 
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1079 (2019. 11. 22 금)
