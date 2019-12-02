@@ -312,3 +312,19 @@ She likes to go shopping when she wants to relax or when she's feeling bored.
 
 Shopping is a th.. activity @ my mother. 
 She likes @ go shopp.. <> she wants @ relax or <> she's feel.. bor.. 
+
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1079 (2019. 11. 22 금)
+마무리할 때
+
+Feel free to + 동사
+
+    맘껏 하셔도 좋습니다 / 제게 질문을.
+    Feel free to ask me any questions.
+
+    맘껏 하셔도 좋습니다 / 제게 전화를 / 아무 때나.
+    Feel free to call me anytime.
+
+    맘껏 하셔도 좋습니다 / 저희에게 연락을 / 이메일로.
+    Feel free to contact us via email.
+    
