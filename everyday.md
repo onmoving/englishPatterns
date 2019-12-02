@@ -1,26 +1,3 @@
-# 영자신문 (02-newspaper)
-## Ep. 1290 (2019. 11. 20 수)
-
-His statement touted America's carbon pollution cuts and called the Paris deal an "unfair economic burden" to the U.S. economy.
-
-폼페이오 장관은 성명을 통해 미국의 탄소 오염 삭감조치를 홍보하면서 파리 협약은 미국 경제에 "부당한 경제 부담"이라고 말했다.
-
-His statement t.. 자랑,홍보하다 America's carbon pollution cuts and called the Paris deal an "unfair economic burden" @ the U.S. economy.
-
----
-Nearly 200 nations signed the climate deal in which each country provides its own goals to curb emissions of heat-trapping gases that lead to climate change.
-
-약 200개 국가가 파리 기후협약에 서명했다. 협약에 따르면 각국은 기후변화를 야기하는 온실가스 배출량 삭감을 위해 자체적인 목표를 제시해야 한다.
-
-Nearly 200 nations signed the climate deal @ <> each country provides its own goals to c.. emissions of heat-tr.. gases that lead @ climate change.
-
----
-The Paris deal calls for nations to come up with more ambitious pollution cuts every five years
-
-파리 기후협약에서는 국가들로 하여금 매5년 마다 더욱 과감한 오염 삭감 목표를 제시할 것을 요구하고 있다.
-
-The Paris deal calls for nations to ...목표를 제시하다, 마련하다, 따라잡다 more ambitious pollution cuts .. five years
-
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1077 (2019. 11. 20 수)
 
@@ -110,7 +87,7 @@ Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor .
     be famous for
 
     전지현 is famous for her acting.
-    왕초보영어 is famous for its cool content.
+    This program is famous for its cool content.
 
     암기추천
     What is this place famous for?
@@ -271,3 +248,41 @@ Pattern Practice
 
     퀴즈: 그 비행기는 30분 전에 이륙했어.
     The plane took off 30 minutes earlier.
+
+# 영자신문 (02-newspaper)
+## Ep. 1292 (2019. 11. 22 금)
+
+Chile: (the) President promotes (a) minimum wage hike to quell unrest
+
+Chile: (the) President pro.. (a) minimum wage h.. @ qu..(소요 등을) 진압하다, (감정을) 가라앉히다 unr..불안,소요사태
+
+---
+Chile's president sent a bill to Congress on Wednesday that would raise the minimum wage, one of a series of measures to try to contain nearly three weeks of anti-government protests over inequality in one of Latin America's richest countries. Demonstrations demanding improved social services and greater equality continue. 
+
+Chile's president se.. a bill @ Congress @ Wednesday <<> #조 raise the minimum wage, one of a series of mea.. @ try @ con..억누르다 nearly three weeks of anti-government protests ov@ inequality in one of Latin America's richest countries. Demonstrations demand.. improved social services and greater equality continue. 
+
+---
+New Zealand lawmakers on Thursday joined forces across the aisle to pass a bill aimed at combating climate change. The Zero Carbon bill aims to make New Zealand reduce its greenhouse gas emissions to the point the country becomes mostly carbon neutral by 2050. 
+
+New Zealand lawmakers @ Thursday jo.. for..힘을 모으다, 협력하다 acr...초당적으로 @ pass a bill aimed @ combat.. climate change. The Zero Carbon bill aims @ make New Zealand reduce its greenhouse gas emissions @ the point the country becomes mos.. carbon neutral @까지 2050. 
+
+---
+Baseball fans in Venezuela know this season's opening game wouldn't measure up to past years.
+
+    measure up to: ~에 필적하다
+
+베네수엘라 야구 팬들은 올 시즌 개막전이 과거 몇 년 동안과는 사뭇 다를 것이라는 점을 잘 알고 있다.
+
+Baseball fans in Venezuela know this season's opening game wouldn't measure up to past years.
+
+---
+A deepening crisis has left the nation in shambles, and a recent curve ball from the Trump administration prevented big league players in Major League Baseball from taking the field, stripping away star power that Venezuelan fans have come to expect over decades.
+
+    in shambles: 난장판이 된
+    take the field: (야구) 수비를 맡다, 경기를 시작하다
+
+위기가 심화되면서 나라는 엉망이 되었고, 트럼프 미국 행정부의 간접적인 제재로 미국 메이저 리그 선수들의 출전이 금지되면서 수십 년 동안 베네수엘라 야구 팬들이 기대해왔던 스타 파워가 사라지게 되었다.
+
+A deepening crisis has left the nation in shambles, and a recent curve ball from the Trump administration prevented big league players in Major League Baseball from taking the field, stripping away star power that Venezuelan fans have come to expect over decades.
+
+---
