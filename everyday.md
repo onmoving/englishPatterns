@@ -1,32 +1,3 @@
-# 어순 트레이닝 (05-making-sentences)
-## Ep. 1077 (2019. 11. 20 수)
-
-다른 주제로 넘어갈 때
-
-    move on to + 다음 내용
-
-    제가 하겠습니다 / 넘어가는 걸 / 다음 슬라이드로.
-    I'll move on to the next slide.
-
-    합시다 / 넘어가는 걸 / 다음 주제로.
-    Let's move on to the next issue.
-
-    하는 게 좋겠습니다 / 넘어가는 걸 / 결론으로.
-    We'd beter move on to the bottom line.
-
-    해도 될까요? / 넘어가는 걸 / 다음 주제로 / 주요 사안에 집중하고자
-    Can we move on to the next topic to focus on the major issue.
-
-    넘어가기 전에 / 질문 있나요?
-    Before moving on, any questions?
-    = Do you have any questions before moving on to the nexe part?
-
----
-    A: What's the time, Robert?
-    B: It's almost six.
-    A: We have to move on to the next section.
-    B: Don't worry, take your time.
-
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1026 (2019. 11. 21 목)
 식당
