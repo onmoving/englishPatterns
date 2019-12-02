@@ -108,3 +108,18 @@ The iconic spotlight featuring the silhouette of a giant bat/ was spotted in 13 
 대형 박쥐의 실루엣이 등장하는 상징적인 조명은 베를린, 로마, 런던, 뉴욕시 등 전 세계 13개 도시에서 목격되었습니다. 
 
 The iconic spotlight fe.. the sil.. 실루엣 of a giant bat/ #비 `sp.목격되었다` in 13 cities around the world,/ .. Berlin, Rome, London and New York City. 
+
+## Ep. 1077 (2019. 11. 20 수)
+
+O'Brien's appointment came at a time/ when the US faces rising tensions with Iran/ over a drone attack on Saudi Arabia's oil facilities. 
+
+오브라이언의 임명은 사우디아라비아 석유 시설에 대한 드론 공격으로  이란과의 긴장이 증가하고 있는 가운데 나왔습니다.
+
+O'Brien's a..임명 came at a time/ <<> the US faces rising t..긴장들 with Iran/ @ a drone attack @ Saudi Arabia's oil facilities. 
+
+---
+Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor as tradition demands.
+
+그리고 전통에 따라 뮌헨 시장인 디에터 라이터는 첫 잔을 바이에른 주지사에게 건넸습니다.
+
+Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor `@ tr.. de..전통에 따라,전통이 요구하는 대로`.
