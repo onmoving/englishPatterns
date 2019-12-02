@@ -1,19 +1,3 @@
-# 영어뉴스 (03-ebse-news)
-## Ep. 1077 (2019. 11. 20 수)
-
-O'Brien's appointment came at a time/ when the US faces rising tensions with Iran/ over a drone attack on Saudi Arabia's oil facilities. 
-
-오브라이언의 임명은 사우디아라비아 석유 시설에 대한 드론 공격으로  이란과의 긴장이 증가하고 있는 가운데 나왔습니다.
-
-O'Brien's a..임명 came at a time/ <<> the US faces rising t..긴장들 with Iran/ @ a drone attack @ Saudi Arabia's oil facilities. 
-
----
-Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor as tradition demands.
-
-그리고 전통에 따라 뮌헨 시장인 디에터 라이터는 첫 잔을 바이에른 주지사에게 건넸습니다.
-
-Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor ..전통에 따라,전통이 요구하는 대로.
-
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1077 (2019. 11. 20 수)
 
