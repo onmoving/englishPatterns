@@ -1,60 +1,3 @@
-# 왕초보 영어 (01-beginner-english)
-## Ep. 1026 (2019. 11. 21 목)
-식당
-
-    A: Can you recommend me a good ..?  
-        (좋은 식당 좀 추천해줄 수 있니?) 
-    B: There's this .. restaurant in LA.  
-    (LA에 어떤 이탈리안 식당이 있어.)  
-    B: It's famous for its .. .  
-    (거기는 그곳의 파스타로 유명해.)
-    A: Oh, my .. is watering. 
-        (오, 군침 돌고 있어.) 
-
-    restaurant
-    Italian
-    pasta
-    mouth
-
----
-    recommend 사람 명사
-
-    My dad recommended me this program.
-    Can you recommend me a good nail shop?
-    I can recommend you a quiet cafe.
-
----
-    Italy: 이탈리아 (발음주의)
-
-    Korean / Canadian / French
-    한국의 / 캐나나의 / 프랑스의
-
-    There's an Italian restaurant in LA.
-    VS There's this Italian restaurant in LA.
-    this (명사)
-    = 어떤 (명사) => 경험하거나 본 것
-    회화체에서 습관적으로 사용됨
-
-    I know this singer.
-    There's this cool program.
-
----
-    be famous for
-
-    전지현 is famous for her acting.
-    This program is famous for its cool content.
-
-    암기추천
-    What is this place famous for?
-
-    its vs it's
-
----
-    mouth 발음주의 VS mouse(쥐)
-
-    water: 군침이 돌다 (배고플 때)
-    VS drool 군침을 질질 흘리다 (욕심이 나서 군침을 흘리다) 부정적 의미를 가짐
-
 # 영자신문 (02-newspaper)
 ## Ep. 1291 (2019. 11. 21 목)
 
@@ -78,7 +21,7 @@ One lawmaker urged more action to fight online extremism,/ but cautioned against
 
 한 의원은 온라인 극단주의와 싸우기 위해 더 많은 조치를 취할 것으로 촉구하는 한편 사람들이 소셜 미디어에서 밀려나 결국 다크웹에 가게 될 것을 경고했습니다. 
 
-One lawmaker ur.. more action @ fight online extremism,/ but cau.. @ push.. people #@ @ social media/ <> they ...결국 (어떤 처지에) 처하게 되다 @ the dark web.
+One lawmaker ur.. more action `@` fight online extremism,/ but cau.. `@` push.. people #@부 @ social media/ <> they ...결국 (어떤 처지에) 처하게 되다 @ the dark web.
 
 # 생활영어 (04-english-life)
 ## Ep. 766 (2019. 11. 21 목)
@@ -228,7 +171,7 @@ Baseball fans in Venezuela know this season's opening game wouldn't measure up t
 
 베네수엘라 야구 팬들은 올 시즌 개막전이 과거 몇 년 동안과는 사뭇 다를 것이라는 점을 잘 알고 있다.
 
-Baseball fans in Venezuela know this season's opening game wouldn't measure up to past years.
+Baseball fans in Venezuela know this season's opening game wouldn't mea... past years.
 
 ---
 A deepening crisis has left the nation in shambles, and a recent curve ball from the Trump administration prevented big league players in Major League Baseball from taking the field, stripping away star power that Venezuelan fans have come to expect over decades.
@@ -238,7 +181,18 @@ A deepening crisis has left the nation in shambles, and a recent curve ball from
 
 위기가 심화되면서 나라는 엉망이 되었고, 트럼프 미국 행정부의 간접적인 제재로 미국 메이저 리그 선수들의 출전이 금지되면서 수십 년 동안 베네수엘라 야구 팬들이 기대해왔던 스타 파워가 사라지게 되었다.
 
-A deepening crisis has left the nation in shambles, and a recent curve ball from the Trump administration prevented big league players in Major League Baseball from taking the field, stripping away star power that Venezuelan fans have come to expect over decades.
+A deepening crisis has left the nation @ sha.., and a recent curve ball @ the Trump administration prevented big league players in Major League Baseball @ tak..., str... star power that Venezuelan fans have come @ expect o@동안,걸쳐서 decades.
+
+---
+In Venezuela, however, local baseball remains a passion. For a few hours, it's an oasis for people feeling overwhelmed by life. It's a safe place to drink beer, hurl insults at players and blow off steam.
+
+    overwhelm: (감정에) 휩싸이다, 감당이 안 되게 만들다
+    hurl insults at: ~에게 욕설을 퍼붓다
+    blow off steam: 울분을 터뜨리다
+
+그러나 베네수엘라에서 야구는 여전히 국민들의 사랑을 받고 있다. 야구는 다만 몇 시간이라도 삶에 지친 사람들에게는 오아시스가 되고 있으며, 맥주를 마시고 선수들에게 욕설도 하며 속에 쌓인 것을 분출할 수 있는 안전한 기회가 되고 있기 때문이다.
+
+In Venezuela, <>, local baseball remains a pa... For a few hours, it's an oasis @ people feeling over.. by life. It's a safe place to drink beer, hu... players and bl...
 
 # 생활영어 (04-english-life)
 ## Ep. 767 (2019. 11. 22 금)
@@ -282,4 +236,3 @@ Feel free to + 동사
 
     맘껏 하셔도 좋습니다 / 저희에게 연락을 / 이메일로.
     Feel free to contact us via email.
-    
