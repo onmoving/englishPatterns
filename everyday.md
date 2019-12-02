@@ -285,4 +285,30 @@ A deepening crisis has left the nation in shambles, and a recent curve ball from
 
 A deepening crisis has left the nation in shambles, and a recent curve ball from the Trump administration prevented big league players in Major League Baseball from taking the field, stripping away star power that Venezuelan fans have come to expect over decades.
 
+# 생활영어 (04-english-life)
+## Ep. 767 (2019. 11. 22 금)
+
+Shopping makes me stressed.
+
+쇼핑을 하면 저는 스트레스를 받아요. 
+
+Shoopng makes ...
+
 ---
+While shopping is a therapeutic activity to many, for me it's simply time-consuming and stressful.
+
+많은 사람들에게 있어서 쇼핑이 치유 활동이지만, 저에게는 그냥 시간 소비되고 스트레스를 주는 일이에요. 
+
+<>반면,이지만 shopping is a thera.. act.. @ many, for me it's simply time-.. and str..
+
+---
+Shopping is a therapeutic activity for my mother. 
+She likes to go shopping when she wants to relax or when she's feeling bored. 
+
+    therapeutic 치료법의, 치료에 도움이 되는 
+
+쇼핑은 저희 엄마에게 있어서는 치유가 되는 활동이에요. 
+엄마는 긴장을 풀고 싶거나 지루할 때 쇼핑을 하러 가는 걸 좋아하세요.
+
+Shopping is a th.. activity @ my mother. 
+She likes @ go shopp.. <> she wants @ relax or <> she's feel.. bor.. 
