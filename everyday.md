@@ -194,6 +194,13 @@ In Venezuela, however, local baseball remains a passion. For a few hours, it's a
 
 In Venezuela, <>, local baseball remains a pa... For a few hours, it's an oasis @ people feeling over.. by life. It's a safe place to drink beer, hu... players and bl...
 
+---
+The bill was spearheaded by the liberal government but in the end was supported by the main opposition party.
+
+이 법안은 정부 주도로 이루어졌지만, 결국에는 제1야당의 지지를 받았다.
+
+The bill was spea.. @ the liberal government but in the end was supported by the ma... party.
+
 # 생활영어 (04-english-life)
 ## Ep. 767 (2019. 11. 22 금)
 
