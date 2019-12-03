@@ -20,7 +20,7 @@ Even after the hoax was revealed,/ the area braced itself for large crowds of al
 
 장난이 드러난 후에도, 지역은 대규모의 외계인 애호가들이 몰려들 것에 대비했습니다. 에일리언스톡 뮤직 페스티벌을 포함해 지역에 몰려들 지구인들을 위해 다양한 행사가 조직되었습니다. 
 
-Even after the ho.. was revealed,/ the area `br.. itself #@` large crowds of alien enthusiasts. A number of events were organized/ @ cat.. @ 수용하다 those earthlings des.. @ the area(때로는 예상치 못하게, 대규모로) ~에 몰려들다,/ including an "Alienstock" music festival.
+Even after the ho.. was revealed,/ the area `br.. itself #@` large crowds of alien enthusiasts. A number of events were organized/ @ cat.. @ 수용하다 those earthlings `des.. @`(때로는 예상치 못하게, 대규모로) ~에 몰려들다 the area,/ including an "Alienstock" music festival.
 
 # 생활영어 (04-english-life)
 ## Ep. 767 (2019. 11. 22 금)
@@ -167,3 +167,46 @@ US health officials link childhood trauma @# adult illness (Associated Press, No
 U.S. health officials estimate that millions of cases of heart disease and other illnesses are linked to abuse and other physical and psychological harm suffered early in life. They acknowledged they were not able to rule out other possible factors, such as the stress caused by financial family problems, but said the link is strong.
 
 U.S. health official.. estimate that millions of ca.. @ heart disease and other illnesses #비 link.. @# ab..학대 and other physical and psychological harm suff.. early in life. They ack..인정했다 they were not able to ru...배제하다 other possible fac.., such @ the stress caused by financial family problems, but said the link is strong.
+
+---
+(The) French leader laments NATO's 'brain death' due to US absence (Associated Press, November 7)
+
+(The) French leader la.. NATO's 'brain death' due @ US absence (Associated Press, November 7)
+
+---
+French President Emmanuel Macron claimed that a lack of U.S. leadership is causing the "brain death" of the NATO military alliance, insisting in an interview published Thursday that the European Union must start acting as a strategic world power. Macron's public criticism of the state of the world's biggest military alliance was rejected by German Chancellor Angela Merkel.
+
+French President Emmanuel Macron claimed that a lack of U.S. leadership is caus.. the "brain death" of the NATO military all.., ins.. in an interview published Thursday that the European Union must start act.. @ a strategic world power. Macron's public criticism of the state of the world's biggest military alliance was rejected @ German Chancellor Angela Merkel.
+
+---
+McDonald's CEO's ouster reflects (a) trend on workplace romances (Associated Press, November 6)
+
+McDonald's CEO's ous..축출 reflects (a) trend @ workplace romances (Associated Press, November 6)
+
+---
+Workplace couples are often romanticized - think Bill and Melinda Gates or Michelle and Barack Obama. But when the relationship involves two people with unequal power, it can also be fraught with peril.
+
+Workplace couples are often romanti.. - think Bill and Melinda Gates or Michelle and Barack Obama. But when the relationship inv.. two people @ unequal power, it can also ..fr..~투성이다 per..위험.
+
+---
+McDonald's CEO Steve Easterbrook is only the latest chief executive to be ousted over a consensual relationship with an employee. Increasingly, U.S. companies are adopting policies addressing workplace romances.
+
+McDonald's CEO Steve Easterbrook is only #관 lat.. chief exe.. to be ous.. ov@ a consen.. relation.. @ an employee. Increasing.., U.S. companies are adopt.. policies address.. workpl.. roman...
+
+---
+Addressing workplace romance can be complicated, but many companies have removed any gray areas by forbidding managers, especially C-suite executives, from having relationships with subordinates, given the potential for favoritism or lawsuits if the relationship sours.
+
+Address.. workpl.. roman.. can # complicated, but many companies #완 removed any gray ar..이도 저도 아닌 애매한 상황 by forbidd.. managers, especially C-su.. execut..고위 경영진, @ having relationships with subord.., giv..~때문이다 the potential for favori..우대 or lawsu.. if the relationship so..(관계가) 안 좋아지다.
+
+---
+There are questions about whether consent is truly possible when the power imbalance is especially great.
+
+There are questions @ whe.. cons..동의,승낙 # truly possible <> the power imbal.. is espe.. great.
+
+---
+After the CEO resigned, his successor has big boots to fill.
+(fill somebody's boots 대신해서 일을 잘 하다)
+
+최고경영자 사임 이후, 난 자리가 매우 크다.
+
+After the CEO resig.., his successor has big b.. to fill.
