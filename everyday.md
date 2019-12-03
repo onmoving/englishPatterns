@@ -156,5 +156,20 @@ Feel free to + 동사
     맘껏 하셔도 좋습니다 / 저희에게 연락을 / 이메일로.
     Feel free to contact us via email.
 
+    맘껏 하셔도 좋습니다 / 샘플을 써 보시는 걸.
+    Feel free to try the sample.
+
+    맘껏 하셔도 좋습니다 / 저희에게 알려주시는 걸 / 어떻게 생각하는지.
+    Feel free to let us know what you think (of it).
+
+    A: Jim, that was an excellent presentation!
+    B: I'm flattered. Thank you.
+       과찬이십니다
+    A: I was wondering if I could stop by your office and talk some more.
+    B: Of course! Feel free to visit me anytime.
+
+    참고
+    Don't hesitate to 동사.
+
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1028 (2019. 11. 25 월)
