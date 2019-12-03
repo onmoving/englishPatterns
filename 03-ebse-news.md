@@ -131,3 +131,18 @@ One lawmaker urged more action to fight online extremism,/ but cautioned against
 한 의원은 온라인 극단주의와 싸우기 위해 더 많은 조치를 취할 것으로 촉구하는 한편 사람들이 소셜 미디어에서 밀려나 결국 다크웹에 가게 될 것을 경고했습니다. 
 
 One lawmaker ur.. more action `@` fight online extremism,/ but cau.. `@` push.. people #@부 @ social media/ <> they ...결국 (어떤 처지에) 처하게 되다 @ the dark web.
+
+## Ep. 1079 (2019. 11. 22 금)
+
+Even after the hoax was revealed,/ the area braced itself for large crowds of alien enthusiasts. A number of events were organized/ to cater to those earthlings descending upon the area,/ including an "Alienstock" music festival.
+
+    장난, 거짓말 hoax 
+    ~에 대비하다 brace for 
+    (때로는 예상치 못하게, 대규모로) ~에 몰려들다 descend upon
+    cater to: 수용하다
+    earthlings: 지구인
+
+장난이 드러난 후에도, 지역은 대규모의 외계인 애호가들이 몰려들 것에 대비했습니다. 에일리언스톡 뮤직 페스티벌을 포함해 지역에 몰려들 지구인들을 위해 다양한 행사가 조직되었습니다. 
+
+Even after the ho.. was revealed,/ the area `br.. itself #@` large crowds of alien enthusiasts. A number of events were organized/ @ cat.. @ 수용하다 those earthlings `des.. @`(때로는 예상치 못하게, 대규모로) ~에 몰려들다 the area,/ including an "Alienstock" music festival.
+
