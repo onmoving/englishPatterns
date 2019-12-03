@@ -123,3 +123,11 @@ Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor a
 그리고 전통에 따라 뮌헨 시장인 디에터 라이터는 첫 잔을 바이에른 주지사에게 건넸습니다.
 
 Munich Mayor Dieter Reiter/ then handed the first mug to the Bavarian governor `@ tr.. de..전통에 따라,전통이 요구하는 대로`.
+
+## Ep. 1078 (2019. 11. 21 목)
+
+One lawmaker urged more action to fight online extremism,/ but cautioned against pushing people off of social media/ so they end up on the dark web.
+
+한 의원은 온라인 극단주의와 싸우기 위해 더 많은 조치를 취할 것으로 촉구하는 한편 사람들이 소셜 미디어에서 밀려나 결국 다크웹에 가게 될 것을 경고했습니다. 
+
+One lawmaker ur.. more action `@` fight online extremism,/ but cau.. `@` push.. people #@부 @ social media/ <> they ...결국 (어떤 처지에) 처하게 되다 @ the dark web.
