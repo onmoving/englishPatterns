@@ -158,3 +158,12 @@ Feel free to + 동사
 
 # 영자신문 (02-newspaper)
 ## Ep. 1293 (2019. 11. 25 월)
+
+US health officials link childhood trauma to adult illness (Associated Press, November 6)
+
+US health officials link childhood trauma @# adult illness (Associated Press, November 6)
+
+---
+U.S. health officials estimate that millions of cases of heart disease and other illnesses are linked to abuse and other physical and psychological harm suffered early in life. They acknowledged they were not able to rule out other possible factors, such as the stress caused by financial family problems, but said the link is strong.
+
+U.S. health official.. estimate that millions of ca.. @ heart disease and other illnesses #비 link.. @# ab..학대 and other physical and psychological harm suff.. early in life. They ack..인정했다 they were not able to ru...배제하다 other possible fac.., such @ the stress caused by financial family problems, but said the link is strong.
