@@ -61,7 +61,7 @@ Thousands of young people/ marched through New York City on Friday, September 20
 
 수천 명의 젊은이들이 9월 20일 금요일 뉴욕시를 행진하며 세계 지도자들에게 기후변화에 대한 노력을 강화할 것을 요구했습니다.
 
-Thousands of young people/ marched th@ New York City @ Friday, September 20th,/ demand.. world leaders/ ... their efforts @ climate change.
+Thousands of young people/ marched th@ New York City @ Friday, September 20th,/ demand.. world leaders/ ... their efforts `ag@` climate change.
 
 ---
 Even after the hoax was revealed,/ the area braced itself for large crowds of alien enthusiasts. A number of events were organized/ to cater to those earthlings descending upon the area,/ including an "Alienstock" music festival.
@@ -74,7 +74,7 @@ Even after the hoax was revealed,/ the area braced itself for large crowds of al
 
 장난이 드러난 후에도, 지역은 대규모의 외계인 애호가들이 몰려들 것에 대비했습니다. 에일리언스톡 뮤직 페스티벌을 포함해 지역에 몰려들 지구인들을 위해 다양한 행사가 조직되었습니다. 
 
-Even after the ho.. was revealed,/ the area br.. itself @ large crowds of alien enthusiasts. A number of events were organized/ @ cat.. @ those earthlings des.. @ the area,/ including an "Alienstock" music festival.
+Even after the ho.. was revealed,/ the area `br.. itself #@` large crowds of alien enthusiasts. A number of events were organized/ @ cat.. @ 수용하다 those earthlings des.. @ the area(때로는 예상치 못하게, 대규모로) ~에 몰려들다,/ including an "Alienstock" music festival.
 
 # 생활영어 (04-english-life)
 ## Ep. 767 (2019. 11. 22 금)
@@ -103,6 +103,43 @@ She likes to go shopping when she wants to relax or when she's feeling bored.
 
 Shopping is a th.. activity @ my mother. 
 She likes @ go shopp.. <> she wants @ relax or <> she's feel.. bor.. 
+
+---
+So I'll just be tired after half an hour of shopping, 
+and my mother will say, "What do you mean you're tired? We've just started."
+
+그래서 저는 쇼핑을 시작한 지 30분 만에 지치곤 해요. 
+그러면 엄마가 이렇게 말씀하시죠. "피곤하다니 무슨 말이야? 이제 막 시작인데."
+
+So I'll just be tired <> half an hour of shopp.., 
+and my mother will say, "... you're tired? We've just started."
+
+---
+Pattern Practice 
+
+    have such different ~
+    ~가 정말 다르다
+
+    1. They have such different habits.
+    2. The buildings had such different features.
+
+    have no intention of –ing
+    ~를 할 생각이 전혀 없다
+
+    1. He had no intention of sharing the information.
+    2. I have no intention of spying on them.
+
+    그들은 습관이 정말 달라요.
+    그 건물들은 특징들이 정말 달랐어요. 
+    그는 그 정보를 공유할 의도가 전혀 없었어요.
+    저는 그들을 염탐할 생각이 전혀 없어요. 
+
+---
+알쏭달쏭 한마디 
+
+    It was an impulse buy. 
+
+    충동구매였어요.
 
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1079 (2019. 11. 22 금)
