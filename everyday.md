@@ -173,3 +173,39 @@ Feel free to + 동사
 
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1028 (2019. 11. 25 월)
+가정
+
+    A: Do you have any ..?  
+    (형제자매가 있으세요?) 
+    B: I'm an .. child.  
+        (전 외동이에요.)
+    B: I'm also a .. of three.  
+        (전 아이 셋을 가진 엄마예요.) 
+    A: Wow! You've got a huge ..! 
+    (와! 엄청 큰 가족을 가지셨네요!)
+
+    siblings
+    only
+    mother
+    family
+
+---
+    Do you have any questions?
+    Do you have any money?
+
+---
+    I am a mother of two.
+    Jenny is a mother of five.
+    Peter is a father of two.
+
+---
+    family = fam (줄여서도 씀)
+    huge: 엄청 큰 (발음주의)
+    change/page/garage (발음주의)
+
+    have got = 가지고 있다 = have
+
+    I have got a lot of friends.
+    = I've got ...
+    She has got a sports car.
+    = She's got ...
