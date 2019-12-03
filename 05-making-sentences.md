@@ -293,3 +293,36 @@
     B: It's almost six.
     A: We have to move on to the next section.
     B: Don't worry, take your time.
+
+## Ep. 1078 (2019. 11. 21 목)
+자료를 활용할 때
+
+    take a look at + 자료
+    : 살펴보다
+
+    look at: ~가를 보다
+
+    해주십시요 / 봐 주시는 걸 / 도표를.
+    Please take a look at the charts.
+
+    합시다 / 보는 걸 / 이 슬라이드를
+    Let's take a look at this slide.
+
+    해 주시겠어요? / 보는 걸 / 인쇄물을.
+    Can you take a look at the handout?
+    = printout
+
+    ~부터 시작합시다 / 보는 것을 / 새로운 광고를.
+    Let's start by taking a look at the new ads.
+
+    start by ~ing: ~(행동을) 하면서 시작하다
+    start with: ~을 다루면서 시작하다
+
+    다음 부분으로 넘어가면서, / 전 하고 싶습니다 / 보는 걸 / 장단점을.
+    Moving on to the next section, I'd like to take a look at the pros and cons.
+
+---
+    A: I don't know what I'm supposed to be looking at.
+    B: Can you see the upper right-hand corner of the photograph?
+    A: Oh, I see it now
+    B: Great. Let's take a look at it.
