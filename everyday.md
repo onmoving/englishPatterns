@@ -1,19 +1,3 @@
-# 영자신문 (02-newspaper)
-## Ep. 1291 (2019. 11. 21 목)
-
-An international team of researchers says the fossilized partial skeleton of a male ape that lived almost 12 million years ago in the humid forests of what is now southern Germany bears a striking resemblance to modern human bones. 
-
-여러 나라 과학자들로 이루어진 연구팀은 1,200만 년 전에 오늘날의 남부 독일에 해당하는 습한 숲에서 살았던 남성 유인원의 화석화된 유골 일부를 발견했고 이것이 오늘날 인간의 뼈와 놀랄 만큼 닮아 있다고 말했다.
-
-An international team of researchers says the fo.. 화석화된 partial sk..유골 of a male ape <<> lived almost 12 million years ago @ the humid forests @ <<> is now southern Germany `bea...~와 놀랄 만큼 닮았다` modern human bones. 
-
----
-Son was visibly distraught after seeing the extent of Gomes' injury
-
-손흥민 선수는 고메스 선수의 부상 정도를 보고 눈에 띌 정도로 넋이 나간 모습을 보였다.
-
-Son was vi.. `dist..` after seeing the e.. of Gomes' injury
-
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1078 (2019. 11. 21 목)
 
