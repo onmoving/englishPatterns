@@ -1,55 +1,3 @@
-# 왕초보 영어 (01-beginner-english)
-## Ep. 1027 (2019. 11. 22 금)
-여행
-
-    A: We are sorry for the .. .   
-    (지연에 대해 죄송합니다.) 
-    A: The plane will take off ...  
-    (비행기가 곧 이륙할 거예요.) 
-    B: It's been 2 ... 
-        (2시간이 지났잖아요.) 
-    B: I can't miss my connecting .. . 
-        (저 연결 항공편 놓치면 안 돼요.)
-
-    delay
-    shortly = soon
-    hours
-    flight
-
----
-    I'm sorry for everything.
-    We are sorry for the inconveniece.
-
-    take off <-> land (착륙하다)
-    plane: 비행기 = air plane
-
----
-    여기서 it's = it has
-    
-    It's been 기간
-    기간이 지났어요.
-
-    It's been two weeks.
-    It's been 10 months.
-
-    암기추천:
-    It's been forever.
-    = 엄청 오랜 시간이 지났어. / 엄청 오래 됐어.
-    = It's been a long time. 을 회화체로 바꾼 표현
-
----
-    flight 항공편
-
-    I can't miss this show.
-    You can't come in here.
-
----
-    퀴즈: 그건 약 3주 정도 걸릴 거예요.
-    It'll take about 3 weeks.
-
-    퀴즈: 그 비행기는 30분 전에 이륙했어.
-    The plane took off 30 minutes earlier.
-
 # 영자신문 (02-newspaper)
 ## Ep. 1292 (2019. 11. 22 금)
 
@@ -170,3 +118,6 @@ Feel free to + 동사
 
     맘껏 하셔도 좋습니다 / 저희에게 연락을 / 이메일로.
     Feel free to contact us via email.
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1028 (2019. 11. 25 월)
