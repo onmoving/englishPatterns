@@ -228,41 +228,6 @@ Son was visibly distraught after seeing the extent of Gomes' injury
 Son was vi.. `dist..` after seeing the e.. of Gomes' injury
 
 ## Ep. 1292 (2019. 11. 22 금)
-
-Chile: (the) President promotes (a) minimum wage hike to quell unrest
-
-Chile: (the) President pro.. (a) minimum wage h.. @ qu..(소요 등을) 진압하다, (감정을) 가라앉히다 unr..불안,소요사태
-
----
-Chile's president sent a bill to Congress on Wednesday that would raise the minimum wage, one of a series of measures to try to contain nearly three weeks of anti-government protests over inequality in one of Latin America's richest countries. Demonstrations demanding improved social services and greater equality continue. 
-
-Chile's president se.. a bill @ Congress @ Wednesday <<> #조 raise the minimum wage, one of a series of mea.. @ try @ con..억누르다 nearly three weeks of anti-government protests ov@ inequality in one of Latin America's richest countries. Demonstrations demand.. improved social services and greater equality continue. 
-
----
-New Zealand lawmakers on Thursday joined forces across the aisle to pass a bill aimed at combating climate change. The Zero Carbon bill aims to make New Zealand reduce its greenhouse gas emissions to the point the country becomes mostly carbon neutral by 2050. 
-
-New Zealand lawmakers @ Thursday jo.. for..힘을 모으다, 협력하다 acr...초당적으로 @ pass a bill aimed @ combat.. climate change. The Zero Carbon bill aims @ make New Zealand reduce its greenhouse gas emissions @ the point the country becomes mos.. carbon neutral @까지 2050. 
-
----
-Baseball fans in Venezuela know this season's opening game wouldn't measure up to past years.
-
-    measure up to: ~에 필적하다
-
-베네수엘라 야구 팬들은 올 시즌 개막전이 과거 몇 년 동안과는 사뭇 다를 것이라는 점을 잘 알고 있다.
-
-Baseball fans in Venezuela know this season's opening game wouldn't mea... past years.
-
----
-A deepening crisis has left the nation in shambles, and a recent curve ball from the Trump administration prevented big league players in Major League Baseball from taking the field, stripping away star power that Venezuelan fans have come to expect over decades.
-
-    in shambles: 난장판이 된
-    take the field: (야구) 수비를 맡다, 경기를 시작하다
-
-위기가 심화되면서 나라는 엉망이 되었고, 트럼프 미국 행정부의 간접적인 제재로 미국 메이저 리그 선수들의 출전이 금지되면서 수십 년 동안 베네수엘라 야구 팬들이 기대해왔던 스타 파워가 사라지게 되었다.
-
-A deepening crisis has left the nation @ sha.., and a recent curve ball @ the Trump administration prevented big league players in Major League Baseball @ tak..., str... star power that Venezuelan fans have come @ expect o@동안,걸쳐서 decades.
-
----
 In Venezuela, however, local baseball remains a passion. For a few hours, it's an oasis for people feeling overwhelmed by life. It's a safe place to drink beer, hurl insults at players and blow off steam.
 
     overwhelm: (감정에) 휩싸이다, 감당이 안 되게 만들다
