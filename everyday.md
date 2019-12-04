@@ -1,27 +1,3 @@
-# 영어뉴스 (03-ebse-news)
-## Ep. 1079 (2019. 11. 22 금)
-
-Thousands of young people/ marched through New York City on Friday, September 20th,/ demanding world leaders/ step up their efforts against climate change.
-
-    step something up: ~을 증가시키다, 강화하다
-
-수천 명의 젊은이들이 9월 20일 금요일 뉴욕시를 행진하며 세계 지도자들에게 기후변화에 대한 노력을 강화할 것을 요구했습니다.
-
-Thousands of young people/ marched th@ New York City @ Friday, September 20th,/ demand.. world leaders/ ... their efforts `ag@` climate change.
-
----
-Even after the hoax was revealed,/ the area braced itself for large crowds of alien enthusiasts. A number of events were organized/ to cater to those earthlings descending upon the area,/ including an "Alienstock" music festival.
-
-    장난, 거짓말 hoax 
-    ~에 대비하다 brace for 
-    (때로는 예상치 못하게, 대규모로) ~에 몰려들다 descend upon
-    cater to: 수용하다
-    earthlings: 지구인
-
-장난이 드러난 후에도, 지역은 대규모의 외계인 애호가들이 몰려들 것에 대비했습니다. 에일리언스톡 뮤직 페스티벌을 포함해 지역에 몰려들 지구인들을 위해 다양한 행사가 조직되었습니다. 
-
-Even after the ho.. was revealed,/ the area `br.. itself #@` large crowds of alien enthusiasts. A number of events were organized/ @ cat.. @ 수용하다 those earthlings `des.. @`(때로는 예상치 못하게, 대규모로) ~에 몰려들다 the area,/ including an "Alienstock" music festival.
-
 # 생활영어 (04-english-life)
 ## Ep. 767 (2019. 11. 22 금)
 
@@ -191,7 +167,7 @@ Workplace couples are often romanti.. - think Bill and Melinda Gates or Michelle
 ---
 McDonald's CEO Steve Easterbrook is only the latest chief executive to be ousted over a consensual relationship with an employee. Increasingly, U.S. companies are adopting policies addressing workplace romances.
 
-McDonald's CEO Steve Easterbrook is only #관 lat.. chief exe.. to be ous.. ov@ a consen.. relation.. @ an employee. Increasing.., U.S. companies are adopt.. policies address.. workpl.. roman...
+McDonald's CEO Steve Easterbrook is only #관 lat.. chief exe.. to be ous.. ov@ a consen..합의한 relation.. @ an employee. Increasing.., U.S. companies are adopt.. policies address.. workpl.. roman...
 
 ---
 Addressing workplace romance can be complicated, but many companies have removed any gray areas by forbidding managers, especially C-suite executives, from having relationships with subordinates, given the potential for favoritism or lawsuits if the relationship sours.
@@ -210,3 +186,25 @@ After the CEO resigned, his successor has big boots to fill.
 최고경영자 사임 이후, 난 자리가 매우 크다.
 
 After the CEO resig.., his successor has big b.. to fill.
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1080 (2019. 11. 25 월)
+
+Still,/ salt intake in northern China is said to be declining,/ with the most marked change seen in the past decade.
+
+그래도 지난 10년만에 가장 뚜렷한 변화가 나타나는 등 북부 중국의 소급 섭취는 낮아지고 있습니다. 
+
+St그래도,/ salt int..섭취 in northern China ...낮아지는 걸로 얘기된다 declin..,/ @ the most marked change see.. in the past decade.
+
+---
+Atlanta is taking a multipronged approach/ to bring healthy diets to food deserts - mostly low-income neighborhoods/ that are located far away from supermarkets. The initiatives include/ having fresh-produce stands at mass-transit stations/ and urban agriculture in food deserts.
+
+애틀랜타는 슈퍼마켓에서 멀리 떨어진 곳에 위치한 대부분 저소득 지역의 식량사막에 건강한 식단을 소개하기 위해 다면적인 접근방식을 취하고 있습니다. 계획은 대중교통역에 신선한 농작물 스탠드나 음식(식량)사막에 도시 농장을 설치하는 것을 포함합니다. 
+
+Atlanta is tak.. a multi..다면적인 approach/ to bring healthy di..식단 to food des..사막들 - mostly low-income neighborhoods/ that are located f... @ ~로부터 멀리 떨어진 supermarkets. The init.. include/ hav.. fresh-.. stands @ mass-transit stations/ and urban agri.. in food deserts.
+
+# 생활영어 (04-english-life)
+## Ep. 768 (2019. 11. 25 월)
+
+---
+
