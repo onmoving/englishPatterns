@@ -245,3 +245,18 @@ The bill was spearheaded by the liberal government but in the end was supported 
 
 The bill was spea.. @ the liberal government but in the end was supported by #관 ma... party.
 
+## Ep. 1293 (2019. 11. 25 월)
+
+Workplace couples are often romanticized - think Bill and Melinda Gates or Michelle and Barack Obama. But when the relationship involves two people with unequal power, it can also be fraught with peril.
+
+Workplace couples are often romanti.. - think Bill and Melinda Gates or Michelle and Barack Obama. But when the relationship inv.. two people @ unequal power, it can also ..fr..~투성이다 per..위험.
+
+---
+After the CEO resigned, his successor has big boots to fill.
+(fill somebody's boots 대신해서 일을 잘 하다)
+
+최고경영자 사임 이후, 난 자리가 매우 크다.
+
+After the CEO resig.., his successor has big b.. to fill.
+
+
