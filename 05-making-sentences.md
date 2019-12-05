@@ -326,3 +326,32 @@
     B: Can you see the upper right-hand corner of the photograph?
     A: Oh, I see it now
     B: Great. Let's take a look at it.
+
+## Ep. 1079 (2019. 11. 22 금)
+마무리할 때
+
+Feel free to + 동사
+
+    맘껏 하셔도 좋습니다 / 제게 질문을.
+    Feel free to ask me any questions.
+
+    맘껏 하셔도 좋습니다 / 제게 전화를 / 아무 때나.
+    Feel free to call me anytime.
+
+    맘껏 하셔도 좋습니다 / 저희에게 연락을 / 이메일로.
+    Feel free to contact us via email.
+
+    맘껏 하셔도 좋습니다 / 샘플을 써 보시는 걸.
+    Feel free to try the sample.
+
+    맘껏 하셔도 좋습니다 / 저희에게 알려주시는 걸 / 어떻게 생각하는지.
+    Feel free to let us know what you think (of it).
+
+    A: Jim, that was an excellent presentation!
+    B: I'm flattered. Thank you.
+       과찬이십니다
+    A: I was wondering if I could stop by your office and talk some more.
+    B: Of course! Feel free to visit me anytime.
+
+    참고
+    Don't hesitate to 동사.
