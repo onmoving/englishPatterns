@@ -407,3 +407,68 @@ Pattern Practice
     I know what I'm going to buy. 
 
     뭘 살지 정했어요.
+
+## Ep. 767 (2019. 11. 22 금)
+
+Shopping makes me stressed.
+
+쇼핑을 하면 저는 스트레스를 받아요. 
+
+Shoopng makes ...
+
+---
+While shopping is a therapeutic activity to many, for me it's simply time-consuming and stressful.
+
+많은 사람들에게 있어서 쇼핑이 치유 활동이지만, 저에게는 그냥 시간 소비되고 스트레스를 주는 일이에요. 
+
+<>반면,이지만 shopping is a thera.. act.. @ many, for me it's simply time-.. and str..
+
+---
+Shopping is a therapeutic activity for my mother. 
+She likes to go shopping when she wants to relax or when she's feeling bored. 
+
+    therapeutic 치료법의, 치료에 도움이 되는 
+
+쇼핑은 저희 엄마에게 있어서는 치유가 되는 활동이에요. 
+엄마는 긴장을 풀고 싶거나 지루할 때 쇼핑을 하러 가는 걸 좋아하세요.
+
+Shopping is a th.. activity @ my mother. 
+She likes @ go shopp.. <> she wants @ relax or <> she's feel.. bor.. 
+
+---
+So I'll just be tired after half an hour of shopping, 
+and my mother will say, "What do you mean you're tired? We've just started."
+
+그래서 저는 쇼핑을 시작한 지 30분 만에 지치곤 해요. 
+그러면 엄마가 이렇게 말씀하시죠. "피곤하다니 무슨 말이야? 이제 막 시작인데."
+
+So I'll just be tired <> half an hour of shopp.., 
+and my mother will say, "... you're tired? We've just started."
+
+---
+Pattern Practice 
+
+    have such different ~
+    ~가 정말 다르다
+
+    1. They have such different habits.
+    2. The buildings had such different features.
+
+    have no intention of -ing
+    ~를 할 생각이 전혀 없다
+
+    1. He had no intention of sharing the information.
+    2. I have no intention of spying on them.
+
+    그들은 습관이 정말 달라요.
+    그 건물들은 특징들이 정말 달랐어요. 
+    그는 그 정보를 공유할 의도가 전혀 없었어요.
+    저는 그들을 염탐할 생각이 전혀 없어요. 
+
+---
+알쏭달쏭 한마디 
+
+    It was an impulse buy. 
+
+    충동구매였어요.
+
