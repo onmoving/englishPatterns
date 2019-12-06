@@ -5,13 +5,13 @@ And so I think because of that, it really kind of grew my love for sci-fi … ex
 when they're in space and there's lasers and it's kind of a little bit fun and almost unbelievable. 
 But when it comes to realistic sci-fi, I find that really scary. 
 
-우주가 배경이고, 레이저가 나오고 좀 재미있으면서 거의 믿기 어려운 이야기 있잖아요.
 그래서 저는 그것 때문에 공상 과학을 좋아하게 된 것 같은데, 저는 비현실적인 공상 과학을 좋아하는 편이에요. 
+우주가 배경이고, 레이저가 나오고 좀 재미있으면서 거의 믿기 어려운 이야기 있잖아요.
 그런데 현실적인 공상 과학은 저는 정말 무섭더라고요. 
 
-And so I think bec..., it really kind of grew my love for sci-fi … except I love kind of non-realistic sci-fi, 
-when they're in space and there's lasers and it's kind of a little bit fun and almost unbelievable. 
-But when it comes to realistic sci-fi, I find that really scary. 
+And so I think bec..., it really kind of grew my love @ sci-fi … <> I love kind of non-realistic sci-fi, 
+when they're @ space and there's lasers and it's kind of a li.. b.. fun and alm.. unbelievable. 
+But when it comes to realistic sci-fi, I find th.. really scary. 
 
 ---
 
@@ -19,7 +19,7 @@ I don't want to have to think about my own worries or, like, the reality of "Oh 
 
 저는 제가 가지고 있는 걱정들에 대해서 생각하면서 "아, 저런 일이 생길 수도 있구나."하는 현실을 생각하고 싶지 않아요.
 
-I don't want to have to think about my own worries or, like, the reality of "Oh my goodness, this could happen." 
+I ... think about my own worries or, like, the reality of "Oh my goodness, this could happen." 
 
 ---
 Pattern Practice 
