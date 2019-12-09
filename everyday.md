@@ -34,6 +34,19 @@ Someone from the accounting department ... him.
 # 영자신문 (02-newspaper)
 ## Ep. 1294 (2019. 11. 26 화)
 
+Germany's Catholics reacted enthusiastically when bishops from across the Amazon called for the ordination of married men as priests to address the clergy shortage in that region. 
+
+아마존 지역의 가톨릭 주교들이 이 지역의 사제 부족을 해결하기 위해 기혼 남성의 사제 서품을 허용할 것을 촉구했을 때, 독일 가톨릭은 열정적인 반응을 보였다.
+
+Germany's Catholics reacted enthu.. when bishops from across the Amazon called @ the ord..사제 서품 of married men as priests to add.. the cle.. shortage in that region. 
+
+---
+The number of people stricken by vaping-related illnesses has climbed to 2,051 in the United States.
+
+전자담배로 인한 질병에 시달리는 사람들의 수가 미국에서 2,051명까지로 늘었다.
+
+The number of people str.. by vaping-related illnesses has climbed to 2,051 in the United States.
+
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1081 (2019. 11. 26 화)
 
