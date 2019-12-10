@@ -503,3 +503,20 @@
     She has got a sports car.
     = She's got ...
 
+## Ep. 1029 (2019. 11. 26 화)
+
+    A: I didn't know you had a ..!  
+        (난 네가 여자 친구가 있는지 몰랐어!) 
+    B: I met her in ... 
+    (그녀를 대학에서 만났어.)
+    A: What does she ..? 
+        (뭐 하는 사람이야?) 
+    B: She is a ... 
+    (그녀는 공인회계사야.)
+
+    girlfriend
+    colleage
+    do
+    CPA (= Certified Public Accountant)
+
+
