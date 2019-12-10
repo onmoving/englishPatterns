@@ -355,3 +355,19 @@ Feel free to + 동사
 
     참고
     Don't hesitate to 동사.
+
+## Ep. 1080 (2019. 11. 25 월)
+
+I was threatened to not blow the whistle on the whole thing.
+
+전 협박을 받았어요 / 비밀을 폭로하지 말라고 / 모든 것을.
+
+I was thr.. @ not blow the whistle @ the whole thing.
+
+---
+Someone from the accounting department blew the whistle on him. 
+
+회계부서에 있는 사람이 폭로했다고 하더라고요.
+
+Someone from the accounting department ... him. 
+
