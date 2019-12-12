@@ -1,19 +1,3 @@
-# 영어뉴스 (03-ebse-news)
-## Ep. 1081 (2019. 11. 26 화)
-
-Trump blasted people who might have talked to the whistleblower/ and called them "close to a spy"/ and suggested they engaged in treason.
-
-트럼프대통령은 내부고발자와 이야기 한 사람들을 맹비난하며 그들은 "스파이와 같다"며 반역죄를 저질렀다고 시사했습니다. 
-
-Trump bla.. people who #조 have talked to the whistleblower/ and called them "close to a spy"/ and sugg..시사했다 they en.. @ tre..반역죄.
-
----
-It's also provided 100,000 free surgeries/ to spay and neuter pets,/ to reduce overpopulation and the number of animals at shelters. 
-
-또한 반려동물의 중성화를 위해 10만 건 이상의 무료 수술을 제공해, 동물보호소의 개체 수 조절을 하고 있습니다.
-
-It's also provid.. 100,000 free surgeries/ @ sp.. and ne.. pets,/ to reduce overpopulation and the number of animals at shelters. 
-
 # 생활영어 (04-english-life)
 ## Ep. 769 (2019. 11. 26 화)
 
@@ -23,6 +7,32 @@ Let's just say my friends find my choice in books a little bit boring.
 
 Let's just say my friends find my choice in books a little bit bor...
 
+---
+Pattern Practice 
+
+    how ~ turns out
+    ~가 어떻게 되는지, ~가 어떤 모습이 되는지 
+
+    1. Guess how the decorations turned out.
+    2. I don't know how our project will turn out.
+
+    one's choice in ~
+    ~에 있어서의 선택, ~에 대한 선택
+
+    1. I respect your choice in friends.
+    2. Their choice in clothing was unusual.
+
+    장식이 어떻게 나왔는지 맞혀 보세요. 
+    우리 프로젝트의 결과가 어떻게 될지 모르겠어요. 
+    저는 당신이 어떤 친구를 고르든지를 존중해요. 
+    그들의 의상 선택은 특이했어요. 
+
+---
+알쏭달쏭 한마디 
+
+    안 좋아한다는 말은 아니에요.
+    I'm not saying I don't like it. 
+
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1081 (2019. 11. 26 화)
 
@@ -31,3 +41,6 @@ Let's just say my friends find my choice in books a little bit bor...
 
 # 영자신문 (02-newspaper)
 ## Ep. 1295 (2019. 11. 27 수)
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1082 (2019. 11. 27 수)
