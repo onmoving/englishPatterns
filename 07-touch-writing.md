@@ -75,3 +75,31 @@ I don't like ~
     There is a kitchen.
     There is a bathroom.
     There are two bedrooms.
+
+# Unit 7. 우리가족 소개 He is ~/She is ~
+
+    그는 저의 아빠 입니다.
+    He is my dad/father.
+    
+    그녀는 저의 엄마/어머니 입니다.
+    She is my mom/mother.
+    
+    그는 저의 남자형제 입니다.
+    He is my brother.
+    
+    그녀는 저의 여자형제 입니다.
+    She is my sister.
+
+# Unit 8. 우리가족 소개 My dad is ~
+
+    저의 아빠는 키가 크가
+    My dad is tall.
+
+    저의 여동생은 키가 작다
+    My sister is short.
+
+    저의 엄마는 긴 머리를 갖고 있습니다.
+    My mom has long hair.
+
+    저의 여동생은 빨간 머리를 갖고 있습니다.
+    My sister has red hair.
