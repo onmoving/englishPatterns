@@ -371,3 +371,35 @@ Someone from the accounting department blew the whistle on him.
 
 Someone from the accounting department ... him. 
 
+## Ep. 1081 (2019. 11. 26 화)
+귀띔해 줄 때
+
+    give + 대상 + a heads up (+ on 무엇)
+    
+    고마워요 / 제게 귀띔해 줘서.
+    Thank you for / giving me a heads up.
+
+    해주세요 / 제게 귀띔해 주는 걸 / 미리
+    Please / give me a heads up / in advance. 
+
+    전 그냥 / 귀띔해 드리는 거예요.
+    I'm just / giving you a heads up.
+
+    해줄 수 있어요? / 저희에게 귀띔해 주는 걸 / 새로운 소식을
+    Can you / give us a heads up / on any updates?
+
+    제가 할게요 / 귀띔해 주는 걸 / 정기 감사 시작 전에.
+    I'll / give you a heads up / before the annual audit starts.
+
+---
+Conversation up
+
+    A: 이 메모 한번 봐 봐요. 
+    B: 우와. 귀띔해 줘서 고마워요. 
+    A: 별거 아니에요, 근데 이거 비밀이에요. 
+    B: 비밀 지킬게요. 
+    
+    A: Take a look at this memo. 
+    B: Wow. Thanks for giving me a heads up on it. 
+    A: You're welcome, but it's a secret. 
+    B: My lips are sealed. 
