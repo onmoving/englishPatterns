@@ -146,3 +146,20 @@ The rain just held off/ for the annual London Sheep Drive,/ in which a flock of 
 양떼가 런던 브리지를 건너가는 연례 런던 양떼몰이 행사동안 비는 잠시 소강상태에 들어갔습니다. 전통은 런던시가 세워진 8백 년 전으로 거슬러 올라갑니다.
 
 The rain just ... 소강상태에 들어갔다/ @동안 the annual London Sheep Drive,/ @ <<> a fl.. @ sheep is guided @ London Bridge. The tradition dat.. #부 거슬러 올라간다 more than 800 years/ @ the creation of the City of London.
+
+# 생활영어 (04-english-life)
+## Ep. 771 (2019. 11. 28 목)
+
+Science fiction books, because they're so fascinating, got me back into reading more regularly.
+
+공상 과학 책들은 워낙 흥미롭기 때문에, 제가 다시 책을 자주 읽게 됐어요. 
+
+Science fiction books, because they're so fascin.., ... 나를 다시 ~하게 취했다 reading more regularly.
+
+---
+I read the book from cover to cover.
+
+그 책을 처음부터 끝까지 다 읽었어요. 
+
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1083 (2019. 11. 28 목)
