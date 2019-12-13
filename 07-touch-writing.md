@@ -92,10 +92,10 @@ I don't like ~
 
 # Unit 8. 우리가족 소개 My dad is ~
 
-    저의 아빠는 키가 크가
+    저의 아빠는 키가 크다.
     My dad is tall.
 
-    저의 여동생은 키가 작다
+    저의 여동생은 키가 작다.
     My sister is short.
 
     저의 엄마는 긴 머리를 갖고 있습니다.
@@ -103,3 +103,102 @@ I don't like ~
 
     저의 여동생은 빨간 머리를 갖고 있습니다.
     My sister has red hair.
+
+# Unit 9. 우리가족 소개 I can ~
+
+    그는 설거지를 잘 할 수 있어요.
+    He can do the dishes well.
+
+    그녀는 중국어를 잘 할 수 있어요.
+    She can speak Chinese well.
+
+    나는 축구를 잘 할 수 있어요.
+    I can play soccer well.
+
+    그녀는 노래를 잘 부를 수 있어요.
+    She can sing a song well.
+
+# Unit 10. 우리가족 소개 likes to ~
+
+    그는 빵을 굽는 것을 좋아한다.
+    He likes to bake bread.
+    
+    그녀는 배드민턴 치는 것을 좋아한다.
+    She likes to play badminton.
+    
+    그는 영어를 공부하는 것을 좋아한다.
+    He likes to study English.
+
+# Unit 11. 학교소개하기 in the ~ grade
+
+    저는 6학년 입니다.
+    I am in the sixth grade.
+
+    당신은 5학년 입니다.
+    You are in the fifth grade.
+
+    그는 4학년 입니다.
+    He is in the fourth grade.
+
+    그녀는 3학년 입니다.
+    She is in the third grade.
+
+# Unit 12. 좋아하는 과목 소개하기 My favorite subject is ~
+
+    내가 가장 좋아하는 과목은 수학 입니다.
+    My favorite subject is math.
+
+    내가 가장 좋아하는 과목은 영어 입니다.
+    My favorite subject is English.
+
+    내가 가장 좋아하는 과목은 사회 입니다.
+    My favorite subject is social studies.
+
+    내가 가장 좋아하는 과목은 과학 입니다.
+    My favorite subject is science.
+        
+    국어: Korean
+    체육: physical education
+
+# Unit 13. 학교 소개하기 It is on the~
+
+    교실 classroom
+    보건실 nurse's office
+    도서관 library
+    영어교실 English classroom
+    체육관 gym
+
+    보건실이 1층에 있습니다.
+    The nurse's office is on the first floor.
+
+    도서관은 2층에 있습니다.
+    The library is on the second floor.
+
+    영어교실은 3층에 있습니다.
+    The English classroom in on the third floor.
+
+    체육관은 4층에 있습니다.
+    The gym is on the fourth floor.
+
+# Unit 14. 학교 소개하기 lunch menu
+
+    점심: lunch
+    스파게티: spaghetti
+    카레라이스: curry and rice
+    돈가스: pork cutlet
+    미역국: seaweed soup
+
+    내가 가장 좋아하는 점심식단은 스파게티 입니다.
+    My favorite lunch menu is spaghetti.
+
+    스파게티는 내가 가장 좋아하는 점심식단입니다.
+    Spaghetti is my favorite lunch menu.
+
+    카레라이스는 내가 가장 좋아하는 점심식단입니다.
+    Curry and rice is my favorite lunch menu.
+
+    돈가스는 내가 가장 좋아하는 점심식단입니다.
+    Pork cutlet is my favorite lunch menu.
+
+    미역국은 내가 가장 좋아하는 점심식단입니다.
+    Seaweed soup is my favorite lunch menu.
