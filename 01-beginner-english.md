@@ -463,7 +463,7 @@
     It'll take about 3 weeks.
 
     퀴즈: 그 비행기는 30분 전에 이륙했어.
-    The plane took off 30 minutes earlier.
+    The plane took off 30 minutes ago.
 
 ## Ep. 1028 (2019. 11. 25 월)
 가정
@@ -519,4 +519,26 @@
     do
     CPA (= Certified Public Accountant)
 
+## Ep. 1030 (2019. 11. 27 수)
+쇼핑
 
+    A: Please fill it up with regular ...  
+        (보통 휘발유로 가득 채워주세요.) 
+    B: OK. Please turn off the ...  
+    (네. 엔진을 꺼주세요.) 
+    A: Could you .. the windshield, too?  
+        (앞 유리도 닦아주실 수 있을까요?) 
+    B: You got it, ... 
+    (알겠습니다, 부인.) 
+
+    gas
+    engine
+    clean
+    ma'am
+
+--
+    퀴즈: 그 비행기는 30분 전에 이륙했어.
+    The plane took off 30 minutes ago.
+
+    그 바람막이 창은 엄청 더러워!
+    The windshield is too dirty!
