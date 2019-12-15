@@ -550,3 +550,22 @@ Pattern Practice
 
     안 좋아한다는 말은 아니에요.
     I'm not saying I don't like it. 
+
+## Ep. 770 (2019. 11. 27 수)
+
+I really admire creators of science fiction stories for their creativity 
+and how they can think of new ways of how a society might function, as opposed to how we know society. 
+
+저는 공상 과학 이야기를 만드는 사람들의 창의력이 정말 대단하다고 생각해요.
+그리고 우리가 알고 있는 형태가 아닌, 어떤 사회가 기능하는 새로운 방식을 생각해 낼 수 있다는 것이 말이에요. 
+
+I really admire creators of science fiction stories @ their creativity 
+and #의문 they can think of new ways @ #의문 a society might function, as opposed to #의문 we know society. 
+
+---
+알쏭달쏭 한마디 
+
+    It's no easy feat. 
+    
+    그건 결코 쉬운 일이 아니에요.
+
