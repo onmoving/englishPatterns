@@ -175,3 +175,23 @@ It's also provided 100,000 free surgeries/ to spay and neuter pets,/ to reduce o
 또한 반려동물의 중성화를 위해 10만 건 이상의 무료 수술을 제공해, 동물보호소의 개체 수 조절을 하고 있습니다.
 
 It's also provid.. 100,000 free surgeries/ @ sp.. and ne.. pets,/ to reduce overpopulation and the number of animals at shelters. 
+
+## Ep. 1082 (2019. 11. 27 수)
+
+He also defiantly opposed the US invasion of Iraq in 2003/ and championed the European Union.
+
+    도전적으로, 공개적으로 defiantly 
+
+2003년에는 미국의 이라크 침공을 공개적으로 반대했고 유럽연합을 지지했습니다.
+
+He also def.. opposed the US invasion of Iraq in 2003/ and championed the European Union.
+
+---
+Thousands queued to see the coffin of the late president as it lay in state.
+
+    안치되어 있다 lie in state   
+
+수천 명의 사람들이 안치된 전직대통령의 관을 보기 위해 줄을 섰습니다. 
+
+Thousands queued to see the coffin of the late president as it lay ...안치되어 있다.
+
