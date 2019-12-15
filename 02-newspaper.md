@@ -273,3 +273,22 @@ The number of people stricken by vaping-related illnesses has climbed to 2,051 i
 전자담배로 인한 질병에 시달리는 사람들의 수가 미국에서 2,051명까지로 늘었다.
 
 The number of people str.. by vaping-related illnesses has climbed to 2,051 in the United States.
+
+## Ep. 1295 (2019. 11. 27 수)
+
+Germany marked the 30th anniversary Saturday of the opening of the Berlin Wall, a pivotal moment in the events that brought down Communism in eastern Europe.
+
+    - pivotal: 중심이 되는
+
+토요일에 독일은 동유럽에서 공산주의의 쇠퇴를 불러온 여러 사건들 가운데 핵심적 순간에 해당하는 베를린 장벽 붕괴 30주년을 기념했다.
+
+Germany marked the 30th anniversary Saturday of the opening of the Berlin Wall, a pi..중심이 되는, 핵심적 moment `@ the events` <<> brought down Communism in eastern Europe.
+
+---
+The consumer price index dropped for the second consecutive / straight month in September.
+(for two months `in a row`)
+
+9월 소비자물가지수가 두 달 연속으로 하락했다.
+
+The consumer price index dropped for the second con.. / st.. month in September.
+
