@@ -195,3 +195,21 @@ Thousands queued to see the coffin of the late president as it lay in state.
 
 Thousands queued to see the coffin of the late president as it lay ...안치되어 있다.
 
+## Ep. 1083 (2019. 11. 28 목)
+
+With it,/ she prevailed over American Sandi Morris in a titanic battle/ that saw both producing perfect scorecards through 4.90 meters,/ a height only managed by the pair. 
+
+그녀는 엄청난 경쟁(대결)에서 미국의 샌디 모리스를 이겼는데, 두 선수는 둘만 뛰어넘은 높이인 4.90미터까지 완벽한 득점표를 만들어 냈습니다.
+
+With it,/ she prev.. @ American Sandi Morris @ a titanic battle/ <<> saw both produc..만들다 perfect scorecards @ 4.90 meters,/ a height only mana.. @ the pair. 
+
+---
+
+The rain just held off/ for the annual London Sheep Drive,/ in which a flock of sheep is guided across London Bridge. The tradition dates back more than 800 years/ to the creation of the City of London.
+
+    몰이 drive 
+    한 무리, 한 떼 a flock of~
+
+양떼가 런던 브리지를 건너가는 연례 런던 양떼몰이 행사동안 비는 잠시 소강상태에 들어갔습니다. 전통은 런던시가 세워진 8백 년 전으로 거슬러 올라갑니다.
+
+The rain just ... 소강상태에 들어갔다/ @동안 the annual London Sheep Drive,/ @ <<> a fl.. @ sheep is guided @ London Bridge. The tradition dat.. #부 거슬러 올라간다 more than 800 years/ @ the creation of the City of London.
