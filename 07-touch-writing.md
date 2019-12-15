@@ -202,3 +202,63 @@ I don't like ~
 
     미역국은 내가 가장 좋아하는 점심식단입니다.
     Seaweed soup is my favorite lunch menu.
+
+# Unit 15. 학교 소개하기 You should~
+규칙: rules
+
+    시간을 잘 지키다: be on time
+    열심히 공부하다: study hard
+    서로 존중하다: respect others
+
+    당신은 시간을 잘 지켜야만 합니다.
+    You should be on time.
+
+    당신은 열심히 공부해야만 합니다.
+    You should study hard.
+
+    당신은 서로 존중해야만 합니다.
+    You should respect others.
+
+# Unit 16. 특별한 날 (1) My birthday is~
+
+    생일: birthday
+    2월: February
+    3월: March
+    4월: April
+    5월: May
+
+    내 생일은 2월 1일 입니다.
+    My birthday is February 1st.
+
+    내 생일은 3월 2일 입니다.
+    My birthday is March 2nd.
+
+    내 생일은 4월 3일 입니다.
+    My birthday is April 3rd.
+
+    내 생일은 5월 4일 입니다.
+    My birthday is May 4th.
+
+# Unit 17. 특별한 날 (2) weather
+
+    날씨: weather
+    화창한: sunny
+    바람이 부는: windy
+    쌀쌀한: chilly
+    비가 오는: rainy
+    눈이 오는: snowy
+
+    화창합니다.
+    It's sunny.
+
+    바람이 붑니다.
+    It's windy.
+
+    쌀쌀합니다.
+    It's chilly.
+
+    비가 옵니다.
+    It's rainy
+
+    눈이 옵니다.
+    It's snowy.
