@@ -403,3 +403,35 @@ Conversation up
     B: Wow. Thanks for giving me a heads up on it. 
     A: You're welcome, but it's a secret. 
     B: My lips are sealed. 
+
+## Ep. 1082 (2019. 11. 27 수)
+
+    주어 + stress + 대상 + out /
+    주어 + be stressed out //
+
+    제가 하나요? / 스트레스를 주는 걸 
+    Do I / stress you out?
+
+    미안해요 / 스트레스를 줘서. 
+    I'm sorry to / stress you out.
+
+    전 스트레스를 받아요 / 회사 때문에. 
+    I'm stressed out / because of my job. 
+
+    전 당신이 ~가 되는 걸 원치 않아요 / 스트레스 받는 걸. 
+    I don't want you to / be stressed out.
+
+    ~해 보여요 / 스트레스를 받은. 
+    You look / stressed out.
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A 답답하네. 
+    B 뭐 때문에 스트레스를 받는 거야? 
+    A 엑셀 함수 때문에. 
+    B 내가 도와줄게. 
+
+    <Conversation up>
+    A: This is frustrating. 
+    B: What are you stressed out about?
+    A: I'm stressed out about Excel functions. 
+    B: I can help you with that.
