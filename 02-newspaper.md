@@ -292,3 +292,23 @@ The consumer price index dropped for the second consecutive / straight month in 
 
 The consumer price index dropped for the second con.. / st.. month in September.
 
+## Ep. 1296 (2019. 11. 28 목)
+
+Can old dogs teach us new tricks? Scientists are looking for 10,000 pets for the largest-ever study of aging in canines. They hope to shed light on human longevity too.
+
+    - trick: 속임수, 비결
+    - canine: 개(의)
+    - shed light on: ~을 조명하다, 해명하다 
+
+개를 통해 새로운 사실을 알 수 있을까? 과학자들은 개의 노화에 관한 역대 최대 규모의 연구를 위해 1만 마리의 개를 구하고 있다. 이들은 인간의 장수에 관해서도 새로이 조명하기를 원하고 있다.
+
+Can old dogs teach us new tricks? Scientists are looking for 10,000 pets for the largest-ever study of aging in can... They hope to shed light @ human long.. too.
+
+---
+More than 80% of high school graduates move on to higher education in South Korea.
+
+우리나라의 대학 진학률은 80%가 넘는다.
+
+More than 80% of high school g.. move on to h.. education in South Korea.
+
+
