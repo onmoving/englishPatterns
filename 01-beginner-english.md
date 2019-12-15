@@ -542,3 +542,21 @@
 
     그 바람막이 창은 엄청 더러워!
     The windshield is too dirty!
+
+## Ep. 1031 (2019. 11. 28 목)
+식당
+
+    A: How is .. so far?  
+    (지금까지 다 어떤가요?) 
+    B: The steak is so .. and juicy! 
+    (스테이크가 엄청 부드럽고 육즙이 많네요!) 
+    A: That's our ...  
+    (그게 저희 전문이에요.)
+    B: I'm .. that I found this restaurant. 
+    (이 레스토랑을 찾아서 행복해요.) 
+
+    everything
+    tender
+    specialty
+    happy
+
