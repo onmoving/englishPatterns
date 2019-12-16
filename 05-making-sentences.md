@@ -435,3 +435,35 @@ Conversation up
     B: What are you stressed out about?
     A: I'm stressed out about Excel functions. 
     B: I can help you with that.
+
+## Ep. 1083 (2019. 11. 28 목)
+
+    Congratulations + to 대상 + on + 이유 /
+    주어 + congratulate + 대상 + on + 이유 //
+ 
+    축하드려요 / 두 분 다.  
+    Congratulations / to both of you. 
+
+    꽃 고마워요 / 절 축하해 주기 위해 준비한.
+    Thanks for the flowers / to congratulate me. 
+
+    제가 돈을 좀 보냈어요 / 축하해 주려고 / 결혼하시는 걸. 
+    I sent some money / to congratulate you / on your wedding. 
+
+    같이 축해해 주세요 / Mason을 / 1,000강 강의를 한 걸. 
+    Let's congratulate / Mason / on his 1,000th lesson. 
+
+    저희 동료들이 축하해 줬어요 / 저를 / 승진을 한 걸. 
+    My coworkers congratulated / me / on my promotion.
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 협상하던 거 잘 됐다고 들었어요.
+    B: 정말요? 소문 참 빠르네요. 
+    A: 축하드려요. 
+    B: 고마워요. 이번 주에 저녁이나 먹어요. 제가 살게요. 
+
+    <Conversation up>
+    A: Hey, I heard the news about the negotiation. 
+    B: Oh, really? Word spreads so fast. 
+    A: Congratulations on it. 
+    B: Thanks. Let's have dinner this week. It'll be my treat. 
