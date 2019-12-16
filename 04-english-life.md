@@ -569,3 +569,15 @@ and #의문 they can think of new ways @ #의문 a society might function, as op
     
     그건 결코 쉬운 일이 아니에요.
 
+## Ep. 771 (2019. 11. 28 목)
+
+Science fiction books, because they're so fascinating, got me back into reading more regularly.
+
+공상 과학 책들은 워낙 흥미롭기 때문에, 제가 다시 책을 자주 읽게 됐어요. 
+
+Science fiction books, because they're so fascin.., ... 나를 다시 ~로 하게했다 reading more regularly.
+
+---
+I read the book from cover to cover.
+
+그 책을 처음부터 끝까지 다 읽었어요. 
