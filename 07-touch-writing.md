@@ -262,3 +262,56 @@ I don't like ~
 
     눈이 옵니다.
     It's snowy.
+
+# Unit 18. 특별한 날 (3) feeling
+
+행복한 happy
+걱정하는 worried
+배고픈 hungry
+피곤한 tired
+
+저는 어제 행복했습니다.
+I was happy yesterday.
+
+저는 어제 걱정했습니다.
+I was worried yesterday.
+
+저는 어제 배고팠습니다.
+I was hungry yesterday.
+
+저는 어제 피곤했습니다.
+I was tired yesterday.
+
+# Unit 19. 특별한 날 (4) went to~
+
+바닷가 beach
+놀이공원 amusement park
+산 mountain
+극장 movie theater
+
+나는 지난 여름에  바닷가에 갔어요.
+I went to the beach last summer.
+
+나는 지난 여름에 놀이공원에 갔어요.
+I went to the amusement park last summer.
+
+나는 지난 여름에 산에 갔어요.
+I went to the mountain last summer.
+
+나는 지난 여름에 극장에 갔어요.
+I went to the movie theater last summer.
+
+# Unit 20. 특별한 날 (5) open class
+
+공개수업 open class
+역할놀이 role play
+부모님 parents
+
+나는 오늘 공개수업을 했어요.
+Today I had an open class.
+
+우리는 함께 역할놀이를 했어요.
+We did a role play together.
+
+나의 부모님은 나의 학교에 오셨어요.
+My parents came to my school.
