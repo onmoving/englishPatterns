@@ -326,3 +326,21 @@ Venice's mayor said the damage caused by the recent flooding was estimated at hu
 
 Venice's mayor said the d.. caused by the recent flooding was estimated @ hundreds of millions of euros.
 
+## Ep. 1298 (2019. 12. 2 월)
+
+WeWork racked up $1.25 billion in losses in the third quarter as it geared up for, and ultimately scuttled, its debut as a public company. WeWork's losses more than doubled between June-September, compared with the same period the previous year, as the office-sharing company spent heavily in pursuit of aggressive growth.
+
+    - rack up: (사업상의 수익·손실을) 보다
+    - gear up for: ~를 위한 준비를 하다
+    - scuttle: 무산시키다
+
+WeWork `rac.. ~을 보았다, 기록했다 #@` $1.25 billion @ loss..손실로 @ the third quarter `<>~한 때에` it `...~를 위한 준비를 하다`, and ultimately scut.., its deb..데뷰 @ a public company. WeWork's loss.. more than doubled between June-September, compared @ the same pe..기간 the previous year, <이유> the office-sharing company spent heavily @ purs.. @ 유지하기 위해서 aggressive growth.
+
+---
+Developing countries need to invest more in their fledgling IT industry.
+(성숙한 mature, 포화 상태인 saturated)
+
+개발도상국들은 초기 단계의 IT 부문에 대한 투자를 확대할 필요가 있다.
+
+Developing countries need to invest more `@ their fled..털이나기 시작하는` IT industry.
+
