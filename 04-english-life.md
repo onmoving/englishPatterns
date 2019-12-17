@@ -581,3 +581,39 @@ Science fiction books, because they're so fascin.., ... 나를 다시 ~로 하�
 I read the book from cover to cover.
 
 그 책을 처음부터 끝까지 다 읽었어요. 
+
+# 생활영어 (04-english-life)
+## Ep. 772 (2019. 11. 29 금)
+
+Is this something we'd be capable of doing in the future? 
+이게 미래에 우리가 할 수 있는 일일까? 
+
+Is this something we'd ... doing in the future? 
+
+---
+Pattern Practice 
+
+    hear one out
+    이야기를 끝까지 듣다 
+
+    1. Let's hear her out and then decide.
+    2. They might be right, so I'll hear them out.
+
+    give ~ a try
+    ~를 시도해 보다
+
+    1. Please give the new desk a try.
+    2. We should give this language a try.
+
+    그녀의 이야기를 끝까지 듣고 결정합시다.
+    그들의 말이 맞을지도 모르니, 끝까지 들어 볼게요. 
+    새 책상을 한번 사용해 보세요.
+    우리는 이 언어를 한번 시도해 봐야 해요. 
+
+---
+알쏭달쏭 한마디 
+
+    I'm glad I watched that movie. 
+    
+    그 영화 보기를 잘했어요. 
+
