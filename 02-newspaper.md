@@ -311,4 +311,18 @@ More than 80% of high school graduates move on to higher education in South Kore
 
 More than 80% of high school g.. move on to h.. education in South Korea.
 
+## Ep. 1297 (2019. 11. 29 금)
+
+The flooding has been attributed mostly to a combination of high tides from a full moon and high winds pushing water from the shallow Adriatic Sea into Venice. But scientists say climate change is also having an effect.
+
+이번 홍수는 만월 상태에서 발생한 만조와 얕은 아드리아해의 바닷물이 베네치아를 범람하게 만든 강풍이 복합적으로 작용한 것이 컸다. 그러나 과학자들은 기후변화 또한 원인으로 작용하고 있다고 말한다.
+
+The flooding has been attr.. most.. @ a combination of high tides @ a full moon and high winds pushing water @ the shallow Adriatic Sea @ Venice. But scientists say climate change is also having an effect.
+
+---
+Venice's mayor said the damage caused by the recent flooding was estimated at hundreds of millions of euros.
+
+베네치아 시장은 홍수로 인한 피해가 수억 유로에 달할 것으로 추산했다.
+
+Venice's mayor said the d.. caused by the recent flooding was estimated @ hundreds of millions of euros.
 
