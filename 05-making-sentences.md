@@ -467,3 +467,30 @@ Conversation up
     B: Oh, really? Word spreads so fast. 
     A: Congratulations on it. 
     B: Thanks. Let's have dinner this week. It'll be my treat. 
+
+## Ep. 1084 (2019. 11. 29 금)
+
+    주어 + be proud of + 대상 /
+    주어 + be proud to + 동사 //
+
+    저희는 자랑스럽습니다 / 이걸 여러분에게 소개하는 게.
+    We're proud to / introduce it to you. 
+
+    전 자랑스러워요 / 제가 당신의 아이인 게. 
+    I'm proud to / be your child. 
+
+    손흥민 선수는 만들어 줍니다 / 제가 한국인인 게 자랑스럽게. 
+    Son Heung Min makes / me proud to be Korean. 
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 팀장님이 나보고 새 프로젝트를 맡으라고 하시네요.
+    B: 와, 그거 정말 큰 성과네요. 
+    A: 별거 아닌데요, 뭐. 
+    B: 무슨 소리예요? 자신을 자랑스러워 해야 해요. 
+
+    <Conversation up>
+    A: My boss asked me to take care of the new project. 
+    B: Wow, that's a big accomplishment. 
+    A: Oh, it's nothing. 
+    B: What do you mean? You should be proud of yourself.
+
