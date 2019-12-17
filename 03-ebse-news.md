@@ -233,3 +233,14 @@ The opening up of the ultra-conservative Muslim country/ is part of recent refor
 극도로 보수적인 무슬림 국가의 개방은 무함마드 빈 살만 왕세자가 이끄는 최근 개혁의 일환입니다. 개혁은 첫 영화관 개관, 세계 유일의 여성 운전 금지 폐지 등을 포함합니다. 
 
 The opening #@ of the ultra-conse..극도록 보수적인 Muslim country/ is part of recent reforms l.. @ ~에 의해 이끌어지는 Crown Prince Mohammed bin Salman. They include the opening of the first movie theater/ and the `lif.. of the world's only b.. @ ~에 대한 금지를 없애다` women driving.
+
+## Ep. 1085 (2019. 12. 2 월)
+
+Unofficial estimates indicated/ voter turnout will be a historic low.
+
+    투표율, 참가자 수 turnout 
+
+비공식적인 통계에 따르면 투표율이 역대 가장 낮을 것으로 시사하고 있습니다.
+
+Unofficial estimates indicated/ voter turn.. will be a hist.. low.
+
