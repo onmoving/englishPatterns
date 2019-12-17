@@ -586,4 +586,19 @@
     우리 이모는 부산으로 가는 그녀의 비행편을 놓쳤어.
     My aunt missed her flight to Pusan.
 
+## Ep. 1033 (2019. 12. 2 월)
+가정
 
+    A: .. have you been?  
+        (너 어디 있었니?) 
+    B: I was at my friend's ... I'm sorry. 
+    (제 친구 집에 있었어요. 죄송해요.) 
+    B: I think I fell ... 
+    (잠들었던 거 같아요.)
+    A: Never do this ... 
+        (다신 이러지 말거라.) 
+    
+    Where
+    house
+    asleep
+    again
