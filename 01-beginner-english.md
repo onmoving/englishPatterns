@@ -560,3 +560,30 @@
     specialty
     happy
 
+## Ep. 1032 (2019. 11. 29 금)
+여행
+
+    A: I just missed my flight to ... 
+        (방금 파리로 가는 제 비행 편을 놓쳤는데요.) 
+    A: What should I do ..?  
+        (이제 어떻게 하는 게 좋을까요?) 
+    B: We have another flight at 8 ...  
+    (8시에 비행 편이 하나 더 있습니다.) 
+    B: That's the .. flight to Paris today.
+    (그게 오늘 파리로 가는 마지막 비행 편이에요.)
+
+    Paris
+    now
+    o'clock
+    last
+
+---
+퀴즈:
+
+    그 바람막이 창은 엄청 더러워!
+    The windshield is so dirty!
+
+    우리 이모는 부산으로 가는 그녀의 비행편을 놓쳤어.
+    My aunt missed her flight to Pusan.
+
+
