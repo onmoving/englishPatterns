@@ -582,7 +582,6 @@ I read the book from cover to cover.
 
 그 책을 처음부터 끝까지 다 읽었어요. 
 
-# 생활영어 (04-english-life)
 ## Ep. 772 (2019. 11. 29 금)
 
 Is this something we'd be capable of doing in the future? 
@@ -616,4 +615,38 @@ Pattern Practice
     I'm glad I watched that movie. 
     
     그 영화 보기를 잘했어요. 
+
+## Ep. 773 (2019. 12. 2 월)
+
+I always hesitate at giving advice, because at the end of the day, there's not that many topics I'm confident that I know more than the other person on.
+
+저는 조언을 할 때 항상 망설이는데, 결국엔 상대방보다 제가 더 많이 안다고 자신할 수 있는 주제가 별로 많지 않거든요. 
+
+I always hesitate @ giving advice, <이유> `...결국엔`, there's not that many topics I'm confident that I know more than the other person @.
+
+---
+Pattern Practice 
+
+    ask ~ for advice
+    ~에게 조언을 요청하다 
+
+    1. I will ask my teacher for advice.
+    2. She asked me for advice, but I didn't know what to say.
+
+    try to work out ~
+    ~를 생각해 내려고 노력하다
+
+    1. We tried to work out a new system.
+    2. They'll try to work out a good name.
+
+    선생님에게 조언을 구할 거예요.
+    그녀가 저에게 조언을 구했지만, 저는 뭐라고 말해야 할지 몰랐어요.
+    우리는 새로운 시스템을 생각해 내려고 노력했어요. 
+    그들은 좋은 이름을 생각해 내려고 노력할 거예요. 
+---
+알쏭달쏭 한마디 
+
+    I should have taken his advice. 
+
+    그 사람의 충고를 들었어야 했어요. 
 
