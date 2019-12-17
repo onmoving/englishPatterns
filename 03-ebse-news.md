@@ -213,3 +213,23 @@ The rain just held off/ for the annual London Sheep Drive,/ in which a flock of 
 양떼가 런던 브리지를 건너가는 연례 런던 양떼몰이 행사동안 비는 잠시 소강상태에 들어갔습니다. 전통은 런던시가 세워진 8백 년 전으로 거슬러 올라갑니다.
 
 The rain just ... 소강상태에 들어갔다/ @동안 the annual London Sheep Drive,/ @ <<> a fl.. @ sheep is guided @ London Bridge. The tradition dat.. #부 거슬러 올라간다 more than 800 years/ @ the creation of the City of London.
+
+## Ep. 1084 (2019. 11. 29 금)
+
+The massive gas giant they've called GJ5312b/ is putting a new spin on how planets form/ because it's orbiting a red dwarf/ - the smallest and most common star in the universe. 
+
+    재해석하다,  새롭게 해석하다  put a new spin on 
+
+GJ5312b라고 부르는 거대한 가스 행성은 우주에서 가장 작고 가장 흔한 별인 적색왜성의 궤도를 돌기 때문에 행성이 어떻게 형성되는 가가 재해석되고 있습니다.
+
+The massive gas giant they've called GJ5312b/ is `put.. spin .. 재해석되고 있다` #의 planets form/ because it's orb.. 궤도를 돌고 있다 a red dwarf/ - the smallest and most common star in the universe. 
+
+---
+
+The opening up of the ultra-conservative Muslim country/ is part of recent reforms led by Crown Prince Mohammed bin Salman. They include the opening of the first movie theater/ and the lifting of the world's only ban on women driving.
+
+    ~에 대한 금지를 없애다, ~을 해금하다  lift the ban on 
+
+극도로 보수적인 무슬림 국가의 개방은 무함마드 빈 살만 왕세자가 이끄는 최근 개혁의 일환입니다. 개혁은 첫 영화관 개관, 세계 유일의 여성 운전 금지 폐지 등을 포함합니다. 
+
+The opening #@ of the ultra-conse..극도록 보수적인 Muslim country/ is part of recent reforms l.. @ ~에 의해 이끌어지는 Crown Prince Mohammed bin Salman. They include the opening of the first movie theater/ and the `lif.. of the world's only b.. @ ~에 대한 금지를 없애다` women driving.
