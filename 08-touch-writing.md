@@ -14,7 +14,7 @@ I am a student.
 
 I am Korean.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 2. 자기소개하기 I like ~
 
@@ -40,7 +40,7 @@ I like pizza.
 
 I like chicken.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 3. 자기소개하기 I like to ~
 
@@ -62,7 +62,7 @@ I like to read a book.
 
 I like to draw a picture.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 4. 자기소개하기 I don't like ~
 
@@ -84,7 +84,7 @@ I don't like to eat fish.
 
 I don't like to clear my room.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 5. 자기소개하기 I want to be ~
 
@@ -100,7 +100,7 @@ I want to be a police officer.
 
 I want to be a soccer player.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 6. 우리집 소개 There is~/There are ~
 
@@ -120,7 +120,7 @@ There is a bathroom.
 
 There are two bedrooms.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 7. 우리가족 소개 He is ~/She is ~
 
@@ -140,7 +140,7 @@ He is my brother.
 
 She is my sister.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 8. 우리가족 소개 My dad is ~
 
@@ -160,7 +160,7 @@ My mom has long hair.
 
 My sister has red hair.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 9. 우리가족 소개 I can ~
 
@@ -180,7 +180,7 @@ I can play soccer well.
 
 She can sing a song well.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 10. 우리가족 소개 likes to ~
 
@@ -196,7 +196,7 @@ She likes to play badminton.
 
 He likes to study English.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 11. 학교소개하기 in the ~ grade
 
@@ -216,7 +216,7 @@ He is in the fourth grade.
 
 She is in the third grade.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 12. 좋아하는 과목 소개하기 My favorite subject is ~
         
@@ -239,7 +239,7 @@ My favorite subject is social studies.
 
 My favorite subject is science.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 13. 학교 소개하기 It is on the~
 
@@ -265,7 +265,7 @@ The English classroom in on the third floor.
 
 The gym is on the fourth floor.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 14. 학교 소개하기 lunch menu
 
@@ -295,7 +295,7 @@ Pork cutlet is my favorite lunch menu.
 
 Seaweed soup is my favorite lunch menu.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 15. 학교 소개하기 You should~
 규칙: rules
@@ -316,7 +316,7 @@ You should study hard.
 
 You should respect others.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 16. 특별한 날 (1) My birthday is~
 
@@ -342,7 +342,7 @@ My birthday is April 3rd.
 
 My birthday is May 4th.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 17. 특별한 날 (2) weather
 
@@ -373,7 +373,7 @@ It's rainy
 
 It's snowy.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 18. 특별한 날 (3) feeling
 
@@ -398,7 +398,7 @@ I was hungry yesterday.
 
 I was tired yesterday.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 19. 특별한 날 (4) went to~
 
@@ -423,7 +423,7 @@ I went to the mountain last summer.
 
 I went to the movie theater last summer.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 20. 특별한 날 (5) open class
 
@@ -443,7 +443,7 @@ We did a role play together.
 
 My parents came to my school.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 ---
 12-17 화
@@ -471,7 +471,7 @@ I will go to the movies.
 
 I will exercise regularly.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 22. 방학계획표 (2) Daily routine
 
@@ -496,7 +496,7 @@ She does her homework at three.
 
 She goes to bed at nine.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 23. 방학계획표 (3) on Fridays
 
@@ -521,4 +521,4 @@ I play computer games on Fridays.
 
 I go to the library on Saturdays.
 
-[동영상](home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
