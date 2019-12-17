@@ -494,3 +494,16 @@ Conversation up
     A: Oh, it's nothing. 
     B: What do you mean? You should be proud of yourself.
 
+## Ep. 1085 (2019. 12. 2 월)
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 뭐 하고 있어?
+    B: 세차 중이야. 
+    A: 뭐? 어쩌다가 세차에 관심이 생긴 거야?
+    B: 내 동료가 관심을 가지게 만들더라고. 
+
+    <Conversation up>
+    A: What are you doing? 
+    B: I'm detailing my car. 
+    A: What? What got you into that? 
+    B: My coworker made me get into it. 
