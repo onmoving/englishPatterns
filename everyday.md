@@ -87,6 +87,32 @@ I thought it was the right thing to do at the moment.
 
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1035 (2019. 12. 4 수)
+
+쇼핑
+
+    A: So, have you ..?  
+    (그래서, 결정하셨나요?) 
+    B: I can't decide between these two ... 
+        (이 치마 두 개 중에 결정을 못하겠네요.) 
+    A: Take your ...  
+    (천천히 하세요.) 
+    B: Okay. I'll look around a bit ... 
+        (네. 약간 더 둘러볼게요.) 
+
+    decided
+    skirts
+    time
+    more
+
+---
+퀴즈:
+
+    우리 이모는 부산으로 가는 그녀의 비행편을 놓쳤어.
+    My aunt missed her flight to Busan.
+
+    난 펭수와 마유 중에 결정을 못하겠어.
+    I can't decide between 펭수 and 마유.
+
 # 영자신문 (02-newspaper)
 ## Ep. 1300 (2019. 12. 4 수)
 # 영어뉴스 (03-ebse-news)
