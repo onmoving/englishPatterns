@@ -602,3 +602,20 @@
     house
     asleep
     again
+
+## Ep. 1034 (2019. 12. 3 화)
+일상
+
+    A: I saw your adoption ad in the ...  
+        (신문에서 입양 광고를 봤어요.) 
+    B: I see. We have many abandoned .. here.  
+    (그렇군요. 여기 많은 유기견들이 있어요.) 
+    B: They all need a new ... 
+    (모두 새로운 집이 필요하죠.) 
+    A: I'm dying to .. one.  
+        (한 마리를 입양하고 싶어 죽겠어요.)
+
+    newspaper
+    dogs
+    home
+    adopt
