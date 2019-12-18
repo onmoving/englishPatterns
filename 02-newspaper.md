@@ -344,3 +344,19 @@ Developing countries need to invest more in their fledgling IT industry.
 
 Developing countries need to invest more `@ their fled..털이나기 시작하는` IT industry.
 
+## Ep. 1299 (2019. 12. 3 화)
+
+People with severe but stable heart disease from clogged arteries may have less chest pain if they get a procedure to improve blood flow rather than just giving medicines a chance to help, but it won't cut their risk of having a heart attack or dying over the following few years, a big study found.
+
+동맥경화로 인한 중증 심장질환을 앓고 있지만 상태가 안정적인 경우, 약에서 도움을 구하는 것보다는 혈류를 개선하기 위한 시술을 받는 것이 환자들의 흉부통증을 줄일 수는 있지만 시술 이후 몇 년 동안 심장마비나 사망의 위험이 낮아지지는 않는다고 대규모 연구에서 드러났다.
+
+People with sev..심각한,중증의 but stable heart disease @로 인한 clo.. art.. 동맥경화 may have less chest pain if they get a procedure to improve blood flow rather than just giv.. medicines a ch.. 약을 사용해보다 to help, but it won't c.. 줄이다, 낮아지다 their risk of having a heart attack or dying `@ 동안` the following few years, a big study found.
+
+---
+A growing number of people are posting malicious comments and even doctored photos on the Internet.
+
+악성 댓글(악플)과 심지어 조작된 사진을 인터넷에 올리는 사람들이 늘고 있다.
+
+A gro.. number of people are po.. malicious comments and even `do..` photos on the Internet.
+
+
