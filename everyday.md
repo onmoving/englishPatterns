@@ -115,6 +115,15 @@ I thought it was the right thing to do at the moment.
 
 # 영자신문 (02-newspaper)
 ## Ep. 1300 (2019. 12. 4 수)
+
+Myanmar's government rejected the International Criminal Court's decision to allow prosecutors to open an investigation into crimes committed against the Rohingya Muslim minority. A government spokesman said that Myanmar stood by its position that the Netherlands-based court has no jurisdiction over its actions. 
+
+    - prosecutor: 검사
+    - stand by: 고수하다
+    - jurisdiction: 사법권
+
+Myanmar's government rejected the International Criminal Court's decision @ allow prose.. @ open an investigation @ ~안으로 crimes commi.. @ the Rohingya Muslim minority. A government spok.. said that Myanmar ... 고수하다 its position that the Netherlands-based court has no juris.. @ its actions. 
+
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1087 (2019. 12. 4 수)
 # 생활영어 (04-english-life)
