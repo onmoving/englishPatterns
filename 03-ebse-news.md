@@ -244,3 +244,16 @@ Unofficial estimates indicated/ voter turnout will be a historic low.
 
 Unofficial estimates indicated/ voter turn.. will be a hist.. low.
 
+## Ep. 1086 (2019. 12. 3 화)
+
+Juul Labs said/ it was stopping e-cigarette ads in the US/ and replacing its CEO/ amid a nationwide backlash from two public health debacles. The shake-up comes/ after mysterious breathing illnesses/ and an explosion in the number of vaping teens/ triggered efforts to crack down on the largely unregulated industry. No major e-cigarette company/ has been tied to the ailments/ which resulted in at least 10 deaths,/ but federal and state officials have seized the opportunity/ to push through restrictions designed to curb underage vaping. A government survey found/ more than 1 in 4 high school students/ had used e-cigarettes.
+
+    반발, 반격 backlash 
+    대실패, 큰 낭패 debacle
+    인사개편, 대대적인 개혁 shake-up
+    질병 ailment 
+
+2건의 공공의 건강 사태로 전국적인 반발이 일어나고 있는 와중에 쥴 랩스는 미국에서 전자담배 광고를 중단하고 CEO를 교체한다고 말했습니다. 인사개편은 원인모를 호흡기 질환과 베이핑을 하는 청소년의 숫자가 폭발적으로 증가한 이후 거의 규제되지 않았던 업계를 단속하는 노력을 촉발했습니다. 최소 10명의 사망으로 이어진 질병과 결부된 주요 전자담배 회사는 없지만, 연방 및 주 관리들은 이 기회를 미성년자의 베이핑을 제한하는 규제를 통과시키기 위한 기회로 삼고 있습니다. 정부 조사에 따르면 4명중 1명 이상의 고등학생이 전자 담배를 사용하고 있습니다. 
+
+Juul Labs said/ it was stopping e-cigarette ads @ the US/ and replacing its CEO/ amid a nationwide back.. 반발 from two public health deba..대실패, 큰 낭패. The sh..인사개편, 대대적인 개혁 comes/ after mysterious breathing ill..질환들/ and an explosion in the number of vaping teens/ triggered efforts to ... 단속하다 the largely unregulated industry. No major e-cigarette company/ has been tied to the `ai.. 질병들`/ which resulted in at least 10 deaths,/ but federal and state officials have sei.. 붙잡다, 삼다 the opportunity/ to pu... 통과시키다 rest.. 규제들 designed to `cu..제한하다,틀어막다` und..미성년자의 vaping. A government survey found/ more than 1 in 4 high school students/ had used e-cigarettes.
+
