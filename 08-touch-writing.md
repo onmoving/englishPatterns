@@ -522,3 +522,53 @@ I play computer games on Fridays.
 I go to the library on Saturdays.
 
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 24. 방학계획표 (4) Holidays
+
+    설날: New Year's Day
+    1월1일: January 1st
+    추석: Korean Thanksgiving Day
+    8월15: August 15th
+
+설날은 1월 1일 입니다.
+
+New Year's Day is January 1st.
+
+New Year's Day is January 1st on the lunar calendar.
+
+축하할 때 입니다.
+
+It's time for celebration.
+
+추석은 8월 15일 입니다.
+
+Korean Thanksgiving Day is August 15th.
+
+Korean Thanksgiving Day is August 15th on the lunar calendar.
+
+수확할 때 입니다.
+
+It's time for harvest.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 25. 방학계획표 (5) be going to
+
+영어 공부를 열심히 하다: study English hard
+성적이 안 좋다: get a bad grad
+많이 연습하다: practice a lot
+
+나는 영어를 열심히 공부할 것입니다.
+
+I am going to study English hard.
+
+나는 안 좋은 성적을 받지 않을 것입니다.
+
+I am not going to get a bad grade.
+
+나는 많이 연습 할 것입니다.
+
+I am going to practice a lot.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
