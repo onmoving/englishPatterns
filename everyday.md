@@ -61,6 +61,23 @@ So many Koreans are overly ob.. @ readi.. avail.. vitamin pills.
 
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1087 (2019. 12. 4 수)
+
+Doctors were advising users to be cautious/ while the FDA conducts a full investigation into ranitidine/ and to use other over the counter antacids/ to treat ulcers and reflux disease. 
+
+의사들은 사용자들에게 미식약청이 라니티딘에 대한 조사를 실시하는 동안 주의를 기울이고 위궤양이나 위식도 역류 질환을 치료하기 위해 다른 처방전 없이 살 수 있는 제산제를 사용하라고 조언을 하고 있습니다. 
+
+Doctors were advi.. users @ #비 cautious/ <>~하는 동안 the FDA conducts a full investigation @ ranitidine/ and @ use other ...처방전 없이 살 수 있는 ant..제산제/ to t..치료하다 ulc..위궤양 and ref..위식도 역류 disease. 
+
+---
+Minor injuries were reported during this year's event,/ when a balloon struck a power line on its descent,/ forcing the gondola to make a hard landing. 
+
+    하강 descent 
+    경착륙 hard landing
+
+올해 행사에서는 기구가 하강하면서 전선에 부딪쳐 곤돌라가 경착륙하면서 작은 부상이 보고되었습니다. 
+
+Minor injuries were reported d@ this year's event,/ <> a balloon st.. a power line on ... 하강하면서,/ forcing the gondola @ m.. a hard landing. 
+
 # 생활영어 (04-english-life)
 ## Ep. 775 (2019. 12. 4 수)
 # 어순 트레이닝 (05-making-sentences)
