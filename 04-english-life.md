@@ -650,3 +650,60 @@ Pattern Practice
 
     그 사람의 충고를 들었어야 했어요. 
 
+## Ep. 774 (2019. 12. 3 화)
+
+We give advice to people around us all the time, 
+but do we ever stop to think about the repercussions of that? 
+
+    repercussion 영향, 파급효과 
+
+우리는 주변 사람들에게 늘 조언을 해요. 
+그런데 우리는 그것의 파급효과에 대해서 생각해 보는 일이 있나요? 
+
+We give advice @ people around us all ..., 
+but do we ever stop @ think @ the reperc.. of that? 
+
+---
+Recently I've become wary of giving unsolicited or solicited advice to anybody 
+because I'm afraid of taking responsibility for them actually following what I've advised them to do. 
+
+    unsolicited 청하지 않은 
+    solicit 간청하다, 요청하다 
+    advise 조언하다, 충고하다 
+
+최근에 저는 요청을 받았든 안 받았든, 누구에게든 조언을 주는 게 조심스러워졌어요. 
+그들이 제가 조언한 것을 실제로 따랐을 때 책임지기가 두렵기 때문이에요.
+
+Recently I've become wa@ of giv.. unsol.. or sol.. advice @ anybody 
+because I'm afraid @ tak.. responsibility @ them actually follo.. what I've adv.. them @ do. 
+
+---
+    Does one ever ~?
+    ~할 때가 있나요? 
+
+1. Do you ever wonder about the future?
+
+2. Did they ever consider my point of view?
+
+    wary of -ing
+    ~하는 것을 조심스러워하는 
+
+1. I was wary of getting treatment.
+
+2. She seemed wary of trusting them.
+
+미래에 대해서 궁금해 할 때가 있나요? 
+
+그들이 제 관점을 고려해 보긴 했나요? 
+
+저는 치료를 받는 게 조심스러웠어요.
+
+그녀는 그들을 믿는 게 조심스러워 보였어요. 
+
+---
+알쏭달쏭 한마디 
+
+I thought it was the right thing to do at the moment.
+
+그 당시에는 그게 맞다고 생각했어요.
+
