@@ -7,3 +7,14 @@ The Ministry of Health and Welfare said last week that it is considering prohibi
     - crack down on: ~을 단속하다
     - adolescent: 청소년
     - give the green light: 허가하다
+
+[동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
+
+## 460 – 1297
+#### (A) Hawaii man proposes to (his) girlfriend while surfing (Associated Press, November 14)
+
+A Hawaii man was surfing with his girlfriend when he knelt down on one knee on his board and proposed. Hawaii News Now reported that she said yes just before the man dropped the ring in the ocean. Luckily, he had a spare. He said he knew it could go wrong, so he used a stand-in while they were out in the water. The real ring was on shore at Queen's Beach in Waikiki.
+
+    - stand-in: 대역
+
+[동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
