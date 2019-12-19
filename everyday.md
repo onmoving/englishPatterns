@@ -80,6 +80,45 @@ Minor injuries were reported d@ this year's event,/ <> a balloon st.. a power li
 
 # 생활영어 (04-english-life)
 ## Ep. 775 (2019. 12. 4 수)
+
+I grew up with a grandmom mentality, in the sense that my friends often came over to seek advice. 
+
+저는 할머니의 사고방식을 가지고 자랐는데, 무슨 말이냐면 친구들이 저에게 자주 조언을 구하러 왔어요. 
+
+I grew up with a grandmom mentality, in the sense that my friends often came over to seek advice. 
+
+---
+Pattern Practice 
+
+    in the sense that ~
+    ~라는 의미에서 
+
+1. It's a bad product in the sense that it breaks easily.
+
+2. It's very meaningful in the sense that this is a rare opportunity.
+
+    in one's mid-20s
+    20대 중반인, 20대 중반에
+
+1. We first went abroad in our mid-20s.
+
+2. In his mid-20s, he was really independent.
+
+쉽게 고장 난다는 의미에서 그건 안 좋은 제품이에요.
+
+이게 흔치 않은 기회라는 의미에서 아주 의미가 있어요. 
+
+우리는 20대 중반에 처음으로 외국에 나갔어요. 
+
+그는 20대 중반에 정말 독립심이 강했어요. 
+
+---
+알쏭달쏭 한마디 
+
+저도 그런 적 있어요. 
+
+I've been there myself.
+
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1087 (2019. 12. 4 수)
 
