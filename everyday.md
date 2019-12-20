@@ -122,6 +122,38 @@ I've been there myself.
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1087 (2019. 12. 4 수)
 
+    take a rain check + on 무엇 + for 일정
+
+    전 해야 할 것 같아요 / 다음으로 미루는 걸. 
+    I'm going to have to / take a rain check. 
+
+    제가 해도 될까요? / 다음으로 미루는 걸 / 저녁 식사를
+    Can I / take a rain check / on dinner?
+
+    우린 하는 게 낫겠어요 / 다음으로 미루는 걸 / 그게 준비가 안 됐다면. 
+    We'd better / take a rain check / if we're not ready for it. 
+
+    우리 하는 게 어때요? / 다음으로 미루는 걸 / 내일로
+    How about we / take a rain check / for tomorrow? 
+
+    저는 했어요 / 다음으로 미루는 걸 / 미팅을 / 다음 주로. 
+    I / took a rain check / on our meeting / for next week. 
+
+---
+    < 한국어로 말하는 상황극 > *말 자막
+
+    A: 오늘 저녁에 새로 생긴 멕시코 식당 가볼래요? 
+    B: 오늘 바쁜데, 다음으로 미루면 안될까요? 
+    A: 괜찮아요, 금요일 저녁 어때요? 
+    B: 네, 괜찮아요. 
+ 
+    <Conversation up>
+
+    A: Do you want to try out the new Mexican restaurant tonight? 
+    B: I'm busy tonight, but can I take a rain check?
+    A: Sure, how does Friday night sound?
+    B: That works for me. 
+
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1036 (2019. 12. 5 목)
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
