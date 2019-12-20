@@ -507,3 +507,18 @@ Conversation up
     B: I'm detailing my car. 
     A: What? What got you into that? 
     B: My coworker made me get into it. 
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1086 (2019. 12. 3 화)
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 초콜릿 좀 드리려고 가져왔어요. 
+    B: 정말요? 뭐 때문에요? 
+    A: 저번에 도와주신 거에 대한 감사를 표현하고 싶어서요. 
+    B: 정말 고마워요. 
+    
+    <Conversation up>
+    A: These chocolates are for you.
+    B: Really? What are they for?
+    A: I just wanted to thank you for helping me.
+    B: That's very thoughtful of you. 
+
