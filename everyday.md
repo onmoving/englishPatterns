@@ -97,6 +97,38 @@ I've been there myself.
 
 # 영자신문 (02-newspaper)
 ## Ep. 1301 (2019. 12. 5 목)
+
+But returning to a mess - minor bummers like an empty fridge or stinking garbage can, or major problems like frozen pipes - can make it difficult to savor the good times you had while away.
+
+    - mess: (지저분하고) 엉망인 상태
+    - bummer: 실망, 실망스러운 일
+    - stinking: 악취를 풍기는
+    - savor: 음미하다
+
+그러나 텅 빈 냉장고나 치우지 않아 냄새 나는 쓰레기 등의 작은 문제에서부터 수도관 동파라는 심각한 문제에 이르기까지 엉망이 된 집으로 돌아 오게 되면 여행에서 가졌던 좋은 시간들을 음미하기란 결코 쉽지 않게 된다. 
+
+But returning to a mess - minor bum.. like an empty fridge or stin.. garbage can, or major problems like frozen pipes - can make it difficult to sav.. the good times you had whi.. aw.. 멀리있는 동안.
+
+---
+Some simple pre-departure tasks are crucial to a happy homecoming. These include: tidying up, putting your mail on hold, stocking up on frozen or non-perishable food (or scheduling a grocery delivery for when you get home), unplugging appliances, turning off the water supply, putting fresh sheets on the beds and giving a spare key to a friend.
+
+    - crucial: 중대한, 결정적인
+    - tidy up: 깔끔하게 정리하다
+    - put ~ on hold: 보류/연기하다
+    - stock up (on ~): (~을) 비축하다
+    - perishable: 부패하기 쉬운
+
+여행을 떠나기 전에 몇 가지 간단한 조치만으로도 행복한 귀가가 이루어질 수 있다. 집 정리, 우편이나 배달을 잠시 중단시키기, 냉동 식품이나 쉽게 상하지 않는 식품을 사놓기 (혹은 돌아오는 날에 맞춰 식품 배달시키기), 가전제품 코드 뽑기, 수도 잠그기, 침대에 깨끗한 시트 준비하기, 그리고 비상 키를 친구에게 맡겨놓기 등이 여기에 해당한다.
+
+Some simple pre-departure tasks are cru.. @ a happy homecoming. These include: tid.. @부, putting your mail ... 보류/연기하다, stocking @부 @부 (~을) 비축하다 frozen or non-per.. 쉽게 상하지 않는 food (or scheduling a grocery delivery @ when you get home), unplugging appliances, turning off the water supply, putting fresh sheets on the beds and giving a spare key to a friend.
+
+---
+The United States is the world's No. 1 consumer of single-use plastic packaging per person
+
+미국은 국민 일인당 일회용 플라스틱 포장지 사용량이 가장 많은 나라다.
+
+The United States is the world's No. 1 consumer of s..-.. plastic packaging per person
+
 [동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
 
 # 영어뉴스 (03-ebse-news)
