@@ -359,4 +359,20 @@ A growing number of people are posting malicious comments and even doctored phot
 
 A gro.. number of people are po.. malicious comments and even `do..` photos on the Internet.
 
+## Ep. 1300 (2019. 12. 4 수)
+
+Myanmar's government rejected the International Criminal Court's decision to allow prosecutors to open an investigation into crimes committed against the Rohingya Muslim minority. A government spokesman said that Myanmar stood by its position that the Netherlands-based court has no jurisdiction over its actions. 
+
+    - prosecutor: 검사
+    - stand by: 고수하다
+    - jurisdiction: 사법권
+
+Myanmar's government rejected the International Criminal Court's decision @ allow prose.. @ open an investigation @ ~안으로 crimes commi.. @ the Rohingya Muslim minority. A government spok.. said that Myanmar ... 고수하다 its position that the Netherlands-based court has no juris.. @ its actions. 
+
+--
+So many Koreans are overly obsessed with readily available vitamin pills.
+
+우리나라 사람들 중에 쉽게 구할 수 있는 비타민제에 너무나 과도하게 집착하는 사람들이 많다.
+
+So many Koreans are overly ob.. @ readi.. avail.. vitamin pills.
 
