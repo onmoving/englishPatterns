@@ -275,3 +275,27 @@ Minor injuries were reported during this year's event,/ when a balloon struck a 
 
 Minor injuries were reported d@ this year's event,/ <> a balloon st.. a power line on ... 하강하면서,/ forcing the gondola @ m.. a hard landing. 
 
+## Ep. 1088 (2019. 12. 5 목)
+
+That may be due to the company's previous high-profile flops/ with its own operation system/ and its ill-fated buyout of smartphone maker Nokia.
+
+    실패작 flop 
+    (기업 등의) 인수 buyout 
+
+이는 예전 대중의 높은 관심을 받은 자체 OS의 실패작과 불행하게 끝난 스마트폰 제조업체 노키아 인수 때문일 수 있습니다.
+
+That may be due @ the company's previous hi..-p.. 대중의 높은 관심을 받은 fl.. 실패작/ @ its own operation system/ and its i..-f..불행하게 끝난 b..인수 @ smartphone maker Nokia.
+
+---
+"Density",/ which looks like a dripping block of ice that's suspended in mid-air,/ is claimed to be the first AR piece/ to be featured in an art fair. The director of Acute Art said/ the AR piece is as easy on the environment as it is on the eye,/ because there's no carbon footprint/ and no shipping required. 
+
+    공중 mid-air 
+    보기 좋은 easy on the eye 
+    탄소 배출량, 탄소 발자국 carbon footprint 
+
+"Density" 라는 작품은 공중에 매달려 있는 녹아내리는 얼음 덩어리처럼 보이는 작품으로 아트페어에 나온 최초의 AR 작품으로 알려져 있습니다. 어큐트 아트의 디렉터는 AR 작품은 탄소 배출량이 없고 배송이 필요 없기 때문에 보기에도 좋을 뿐 아니라 환경에도 좋다고 말했습니다. 
+
+"Density",/ which looks like a dri..녹아내리는 block of ice that's sus..매달려 있는 @ ..-air 공중에,/ is cl.. ...~로 알려져 있다 the first AR piece/ to be f.. @ ~에 나온, 등장하는 an art fair. The director of Acute Art said/ the AR piece is @ easy on the environment @ it is on the eye,/ because there's no carbon footprint/ and no shipping required. 
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
