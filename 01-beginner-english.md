@@ -647,3 +647,23 @@
     난 펭수와 마유 중에 결정을 못하겠어.
     I can't decide between 펭수 and 마유.
 
+## Ep. 1036 (2019. 12. 5 목)
+
+식당
+
+    A: Can you turn down the ..?  
+        (볼륨 좀 줄여주실 수 있나요?) 
+    B: Is it too ..? 
+    (너무 시끄러운가요?) 
+    A: Yes. We can't have a ...  
+        (네. 대화를 나눌 수가 없어요.) 
+    B: I'll turn it down .. ... 
+    (즉시 줄여드릴게요.) 
+
+    volume
+    loud
+    conversation
+    right away
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
