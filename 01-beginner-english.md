@@ -667,3 +667,32 @@
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
+## Ep. 1037 (2019. 12. 6 금)
+
+여행
+
+    A: I'm visiting .. next month. 
+        (나 다음 달에 미국 방문해.)
+    B: You must be ..! 
+    (너 분명 신나 있겠다!) 
+    B: You will need travel ...  
+    (너 여행 보험 필요할 거야.) 
+    A: I know. Medical .. are expensive in America.
+        (알아. 미국에서는 의료비가 비싸지.) 
+    
+    America
+    excited
+    insurance
+    bills
+
+---
+퀴즈:
+
+    난 펭수와 마유 중에 결정을 못하겠어.
+    I can't decide between 펭수 and 마유.
+
+    그녀는 분명히 나한테 화나 있을거야!
+    She must be mad at me!
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
