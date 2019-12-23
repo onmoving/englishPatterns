@@ -72,9 +72,20 @@ I didn't ask for this.
 
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1089 (2019. 12. 6 금)
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 부인께서 전화가 왔는데요. 
+    B: 제가 이따가 다시 전화한다고 말해주세요. 
+    A: 좀 급한 일이라고 하시는데요. 
+    B: 알았어요, 연결해 주세요.  
+    
+    <Conversation up>
+    A: Sir, your wife is on the phone. 
+    B: Tell her I'll call her back later. 
+    A: She says it's urgent. 
+    B: Okay, then put her through.
+
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
-
-
 
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1038 (2019. 12. 9 월)
