@@ -747,3 +747,38 @@ Pattern Practice
 
 I've been there myself.
 
+## Ep. 776 (2019. 12. 5 목)
+
+Pattern Practice 
+
+Somehow I cannot ~
+왠지 ~를 못 하겠어요
+
+1. Somehow I couldn't refuse.
+
+2. Somehow I can't imagine that.
+
+저는 왠지 거절할 수 없었어요. 
+
+왠지 그게 상상이 안 돼요. 
+
+    You could say ~
+    ~라고 할 수 있어요 
+
+1. You could say it's normal.
+
+2. You could say they did their best.
+
+그게 정상이라고 할 수 있어요.
+
+그들이 최선을 다했다고 할 수 있어요. 
+
+---
+알쏭달쏭 한마디 
+
+상의할 일이 있어요.
+
+I need your advice on something. 
+
+[동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
+
