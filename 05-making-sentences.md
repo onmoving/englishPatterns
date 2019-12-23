@@ -556,3 +556,19 @@ Conversation up
     A: Sure, how does Friday night sound?
     B: That works for me. 
 
+## Ep. 1088 (2019. 12. 5 목)
+
+< 한국어로 말하는 상황극 > *말 자막
+A: 안녕하세요, Chad와 통화 좀 하고 싶은데요. 
+B: 접니다. 누구신지요? 
+A: 전 EBS의 Sam이라고 합니다. 
+B: 아, 안녕하세요. 뭘 도와드릴까요? 
+ 
+<Conversation up>
+A: Hello, I'm trying to reach Chad, please. 
+B: This is he. May I ask who's speaking? 
+A: It is Sam from EBS.  
+B: Oh, hi. What can I do for you?
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
