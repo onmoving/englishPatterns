@@ -90,13 +90,28 @@ I didn't ask for this.
 # 왕초보 영어 (01-beginner-english)
 ## Ep. 1038 (2019. 12. 9 월)
 
+가정
+
+    A: So, what did the doctor ..? 
+    (그래서, 의사가 뭐라고 했어요?) 
+    B: I'm 2 months ..!  
+        (나 임신 2개월이래요!) 
+    A: Oh, my God! I can't .. this! 
+    (오, 맙소사! 못 믿겠어요!) 
+    B: We are going to be ..! 
+        (우리가 엄마 아빠가 되는 거예요!) 
+    
+    say
+    pregnant
+    believe
+    parents
+
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
 # 영자신문 (02-newspaper)
 ## Ep. 1303 (2019. 12. 9 월)
 
 [동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
-
 
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1090 (2019. 12. 9 월)
@@ -110,5 +125,30 @@ I didn't ask for this.
 
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1090 (2019. 12. 9 월)
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1039 (2019. 12. 10 화)
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
+# 영자신문 (02-newspaper)
+## Ep. 1304 (2019. 12. 10 화)
+
+[동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1091 (2019. 12. 10 화)
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
+# 생활영어 (04-english-life)
+## Ep. 779 (2019. 12. 10 화)
+
+[동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
+
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1091 (2019. 12. 10 화)
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
