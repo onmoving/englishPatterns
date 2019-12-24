@@ -696,3 +696,23 @@
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
+## Ep. 1038 (2019. 12. 9 월)
+
+가정
+
+    A: So, what did the doctor ..? 
+    (그래서, 의사가 뭐라고 했어요?) 
+    B: I'm 2 months ..!  
+        (나 임신 2개월이래요!) 
+    A: Oh, my God! I can't .. this! 
+    (오, 맙소사! 못 믿겠어요!) 
+    B: We are going to be ..! 
+        (우리가 엄마 아빠가 되는 거예요!) 
+    
+    say
+    pregnant
+    believe
+    parents
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
