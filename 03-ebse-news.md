@@ -299,3 +299,7 @@ That may be due @ the company's previous hi..-p.. 대중의 높은 관심을 받
 
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
+## Ep. 1089 (2019. 12. 6 금)
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
