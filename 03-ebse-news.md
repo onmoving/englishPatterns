@@ -303,3 +303,26 @@ That may be due @ the company's previous hi..-p.. 대중의 높은 관심을 받
 
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
+## Ep. 1090 (2019. 12. 9 월)
+
+The award however/ does not end a 15-year-long standoff over aircraft:/ the WTO is expected to rule next year/ about how much the EU can impose in tariffs/ following a separate decision that went against Boeing.
+
+    교착 상태 standoff 
+    ~에게 불리하다 go against  
+
+그러나 이번 수여가 항공기와 관련한 15년간의 교착상태를 종식시키는 것은 아닙니다. WTO는 내년에 보잉에 불리한 별도의 결정에 따라 EU가 얼마나 관세를 부과할 수 있는지에 대한 판결을 하게 됩니다. 
+
+The award however/ does not end a 15-year-long stan..교착상태 ov@ aircraft:/ the WTO is expected @ r..판결하다 next year/ @ how much the EU can impose @ tariffs/ following a separate decision that went `@~에게 불리하다` Boeing.
+
+---
+The Scottish Parliament overwhelmingly backed a ban/ on all physical punishment on children. Parents and carers in Scotland/ had been allowed to use "reasonable" physical force/ to discipline their children.
+
+    체벌 physical punishment 
+    훈육하다 discipline 
+
+스코틀랜드 의회가 어린이에 대한 모든 체벌 금지를 압도적으로 지지했습니다. 스코틀랜드의 부모나 보호자들은 자녀를 훈육하기 위해 합리적인 완력 사용이 허용되어 왔습니다.
+
+The Scottish Parliament overwhelmingly ba.. a ban/ @ all physical punishment @ children. Parents and carers in Scotland/ had been allowed @ use "reasonable" physical force/ @ dis.. 훈육하다 their children.
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
