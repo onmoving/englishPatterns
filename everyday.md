@@ -79,6 +79,14 @@ I meant to do it like that.
 
 원래 그렇게 하려고 한 거예요. 
 
+---
+In The Social World 
+
+Helen (여)
+I'm amazing at remembering things that I'll never, ever need to know, and all the useful stuff goes in one ear and straight out the other.
+
+I'm amazing at remembering things that I'll never, ever need to know, and all the useful stuff g... one ear and s... the other.
+
 [동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
 
 # 어순 트레이닝 (05-making-sentences)
