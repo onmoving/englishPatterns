@@ -43,6 +43,25 @@ I'm amazing at remembering things that I'll never, ever need to know, and all th
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1090 (2019. 12. 9 월)
 
+    대상 + leave a message
+
+    제가 메시지를 남겼어요 / 당신의 직원에게 / 내 이메일을 확인해 달라고. 
+    I left a message / with your coworker / to check my email. 
+
+    < 한국어로 말하는 상황극 > *말 자막
+
+    A: 방금 어떤 분이 찾아오셨었어요. 
+    B: 누구요? 
+    A: 잘은 모르겠는데, 그분이 책상에 메시지를 남기셨어요. 
+    B: 고마워요. 한번 볼게요. 
+
+    < Conversation up >
+
+    A: Someone came in looking for you just now. 
+    B: Who was it? 
+    A: I'm not sure, but she left a message on your desk. 
+    B: Thank you. I'll take a look at it.  
+
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
 # 왕초보 영어 (01-beginner-english)
