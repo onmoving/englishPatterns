@@ -554,9 +554,9 @@ It's time for harvest.
 
 # Unit 25. 방학계획표 (5) be going to
 
-영어 공부를 열심히 하다: study English hard
-성적이 안 좋다: get a bad grad
-많이 연습하다: practice a lot
+    영어 공부를 열심히 하다: study English hard
+    성적이 안 좋다: get a bad grad
+    많이 연습하다: practice a lot
 
 나는 영어를 열심히 공부할 것입니다.
 
@@ -572,3 +572,77 @@ I am going to practice a lot.
 
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
+# Unit 26. 친구 (1) be good at
+
+    농구하다 play basketball
+    축구하다 play football
+    운동 sports
+    계산 figures
+
+그는 농구를 잘해요.
+
+He is good at playing basketball.
+
+그는 축구를 잘해요.
+
+He is good at playing football.
+
+그는 운동을 잘해요.
+
+He is good at sports.
+
+그는 계산을 잘해요.
+
+He is good at figures.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 27. 친구 (2) taller than
+
+    키가 더 큰 taller
+    더 작은 smaller
+    더 빠른 faster
+    더 센 stronger
+
+그는 나보다 키가 더 커요.
+
+He is taller than me.
+
+나는 그보다 더 작아요.
+
+I am smaller than him.
+
+그는 나보다 더 빨라요.
+
+He is faster than me.
+
+나는 그보다 더 쎄요.
+
+I am stronger than him.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 28. 친구 (3) always
+
+    축구를 하다 play football
+    웃는 얼굴을 하다 keep a smiling face
+    남을 도와주다 help other people
+    포기하다 give up
+
+그는 오후에 항상 축구를 해요.
+
+He always plays football in the afternood.
+
+그는 보통 웃는 얼굴을 해요.
+
+He usually keeps a smiling face.
+
+그는 가끔 다른 사람을 도와줘요.
+
+He sometimes helps other people.
+
+그는 절대 포기하지 않아요.
+
+He never gives up.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
