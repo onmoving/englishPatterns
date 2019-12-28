@@ -358,18 +358,18 @@ Feel free to + 동사
 
 ## Ep. 1080 (2019. 11. 25 월)
 
-I was threatened to not blow the whistle on the whole thing.
+    I was threatened to not blow the whistle on the whole thing.
 
-전 협박을 받았어요 / 비밀을 폭로하지 말라고 / 모든 것을.
+    전 협박을 받았어요 / 비밀을 폭로하지 말라고 / 모든 것을.
 
-I was thr.. @ not blow the whistle @ the whole thing.
+    I was thr.. @ not blow the whistle @ the whole thing.
 
----
-Someone from the accounting department blew the whistle on him. 
+    ---
+    Someone from the accounting department blew the whistle on him. 
 
-회계부서에 있는 사람이 폭로했다고 하더라고요.
+    회계부서에 있는 사람이 폭로했다고 하더라고요.
 
-Someone from the accounting department ... him. 
+    Someone from the accounting department ... him. 
 
 ## Ep. 1081 (2019. 11. 26 화)
 귀띔해 줄 때
@@ -507,7 +507,7 @@ Conversation up
     B: I'm detailing my car. 
     A: What? What got you into that? 
     B: My coworker made me get into it. 
-# 어순 트레이닝 (05-making-sentences)
+
 ## Ep. 1086 (2019. 12. 3 화)
 
     < 한국어로 말하는 상황극 > *말 자막
@@ -558,17 +558,17 @@ Conversation up
 
 ## Ep. 1088 (2019. 12. 5 목)
 
-< 한국어로 말하는 상황극 > *말 자막
-A: 안녕하세요, Chad와 통화 좀 하고 싶은데요. 
-B: 접니다. 누구신지요? 
-A: 전 EBS의 Sam이라고 합니다. 
-B: 아, 안녕하세요. 뭘 도와드릴까요? 
- 
-<Conversation up>
-A: Hello, I'm trying to reach Chad, please. 
-B: This is he. May I ask who's speaking? 
-A: It is Sam from EBS.  
-B: Oh, hi. What can I do for you?
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 안녕하세요, Chad와 통화 좀 하고 싶은데요. 
+    B: 접니다. 누구신지요? 
+    A: 전 EBS의 Sam이라고 합니다. 
+    B: 아, 안녕하세요. 뭘 도와드릴까요? 
+    
+    <Conversation up>
+    A: Hello, I'm trying to reach Chad, please. 
+    B: This is he. May I ask who's speaking? 
+    A: It is Sam from EBS.  
+    B: Oh, hi. What can I do for you?
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
@@ -585,6 +585,32 @@ B: Oh, hi. What can I do for you?
     B: Tell her I'll call her back later. 
     A: She says it's urgent. 
     B: Okay, then put her through.
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
+## Ep. 1090 (2019. 12. 9 월)
+
+    대상 + leave a message
+
+    원하시나요? / 메시지를 남기는 걸 / Scott에게 전할
+    Do you want to / leave a message / for Scott?
+
+    제가 메시지를 남겼어요 / 당신의 직원에게 / 내 이메일을 확인해 달라고. 
+    I left a message / with your coworker / to check my email. 
+
+    < 한국어로 말하는 상황극 > *말 자막
+
+    A: 방금 어떤 분이 찾아오셨었어요. 
+    B: 누구요? 
+    A: 잘은 모르겠는데, 그분이 책상에 메시지를 남기셨어요. 
+    B: 고마워요. 한번 볼게요. 
+
+    < Conversation up >
+
+    A: Someone came in looking for you just now. 
+    B: Who was it? 
+    A: I'm not sure, but she left a message on your desk. 
+    B: Thank you. I'll take a look at it.  
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
