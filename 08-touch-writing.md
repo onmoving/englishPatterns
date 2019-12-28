@@ -646,3 +646,68 @@ He sometimes helps other people.
 He never gives up.
 
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 29. 친구 (4) 성격
+
+    다정한 friendly
+    긍정적인 positive
+    활기찬 energetic
+    책임감 있는 responsible
+
+그는 다정합니다.
+
+He is friendly.
+
+그는 긍정적입니다.
+
+He is positive.
+
+그는 활기찹니다.
+
+He is energetic.
+
+그는 책임감 있습니다.
+
+He is responsible.
+
+# Unit 30. 친구 (5) 장래희망
+
+    연예인 entertainer
+    우주 비행사 astronaut
+    기술자 engineer
+
+그는 연예인이 되고 싶어요.
+
+He wants to be an entertainer.
+
+그는 우주 비행사가 되고 싶어요.
+
+He wants to be an astronaut.
+
+그는 기술자가 되고 싶어요.
+
+He wants to be an engineer.
+
+# Unit 31. 초대장 (1) Let's ~
+
+    하이킹을 가다 go hiking
+    과자 파티를 열다 throw a snack party
+    장기 자랑을 하다 have a talent show
+    바자회를 열다 hold a bazaar
+
+하이킹을 갑시다.
+
+Let's go hiking.
+
+과자 파티를 열어 봅시다.
+
+Let's throw a snack party.
+
+장기 자랑을 합시다.
+
+Let's have a talent show.
+
+바자회를 엽시다.
+
+Let's hold a bazaar.
+
