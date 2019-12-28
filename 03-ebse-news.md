@@ -326,3 +326,7 @@ The Scottish Parliament overwhelmingly ba.. a ban/ @ all physical punishment @ c
 
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
+## Ep. 1091 (2019. 12. 10 화)
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
