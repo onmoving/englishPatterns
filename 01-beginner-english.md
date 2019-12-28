@@ -716,3 +716,23 @@
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
+## Ep. 1039 (2019. 12. 10 화)
+
+일상
+
+    A: Do you want to .. us for dinner? 
+    (저녁식사 저희와 함께하실래요?) 
+    B: I wish but I have to .. a seminar. 
+        (그럴 수 있으면 좋을 텐데 세미나에 참석해야 해요.) 
+    A: Oh, that's too .. . 
+    (아, 아쉽네요.) 
+    B: I'll take a .. check.
+        (다음에 함께할게요.)
+
+    join    
+    attend
+    bad
+    rain
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
