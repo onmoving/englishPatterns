@@ -711,3 +711,56 @@ Let's have a talent show.
 
 Let's hold a bazaar.
 
+# Unit 32. 초대장 (2) Do you ~?
+
+    하이킹을 좋아하다 like hiking
+    기부하다 donate
+    네 yes
+    아니요 no
+
+당신은 하이킹을 좋아하나요?
+
+Do you like hiking?
+
+네, 그래요.
+
+Yes, I do.
+
+아니요, 그렇지 않아요.
+
+No, I don't.
+
+당신은 기부하나요?
+
+Do you donate?
+
+네, 그래요.
+
+Yes, I do.
+
+아니요, 그렇지 않아요.
+
+No, I don't.
+
+# Unit 33. 초대장 (3) When? Where?
+
+    어디로 where
+    언제 when
+    어떻게 how
+    얼마나 how long
+
+당신은 어디로 갈 것인가요?
+
+Where will you go?
+
+당신은 언제 갈 것인가요?
+
+When will you go?
+
+어떻게 갈 것인가요?
+
+How will you go?
+
+시간이 얼마나 걸릴 것인가요?
+
+How long will it take?
