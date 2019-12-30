@@ -1,24 +1,3 @@
-# 생활영어 (04-english-life)
-## Ep. 779 (2019. 12. 10 화)
-
-And I'm sure photos meant a lot more back then than they do now. 
-They were a physical representation of a memory, and they were definitely not stored by thousands on a smartphone. 
-
-그리고 지금보다 그때 사진이 훨씬 더 많은 의미를 가졌을 거로 생각해요. 
-어떤 기억을 물리적으로 표현해 주는 존재였고, 확실히 스마트폰에 수천 장 저장되어 있지는 않았어요. 
-
-And I'm sure photos meant a lot more back then than ... now. 
-They were a physical representation of a memory, and they were definitely not stored b.. ..  on a smartphone. 
-
----
-알쏭달쏭 한마디 
-
-I had no idea I was in a photo like this. 
-
-이런 사진이 찍혔는지도 몰랐어요.
-
-[동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
-
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1091 (2019. 12. 10 화)
 
