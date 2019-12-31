@@ -614,3 +614,28 @@ Conversation up
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
+## Ep. 1091 (2019. 12. 10 화)
+
+    put + A + through (+ to B)
+    = transfer + A (+ to B)
+
+    연결해 주실 수 있나요? / 저를 / CS 센터로
+    Could you put / me through / to customer service? 
+
+    10분이나 통화 대기를 하게 했어요 / 전화 연결을 하는 데 / IT 부서에. 
+    They put me on hold for 10 mins / to put me through / to the IT department. 
+
+    A: 물건을 환불하려고 전화드렸어요. 
+    B: 네, CS 부서로 연결해 드릴게요. 
+    죄송합니다, 지금 모든 직원이 통화 중이네요. 
+    A: 그럼 어떻게 하죠?
+    B: 통화가 가능할 때까지 대기를 하셔야 할 것 같네요.  
+
+    A: Hi, I'm calling to return an item. 
+    B: Okay, I'm going to put you through to customer service. 
+        I'm sorry, all lines are busy right now. 
+    A: What should I do? 
+    B: I'll have to put you on hold until they're available. 
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
