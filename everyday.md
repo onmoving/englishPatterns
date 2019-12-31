@@ -1,85 +1,15 @@
-# 어순 트레이닝 (05-making-sentences)
-## Ep. 1091 (2019. 12. 10 화)
-
-    put + A + through (+ to B)
-    = transfer + A (+ to B)
-
-    연결해 주실 수 있나요? / 저를 / CS 센터로
-    Could you put / me through / to customer service? 
-
-    10분이나 통화 대기를 하게 했어요 / 전화 연결을 하는 데 / IT 부서에. 
-    They put me on hold for 10 mins / to put me through / to the IT department. 
-
-    A: 물건을 환불하려고 전화드렸어요. 
-    B: 네, CS 부서로 연결해 드릴게요. 
-    죄송합니다, 지금 모든 직원이 통화 중이네요. 
-    A: 그럼 어떻게 하죠?
-    B: 통화가 가능할 때까지 대기를 하셔야 할 것 같네요.  
-
-    A: Hi, I'm calling to return an item. 
-    B: Okay, I'm going to put you through to customer service. 
-        I'm sorry, all lines are busy right now. 
-    A: What should I do? 
-    B: I'll have to put you on hold until they're available. 
-
-[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
-
-# 왕초보 영어 (01-beginner-english)
-## Ep. 1040 (2019. 12. 11 수)
-
-쇼핑
-
-    A: Your .. card was declined.  
-    (손님 신용카드가 승인 거절됐습니다.) 
-    B: Could you .. again? 
-        (다시 시도해주실 수 있나요?) 
-    A: It's .. not going through. 
-    (여전히 처리되지 않고 있어요.)
-    B: I'll just .. cash, then.
-        (그럼 그냥 현금을 낼게요.) 
-    
-    credit
-    try
-    sill
-    pay
-
----
-퀴즈:
-
-    그녀는 분명히 나한테 화나 있을거야!
-    She must be mad at me!
-
-    그 대신에 현금을 내도 되나요?
-    Can I pay cash instead of it?
-
-[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
-
-# 영자신문 (02-newspaper)
-## Ep. 1305 (2019. 12. 11 수)
-
-London's transit authority on Monday refused to renew Uber's operating license over concerns about impostor drivers, with the ride-hailing company vowing to appeal the decision as it struggles to secure its future in the British capital. Uber called the decision "extraordinary and wrong," and has 21 days to file an appeal.
-
-    - vow: 공식적으로 단언하다, 천명하다
-    - appeal: 항소(하다)  
-    - transit: 교통체계, 수송
-    - impostor: 사칭하는 사람
-    - ride-hailing: 승차 공유
-    - secure: 얻어내다, 획득하다
-    - file: 제출하다
-
-London's transit authority @ Monday refused @ renew Uber's operating license @ concerns @ impostor drivers, @ the ride-hailing company ... 항소하다 the decision @ it struggles @ secure its future @ the British capital. Uber called the decision "extraordinary and wrong," and has 21 days @ f.. an appeal.
-
----
-He was caught trying to impersonate a doctor in an identity theft scheme.
-(pose as a doctor, pretend to be a doctor)
-
-그 남성은 신원도용 사기 사건에서 의사를 사칭하려 한 것이 적발되었다.
-He was caught trying to i.. a doctor @ an id.. th.. scheme사건.
-
-[동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
-
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1092 (2019. 12. 11 수)
+Actor Robert De Niro has found himself in a real-life court drama,/ trading lawsuits with a former assistant/ after their decade-long working relationship soured. He accused her of misappropriating money. She says he subjected her/ to sexist and harassing comments. Chase Robinson sued De Niro for 12 million dollars,/ saying the actor made sexually charged comments,/ was verbally abusive/ and treated her as his ``office wife"/ while she worked at his company, Canal Productions. The lawsuit included a profanity-laced voicemail message/ De Niro left Robinson/ in which he called her a "spoiled brat." Canal's lawsuit alleges/ Robinson misappropriated the company's funds and property/ for her personal gain. 
+
+    잘못되다, 틀어지다 sour 
+    유용하다 misappropriate 
+    (어떤 감정에) 차 있는, 격앙된, 격론을 부를 charged 
+    막말이 가미된 (모욕적인 말) profanity-laced 
+
+배우 로버트 드니로가 10년간의 일 관계가 틀어진 후 전직 비서와 맞고소를 하며 진짜 법정 드라마의 주인공이 되었습니다. 그는 그녀가 돈을 유용했다고 비난했고, 그녀는 그가 자신에게 성차별적이며 성희롱 발언을 했다고 말했습니다. 체이스 로빈슨은 드니로가 자신이 그의 회사 캐널 프로덕션에 일하는 동안 성적 묘사로 가득한 언급을 하고, 언어 폭력을 가했으며 자신을 오피스 와이프처럼 대했다고 주장하며 120만 달러에 달하는 피해 보상금을 청구했습니다. 고발장에는 드니로가 로빈슨을 "버르장머리 없는 아이"라고 부른 막말이 섞인 음성메시지를 포함합니다. 캐널사의 소송은 로빈슨이 회사 자금과 자산을 개인적 이득을 위해 유용했다고 주장합니다. 
+
+Actor Robert De Niro has found himself in a real-life court drama,/ trad.. lawsuits @ a former assistant/ after their decade-long working relationship s.. He accused her @ misappr..유용하다 money. She says he sub.. her/ @ sex..성차별적 and hara.. comments성희롱 발언. Chase Robinson sued De Niro @ 12 million dollars,/ saying the actor made sexually ch..(성적묘사로) 가득한 comments,/ was verbally ab..폭력적인/ and treated her @ his "office wife"/ while she worked @ his company, Canal Productions. The lawsuit included a pr..-l.. voicemail message/ De Niro left Robinson/ in which he called her a "sp.. brat." Canal's lawsuit all..주장하다/ Robinson mis.. the company's funds and property/ @ her personal gain. 
 
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
