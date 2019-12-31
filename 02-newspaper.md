@@ -488,3 +488,26 @@ The police were t.. @ about the suspect.
 
 [동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
 
+## Ep. 1305 (2019. 12. 11 수)
+
+London's transit authority on Monday refused to renew Uber's operating license over concerns about impostor drivers, with the ride-hailing company vowing to appeal the decision as it struggles to secure its future in the British capital. Uber called the decision "extraordinary and wrong," and has 21 days to file an appeal.
+
+    - vow: 공식적으로 단언하다, 천명하다
+    - appeal: 항소(하다)  
+    - transit: 교통체계, 수송
+    - impostor: 사칭하는 사람
+    - ride-hailing: 승차 공유
+    - secure: 얻어내다, 획득하다
+    - file: 제출하다
+
+London's transit authority @ Monday refused @ renew Uber's operating license @ concerns @ impostor drivers, @ the ride-hailing company ... 항소하다 the decision @ it struggles @ secure its future @ the British capital. Uber called the decision "extraordinary and wrong," and has 21 days @ `f..제출하다 an appeal`.
+
+---
+He was caught trying to impersonate a doctor in an identity theft scheme.
+(pose as a doctor, pretend to be a doctor)
+
+그 남성은 신원도용 사기 사건에서 의사를 사칭하려 한 것이 적발되었다.
+He was caught trying to i.. a doctor @ an id.. th.. scheme사건.
+
+[동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
+
