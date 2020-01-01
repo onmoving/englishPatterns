@@ -445,9 +445,6 @@ My parents came to my school.
 
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
----
-12-17 화
-
 # Unit 21. 방학계획표 (1) I will~
 
     배우다 learn
@@ -670,6 +667,8 @@ He is energetic.
 
 He is responsible.
 
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
 # Unit 30. 친구 (5) 장래희망
 
     연예인 entertainer
@@ -687,6 +686,8 @@ He wants to be an astronaut.
 그는 기술자가 되고 싶어요.
 
 He wants to be an engineer.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 31. 초대장 (1) Let's ~
 
@@ -710,6 +711,8 @@ Let's have a talent show.
 바자회를 엽시다.
 
 Let's hold a bazaar.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 32. 초대장 (2) Do you ~?
 
@@ -742,6 +745,8 @@ Yes, I do.
 
 No, I don't.
 
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
 # Unit 33. 초대장 (3) When? Where?
 
     어디로 where
@@ -764,3 +769,30 @@ How will you go?
 시간이 얼마나 걸릴 것인가요?
 
 How long will it take?
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 34. 초대장 (4) would like to
+
+    하이킹을 가다 go hiking
+    음식을 가져오다 bring some food
+    파티에 참석하다 join the party
+    장난감을 기부하다 donate toys
+
+나는 하이킹을 하고 싶어요.
+
+I would like to go hiking.
+
+나는 음식을 가져오고 싶어요.
+
+I would like to bring some food.
+
+나는 파티에 참석하고 싶어요.
+
+I would like to join the party.
+
+나는 장난감을 기부하고 싶어요.
+
+I would like to donate toys.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
