@@ -35,6 +35,20 @@ It's on the tip of my tongue.
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1092 (2019. 12. 11 수)
 
+    hang on (+ for 시간)
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 환불하는 데 택배비는 얼마나 드나요? 
+    B: 잠시만 기다려 주세요. 무료인지 확인해 보겠습니다. 
+    A: 네. 
+    B: 기다려 주셔서 감사합니다. 비용은 5천 원입니다. 
+
+    <Conversation up>
+    A: How much will the shipping cost to return it? 
+    B: Please hang on. I will check if it's free. 
+    A: Okay. 
+    B: Thank you for waiting. It'll be 5,000 won.
+
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
 # 왕초보 영어 (01-beginner-english)
