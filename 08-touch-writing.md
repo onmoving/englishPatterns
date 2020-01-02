@@ -796,3 +796,67 @@ I would like to join the party.
 I would like to donate toys.
 
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 35. 초대장 (5) What kinds of ~?
+
+    음식 food
+    옷 clothes
+    물품 item
+
+어떤 종류의 음식을 가져 갈까요?
+
+What kinds of food will I bring?
+
+어떤 종류의 옷을 입을까요?
+
+What kinds of clothes will I wear?
+
+어떤 종류의 물품을 기부할까요?
+
+What kinds of items will I donate?
+
+# Unit 36. 인터뷰 (1) When
+
+    언제 when
+    떠나다 leave
+    돌아오다 come back
+    옮기다 move
+
+당신은 언제 학교에 가나요?
+
+When do you leave for school?
+
+당신은 언제 집에 돌아오나요?
+
+When are you coming back home?
+
+당신은 언제 이곳으로 이사했나요?
+
+When did you move here?
+
+당신의 생일은 언제인가요?
+
+When is your birthday?
+
+# Unit 37. 인터뷰 (2) What
+
+    무엇 what
+    어제 yesterday
+    원하다 want
+    ~하고 싶다 would like to
+
+당신은 무엇을 하는 중인가요?
+
+What are you doing?
+
+당신은 점심으로 무엇을 원하나요?
+
+What do you want for lunch?
+
+당신은 어제 무엇을 먹었나요?
+
+What did you have yesterday?
+
+당신은 무엇을 드시기를 원하나요?
+
+What would you like to eat?
