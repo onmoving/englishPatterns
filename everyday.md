@@ -57,6 +57,16 @@ Under the U.S. program called 'DACA', nearly 800,000 young people have avoided d
 # 영어뉴스 (03-ebse-news)
 ## Ep. 1093 (2019. 12. 12 목)
 
+The White House said the two sides made some progress on thornier issues/ such as Beijing's lax protection of foreign intellectual property.
+
+    곤란한, 골치 아픈 thorny 
+
+백악관은 외국 지적재산에 대한 중국의 느슨한 보호 등 보다 곤란한 사안에 대해서도 양측이 일부 진전을 보였다고 말했습니다.
+
+The White House said the two sides made some progress @ thor..곤란한 issues/ such as Beijing's l..느슨한 protection of foreign intellectual property.
+
+---
+
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
 # 생활영어 (04-english-life)
@@ -66,6 +76,20 @@ Under the U.S. program called 'DACA', nearly 800,000 young people have avoided d
 
 # 어순 트레이닝 (05-making-sentences)
 ## Ep. 1093 (2019. 12. 12 목)
+
+    무엇 + break up
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 여보세요? 여보세요? 
+    B: 제가 지금 엘리베이터라, 전화가 끊겨서 들릴 수 있어요.
+    A: 알았어요, 다시 전화 줄래요? 
+    B: 잠깐만요. 금방 내려요. 
+
+    <Conversation up>
+    A: Hello? Hello? 
+    B: I'm in an elevator, so the call might break up. 
+    A: Okay, can you call me back? 
+    B: Hang on. I'll be out in a minute. 
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
