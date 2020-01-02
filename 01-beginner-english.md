@@ -736,3 +736,30 @@
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
+## Ep. 1040 (2019. 12. 11 수)
+
+쇼핑
+
+    A: Your .. card was declined.  
+    (손님 신용카드가 승인 거절됐습니다.) 
+    B: Could you .. again? 
+        (다시 시도해주실 수 있나요?) 
+    A: It's .. not going through. 
+    (여전히 처리되지 않고 있어요.)
+    B: I'll just .. cash, then.
+        (그럼 그냥 현금을 낼게요.) 
+    
+    credit
+    try
+    sill
+    pay
+
+---
+퀴즈:
+
+    그녀는 분명히 나한테 화나 있을거야!
+    She must be mad at me!
+
+    그 대신에 현금을 내도 되나요?
+    Can I pay cash instead?
+
