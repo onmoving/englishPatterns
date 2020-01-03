@@ -511,3 +511,37 @@ He was caught trying to i.. a doctor @ an id.. th.. scheme사건.
 
 [동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
 
+## Ep. 1306 (2019. 12. 12 목)
+
+The guidelines order beefed up laws for protecting intellectual property rights, increased compensation for infringements and stricter enforcement of existing laws. They also lower the threshold for criminal prosecution of IPR offenses.
+
+    - beef up: 강화하다, 보강하다
+    - infringement: 침해
+    - enforcement: 시행, 집행
+    - threshold: 문턱, 임계
+    - prosecution: 기소 
+
+지침에서는 지적 재산권 보호를 위한 법 강화, 침해 보상금 인상, 더욱 엄중한 현행 법 집행이 담겨 있다. 또한 지적 재산권 침해에 대한 형사 기소 기준을 강화하는 내용도 포함되어 있다.
+
+The guidelines order b.. @ laws @ protecting intellectual property rights, inc.. 인상된 comp.. @ ~에 대한 보상금 infringements and stricter enfor.. 시행, 집행 @ existing laws. They also lower the thr..문턱, 임계 @ criminal prose..기소 of IPR offen..침해들.
+
+---
+The new blueprint makes protection of intellectual property one of the criteria for evaluating local government officials' performance, creating a greater incentive for compliance.
+
+이 새로운 계획서는 지적 재산 보호를 지방 정부 관료들의 업무수행 평가 기준의 하나로 책정함으로써 법 준수를 위한 더욱 강력한 동기를 마련하게 되었다.
+
+    - criteria: 기준, 표준
+    - incentive: 장려책
+    - compliance: 법 준수
+
+The new blueprint makes protection of intellectual property one of the cr..기준,표준 @ evaluating local government officials' per..업무수행(력), creating a greater in..장려책,동기 @ comp..법 준수.
+
+---
+Under the U.S. program called 'DACA', nearly 800,000 young people have avoided deportation.
+
+미국에서는 '불법체류 청소년 추방유예 제도(DACA)'로 인해, 약 80만에 달하는 젊은이들이 강제추방을 면했다.
+
+Under the U.S. program called 'DACA', nearly 800,000 young people have avoided d..
+
+[동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
+
