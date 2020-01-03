@@ -763,3 +763,23 @@
     그 대신에 현금을 내도 되나요?
     Can I pay cash instead?
 
+## Ep. 1041 (2019. 12. 12 목)
+
+식당
+
+    A: Do you have anything without ..? 
+        (카페인 없는 것 아무거나 있나요?) 
+    A: I .. too much caffeine today.
+        (오늘 너무 많은 카페인을 섭취해서요.) 
+    B: This .. is completely caffeine-free.  
+        (이 스무디는 완전 카페인이 없어요.)
+    B: You can .. whipped cream, too. 
+    (휘핑크림도 추가하셔도 되고요.) 
+
+    caffeine
+    had
+    smoothie
+    add
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
