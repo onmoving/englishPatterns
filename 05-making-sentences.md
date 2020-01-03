@@ -657,3 +657,21 @@ Conversation up
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
+## Ep. 1093 (2019. 12. 12 목)
+
+    무엇 + break up
+
+    < 한국어로 말하는 상황극 > *말 자막
+    A: 여보세요? 여보세요? 
+    B: 제가 지금 엘리베이터라, 전화가 끊겨서 들릴 수 있어요.
+    A: 알았어요, 다시 전화 줄래요? 
+    B: 잠깐만요. 금방 내려요. 
+
+    <Conversation up>
+    A: Hello? Hello? 
+    B: I'm in an elevator, so the call might break up. 
+    A: Okay, can you call me back? 
+    B: Hang on. I'll be out in a minute. 
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
