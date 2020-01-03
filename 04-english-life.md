@@ -917,3 +917,7 @@ It's on the tip of my tongue.
 
 [동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
 
+## Ep. 781 (2019. 12. 12 목)
+
+[동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
+
