@@ -345,3 +345,15 @@ Actor Robert De Niro has found himself in a real-life court drama,/ trad.. lawsu
 
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
+## Ep. 1093 (2019. 12. 12 목)
+
+The White House said the two sides made some progress on thornier issues/ such as Beijing's lax protection of foreign intellectual property.
+
+    곤란한, 골치 아픈 thorny 
+
+백악관은 외국 지적재산에 대한 중국의 느슨한 보호 등 보다 곤란한 사안에 대해서도 양측이 일부 진전을 보였다고 말했습니다.
+
+The White House said the two sides made some progress @ thor..곤란한 issues/ such as Beijing's l..느슨한 protection of foreign intellectual property.
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
