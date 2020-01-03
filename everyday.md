@@ -29,6 +29,22 @@
 # 영자신문 (02-newspaper)
 ## Ep. 1307 (2019. 12. 13 금)
 
+Voluntary job training is the reason the Chinese government has given for detaining more than a million ethnic minorities, most of them Muslims.
+
+    - voluntary: 자발적인 
+    - ethnic: 민족의
+
+자발적 직업 훈련이야 말로 중국 정부가 100만 이상의 소수민족 수감의 이유로 제시해 왔던 부분이었다. 수감자의 대부분은 이슬람이다.
+
+Voluntary job training is the reason the Chinese government has given @ det..억류,수감하다 more than a million ethnic minorities, most of them Muslims.
+
+---
+China's detention camps are cloaked in a shroud of secrecy
+
+중국의 강제 수용소는 비밀의 장막에 가려져 있다.
+
+China's ... are cl.. in a sh..측판,싸는 것 of secrecy
+
 [동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
 
 # 영어뉴스 (03-ebse-news)
