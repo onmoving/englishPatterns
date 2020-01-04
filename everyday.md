@@ -64,26 +64,79 @@ B: Of course. I'll call back at this number.
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
 # 왕초보 영어 (01-beginner-english)
-## Ep. 1043 (2019. 12. 16 월)
+## Ep. 1043~1052 생략
+## Ep. 1053 (2019. 12. 30 월)
+가정
+
+A: What's your .. ..'s resolution?  
+
+(너의 새해 다짐은 뭐니?)
+
+B: I want to .. at least 10kg.  
+
+(적어도 10kg을 빼고 싶어.) 
+
+A: I'm going to .. English.  
+
+(난 영어를 마스터할 거야.) 
+
+B: I can .. you with that.  
+
+(내가 그거에 대해 도와줄 수 있지.)   
+
+    New Year
+    lose
+    master
+    help
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
 # 영자신문 (02-newspaper)
-## Ep. 1308 (2019. 12. 16 월)
+## Ep. 1308~1317 생략
+## Ep. 1318 (2019. 12. 30 월)
 
 [동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
 
 # 영어뉴스 (03-ebse-news)
-## Ep. 1095 (2019. 12. 16 월)
+## Ep. 1095~1104 생략
+## Ep. 1105 (2019. 12. 30 월)
 
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
 # 생활영어 (04-english-life)
-## Ep. 783 (2019. 12. 16 월)
+## Ep. 783~792 생략
+## Ep. 793 (2019. 12. 30 월)
 
 [동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
 
 # 어순 트레이닝 (05-making-sentences)
-## Ep. 1095 (2019. 12. 16 월)
+## Ep. 1095~1104 생략
+## Ep. 1105 (2019. 12. 30 월)
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
+
+# 왕초보 영어 (01-beginner-english)
+## Ep. 1054 (2019. 12. 31 화)
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
+# 영자신문 (02-newspaper)
+## Ep. 1319 (2019. 12. 31 화)
+
+[동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
+
+# 영어뉴스 (03-ebse-news)
+## Ep. 1106 (2019. 12. 31 화)
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
+# 생활영어 (04-english-life)
+## Ep. 794 (2019. 12. 31 화)
+
+[동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
+
+# 어순 트레이닝 (05-making-sentences)
+## Ep. 1106 (2019. 12. 31 화)
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
