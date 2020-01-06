@@ -860,3 +860,70 @@ What did you have yesterday?
 당신은 무엇을 드시기를 원하나요?
 
 What would you like to eat?
+
+# Unit 38. 인터뷰 (3) Who
+
+    누구 who
+    먼저 하다 go first
+    초대하다 invite
+    참석하다 attend
+
+누가 먼저 하나요?
+
+Who should go first?
+
+누가 당신을 초대했나요?
+
+Who invited you?
+
+누가 이번에 참석할 것인가요?
+
+Who will be attending this time?
+
+그는 누구인가요?
+
+Who is he?
+
+# Unit 39. 인터뷰 (4) How
+
+    어떻게 how
+    느끼다 feel
+    철자를 쓰다 spell
+    만들다  make
+    알다 know
+
+당신은 상태가 어떻습니까?
+
+How do you feel?
+
+당신은 어떻게 그것의 철자를 쓰나요?
+
+How do you spell it?
+
+당신은 어떻게 그것을 만드나요?
+
+How do you make it?
+
+당신은 어떻게 알았나요?
+
+How did you know?
+
+# Unit 40. 인터뷰 (5) Why
+
+    왜 why
+    늦은 late
+    결정하다 decide
+    이사하다 move
+
+당신은 왜 늦었나요?
+
+Why were you late?
+
+당신은 왜 한국으로 이사를 결정했나요?
+
+Why did you decide to move to Korea?
+
+당신은 왜 한국을 좋아하나요?
+
+Why do you love Korea?
+
