@@ -921,3 +921,32 @@ It's on the tip of my tongue.
 
 [동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
 
+## Ep. 782 (2019. 12. 13 금)
+
+I grew up believing that elderly people must be magically gifted to remember details from over 30, 40 years ago 
+or to take a trip down memory lane back to their childhood just like that. 
+
+저는 어렸을 때, 나이가 많은 사람들은 30~40년 전의 세부 사항들을 기억할 수 있는 마법 같은 재능이 있다고 믿었어요. 
+아니면 아주 쉽게 어린 시절의 기억을 떠올릴 수 있다고 말이에요. 
+
+I grew up believing that elderly people must be magically gifted @ remember details @ over 30, 40 years ago or @ take a trip @ memory lane back @ their childhood just like that. 
+
+---
+    just like that
+    손쉽게, 갑자기
+
+1. How do you get up just like that?
+
+어떻게 그렇게 딱 일어날 수 있어요? 
+
+2. She can make friends just like that.
+
+그녀는 어렵지 않게 친구들을 사귀어요. 
+
+---
+I know the area like the back of my hand.
+
+저는 그 동네를 훤히 잘 알고 있어요.
+
+[동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
+
