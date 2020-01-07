@@ -927,3 +927,56 @@ Why did you decide to move to Korea?
 
 Why do you love Korea?
 
+# Unit 41. 감사편지 (1) Thank you for ~
+
+    돌보다 take care of
+    파티에 오다 come to the party
+    함께 나누다 share
+    ~에 초대하다 invite to ~
+
+저를 돌봐주셔서 감사합니다.
+
+Thank you for taking care of me.
+
+저의 생일파티에 와 주셔서 감사합니다.
+
+Thank you for coming to my birthday party.
+
+당신의 이야기를 함께 나누어줘서 감사합니다.
+
+Thank you for sharing your story.
+
+저를 당신의 학교에 초대해주어 감사합니다.
+
+Thank you for inviting me to your school.
+
+# Unit 42. 감사편지 (2) because
+
+    아픈 sick
+    돌보다 look after
+    기쁜 glad
+
+내가 아팠기 때문에 엄마가 나를 돌봐주셨어요.
+
+My mom looked after me because I was sick.
+
+친구들이 나의 생일파티에 와 주었기 때문에 나는 기뻤어요.
+
+I was glad because my friends came to my birthday party.
+
+# Unit 43. 감사편지 (3) before
+
+    ~전에 before
+    잠자리에 들다 go to bed
+    잠자리에 들었다 went to bed
+    잊어버리다 forget
+    잊어버렸다 forgot
+    가방에 넣다 put in my backpack
+
+나는 잠자리에 들기전에 숙제를 했어요.
+
+I did my homework before I went to bed.
+
+나는 학교에 가기 전에 가방에 숙제를 넣는 것을 잊어버렸어요.
+
+I forgot to put my homework in my backpack before I went to school.
