@@ -810,3 +810,30 @@
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
+## Ep. 1043~1052 생략
+## Ep. 1053 (2019. 12. 30 월)
+가정
+
+A: What's your .. ..'s resolution?  
+
+(너의 새해 다짐은 뭐니?)
+
+B: I want to .. at least 10kg.  
+
+(적어도 10kg을 빼고 싶어.) 
+
+A: I'm going to .. English.  
+
+(난 영어를 마스터할 거야.) 
+
+B: I can .. you with that.  
+
+(내가 그거에 대해 도와줄 수 있지.)   
+
+    New Year
+    lose
+    master
+    help
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
