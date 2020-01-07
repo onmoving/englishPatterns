@@ -675,3 +675,24 @@ Conversation up
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
+## Ep. 1094 (2019. 12. 13 금)
+
+A: 환불 후에 입금이 안 됐네요.  
+
+B: 죄송합니다. 저희 서버가 연결이 끊겨서, 확인이 안 되네요. 
+
+A: 알았어요. 전화 다시 주실래요?  
+
+B: 물론입니다. 이 번호로 전화 드리겠습니다. 
+
+---
+A: I haven't got my money back after a refund. 
+
+B: I'm sorry, our server got cut off, so I can't check now. 
+
+A: Okay. Can you call me back? 
+
+B: Of course. I'll call back at this number.
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
