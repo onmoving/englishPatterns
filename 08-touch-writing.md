@@ -815,6 +815,8 @@ What kinds of clothes will I wear?
 
 What kinds of items will I donate?
 
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
 # Unit 36. 인터뷰 (1) When
 
     언제 when
@@ -837,6 +839,8 @@ When did you move here?
 당신의 생일은 언제인가요?
 
 When is your birthday?
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 37. 인터뷰 (2) What
 
@@ -861,6 +865,8 @@ What did you have yesterday?
 
 What would you like to eat?
 
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
 # Unit 38. 인터뷰 (3) Who
 
     누구 who
@@ -883,6 +889,8 @@ Who will be attending this time?
 그는 누구인가요?
 
 Who is he?
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 39. 인터뷰 (4) How
 
@@ -908,6 +916,8 @@ How do you make it?
 
 How did you know?
 
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
 # Unit 40. 인터뷰 (5) Why
 
     왜 why
@@ -926,6 +936,8 @@ Why did you decide to move to Korea?
 당신은 왜 한국을 좋아하나요?
 
 Why do you love Korea?
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 41. 감사편지 (1) Thank you for ~
 
@@ -950,6 +962,8 @@ Thank you for sharing your story.
 
 Thank you for inviting me to your school.
 
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
 # Unit 42. 감사편지 (2) because
 
     아픈 sick
@@ -963,6 +977,8 @@ My mom looked after me because I was sick.
 친구들이 나의 생일파티에 와 주었기 때문에 나는 기뻤어요.
 
 I was glad because my friends came to my birthday party.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
 
 # Unit 43. 감사편지 (3) before
 
@@ -980,3 +996,5 @@ I did my homework before I went to bed.
 나는 학교에 가기 전에 가방에 숙제를 넣는 것을 잊어버렸어요.
 
 I forgot to put my homework in my backpack before I went to school.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
