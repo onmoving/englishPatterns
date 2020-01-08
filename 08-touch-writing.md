@@ -998,3 +998,78 @@ I did my homework before I went to bed.
 I forgot to put my homework in my backpack before I went to school.
 
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 44. 감사편지 (4) after
+
+    ~후에 after
+    출발하다 leave
+    출발했다 left
+    가져오다 bring
+    가져왔다 brought
+    제출하다 hand in
+    제출했다 handed in
+
+내가 집에서 출발한 후에 내 여동생이 나의 숙제를 가져다줬어요.
+
+My sister brought me my homework after I left home.
+
+첫째 시간 후에 나는 숙제를 제출했어요.
+
+I handed in my homework after the first class.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 45. 기행문 (1) I enjoyed ~
+
+    ~로 여행을 가다 go on a trip to
+    제안하다 suggest
+    고려하다 consider
+    상상하다 imagine
+    즐기다 enjoy
+
+아빠가 제주도로 여행을 가자고 제안하셨어요.
+
+My dad suggested going on a trip to Jeju Island.
+
+엄마가 제주도로 여행가는 것을 고려하셨어요.
+
+My mom considered going on a trip to Jeju Island.
+
+나는 제주도로 여행가는 것을 상상했어요.
+
+I imagined going on a trip to Jeju Island.
+
+남동생이 제주도록 여행가는 것을 즐겼어요.
+
+My brother enjoyed going on a trip to Jeju Island.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 46. 기행문 (2) I bought~
+
+    운전하다 drive > drove
+    팔다 sell > sold
+    시작하다 begin > began
+    사다 buy > bought
+
+엄마가 시장까지 운전하셨어요.
+
+My mom drove to the market.
+
+많은 사람들이 다른 물건을 팔았어요.
+
+Many people sold different items.
+
+우리는 기념품을 찾기 시작했어요.
+
+We began to search for some souvenirs.
+
+그는 친구들을 위해 연필을 구입했어요.
+
+He bought pencils for his friends.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 47. 기행문 (3) I saw~
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
