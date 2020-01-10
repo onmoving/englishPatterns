@@ -1072,4 +1072,70 @@ He bought pencils for his friends.
 
 # Unit 47. 기행문 (3) I saw~
 
+    느끼다 feel > felt
+    보다 see > saw
+    보다 watch > watched
+    듣다 hear > heard
+
+나는 배가 흔들리는 것을 느꼈어요.
+
+I felt the boat shaking.
+
+우리는 해가 떠오르는 것을 보았어요.
+
+We saw the sun rising.
+
+엄마는 내가 길을 걸어가는 것을 보았어요.
+
+My mom watched me walking down the street.
+
+나는 엄마가 나를 부르는 것을 들었어요.
+
+I heard my mom calling me.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 48. 기행문 (4) We tried~
+
+    관광명소 tourist attraction
+    사진을 찍다 take a picture
+    잊지 못할 추억 unforgettable memory
+
+나의 가족은 많은 관광 명소를 방문하려고 노력했어요.
+
+My family tried to visit many tourist attractions.
+
+나의 아빠는 많은 사진을 찍어 주셨어요.
+
+My dad took lots of pictures.
+
+그 여행은 나에게 잊을 수 없는 추억을 남겼다.
+
+The trip left me with unforgettable memories.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 49. 논설문 (1) serious issue
+
+    심각한 문제 serious issue
+    불균형한 식단 unbalanced diet
+    환경을 오염시키다 pollute the environment
+    컴퓨터게임을 하다 play computer games
+
+TV를 너무 많이 보는 것은 심각한 문제이다.
+
+Watching too much TV is a serious issue.
+
+불균형한 식단을 갖는 것은 심각한 문제이다.
+
+Having an unbalanced diet is a serious issue.
+
+환경을 오염시키는 것은 심각한 문제이다.
+
+Polluting the environment is a serious issue.
+
+컴퓨터게임을 너무 많이 하는 것은 심각한 문제이다.
+
+Playing too many computer games is a serious issue.
+
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
