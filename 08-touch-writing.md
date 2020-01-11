@@ -1139,3 +1139,73 @@ Polluting the environment is a serious issue.
 Playing too many computer games is a serious issue.
 
 [동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 50. 논설문 (2) for example
+
+    늦게까지 깨어있다 stay up late
+    싫어하다 dislike
+    쓰레기를 버리다 throw away garbage
+    ~에 (시간,돈을) 쓰다 spend on
+
+예를 들어 어떤 어린이들은 TV를 보느라 늦게까지 깨어있다.
+
+For example, some children stay up late watching TV.
+
+예를 들어 어떤 어린이들은 채소를 싫어한다.
+
+For example, some children dislike vegetables.
+
+예를 들어 어떤 어린이들은 쓰레기를 함부로 버린다.
+
+For example, some children throw away gargabe thoughtlessly.
+
+예를 들어 어떤 어린이들은 컴퓨터게임에 너무 많이 시간을 보낸다.
+
+For example, some children spend too much time on computer games.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 51. 논설문 (3) It can cause~
+
+    건강상의 문제 health problem
+    영양의 문제 nutritional problem
+    환경의 문제 environmental problem
+    부작용 side effect
+
+그것은 건강상의 문제를 불러일으킬 수 있다.
+
+It can cause health problems.
+
+그것은 영양의 문제를 불러일으킬 수 있다.
+
+It can cause nuritional problems.
+
+그것은 환경의 문제를 불러일으킬 수 있다.
+
+It can cause environmental problems.
+
+그것은 부작용을 불러일으킬 수 있다.
+
+It can cause side effects.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
+
+# Unit 52. 논설문 (4) Therefore, I think~
+
+환경을 보존하다 save the environment
+좋은 습관을 갖다 have good habits
+균형잡힌 식사를 하다 have a balanced diet
+
+그러므로 저는 우리가 환경을 보존해야 한다고 생각합니다.
+
+Therefore, I think we should save the environment.
+
+그러므로 저는 우리가 좋은 습관을 길러야 한다고 생각합니다.
+
+Therefore, I think we should have good habits.
+
+그러므로 저는 우리가 균형잡힌 식사를 해야 한다고 생각합니다.
+
+Therefore, I think we should have a balanced diet.
+
+[동영상](http://home.ebse.co.kr/touch_write/replay/3/list?courseId=ER2016P0WRI01ZZ&stepId=ET2016P0WRI0101)
