@@ -369,3 +369,17 @@ At this restaurant,/ another Michelin-starred chef ... 소박학 프라이에 �
 
 [동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
 
+## Ep. 1095~1104 생략
+## Ep. 1105 (2019. 12. 30 월)
+
+The president added that no US personnel were lost in the mission,/ and that al-Baghdadi's demise/ demonstrated Washington's commitment/ to the total defeat of IS and other terrorist organizations. The announcement came/ as Trump was on the receiving end of widespread criticism/ following the pullback of US troops from northeastern Syria.
+
+    사망, 종말 demise 
+    (비난, 공격의) 대상이 되어 on the receiving end of ~
+
+대통령은 이번 작전에서 미군 인명 피해는 없었으며, 알바그다디의 사망은 IS 및 다른 테러조직을 완전히 파괴하겠다는 미국의 의지를 증명한다고 말했습니다. 발표는 시리아 동북지역에서 미군 철수 뒤 트럼프가 광범위한 비난의 대상이 된 후 나왔습니다. 
+
+The president added that no US perso..인명 were lost in the mission,/ and that al-Baghdadi's dem.. 사망/ demonstrated Washington's com..의지,책무/ @ the total defeat of IS and other terrorist organizations. The announcement came/ @~할때 Trump was ... (비난, 공격의) 대상이 되다 widespread criticism/ following the pull.. 철수,후퇴 of US troops from northeastern Syria.
+
+[동영상](http://home.ebse.co.kr/ebsenews/replay/3/list?courseId=ER2016G0NEW01ZZ&stepId=ET2016G0NEW0101)
+
