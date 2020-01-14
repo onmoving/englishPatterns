@@ -950,3 +950,8 @@ I know the area like the back of my hand.
 
 [동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
 
+## Ep. 783~792 생략
+## Ep. 793 (2019. 12. 30 월)
+
+[동영상](http://home.ebse.co.kr/englishlife/replay/3/list?courseId=ER2017H0ENG01ZZ&stepId=ET2017H0ENG0101)
+
