@@ -696,3 +696,28 @@ B: Of course. I'll call back at this number.
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
+## Ep. 1095~1104 생략
+## Ep. 1105 (2019. 12. 30 월)
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
+## Ep. 1106 (2019. 12. 31 화)
+
+A: 길모퉁이에서 우회전한 다음에 네 블록을 쭉 직진해요.
+
+B: 나 무슨 말인지 하나도 이해가 안 돼요. 
+
+A: 알았어요. 도착할 때까지 전화 끊지 말아요. 
+
+B: 고마워요. 저 지금 막 모퉁이에 왔어요. 
+ 
+A: Make a turn at the corner, then go straight four blocks. 
+
+B: I'm sorry, I'm not following you at all.  
+
+A: Alright, don't hang up the phone until you get there.
+
+B: Thank you. I'm just around the corner. 
+
+[동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
+
