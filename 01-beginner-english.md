@@ -837,3 +837,30 @@ B: I can .. you with that.
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
+## Ep. 1054 (2019. 12. 31 화)
+
+일상
+
+A: We would like to thank all of our ... 
+
+(모든 시청자 분들께 감사드리고 싶어요.) 
+
+B: It's been a .. year with you all. 
+
+(여러분 모두와 사랑스러운 한 해였어요.) 
+
+A: Happy New Year, ..! 
+
+(모두 행복한 새해 되세요!) 
+
+B: I .. forgot. Stay tuned! 
+
+(잊을 뻔했네요. 채널 고정!)
+
+    viewers
+    lovely
+    everyone
+    almost
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
+
