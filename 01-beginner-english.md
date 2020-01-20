@@ -872,3 +872,6 @@ B: I .. forgot. Stay tuned!
 
 [동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)
 
+## Ep. 1057 (2020. 1. 3 금)
+
+[동영상](http://home.ebse.co.kr/beginnerenglish/replay/3/list?courseId=ER2016G0BEG01ZZ&stepId=ET2016G0BEG0101)

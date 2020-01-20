@@ -729,3 +729,4 @@ B: Thank you. I'm just around the corner.
 
 [동영상](http://home.ebse.co.kr/10mins_mason/replay/3/list?courseId=ER2015G0MAY01ZZ&stepId=ET2015G0MAY0101)
 
+## Ep. 1109 (2020. 1. 3 금)

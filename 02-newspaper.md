@@ -606,3 +606,4 @@ A g.. number of companies ... a four-day work.. to ent.. workers seeking a bette
 
 [동영상](http://home.ebse.co.kr/engnewspaper/replay/3/list?courseId=ER2012M0ENR01ZZ&stepId=ET2012M0ENR0101)
 
+## Ep. 1322 (2020. 1. 3 금)
